@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "85366900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Plugs and sockets, for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 6705282,
+    "quantity": 505284,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131990",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Articles of jewellery and parts thereof, of precious metal (other tha silver or gold), whether or not plated or clad with precious metal.",
+    "exports_usd": 1590949,
+    "quantity": 21,
+    "affected": "affected"
+  },
+  {
+    "hs": "49070020",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Bank and currency notes.",
+    "exports_usd": 1214535,
+    "quantity": 10687,
+    "affected": "affected"
+  },
+  {
+    "hs": "22089000",
+    "sitc": "1",
+    "country": "KN",
+    "description": "Other undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol",
+    "exports_usd": 458202,
+    "quantity": 136896,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061110",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Live monkeys.",
+    "exports_usd": 340500,
+    "quantity": 1055,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046990",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Women’s or girls’ bib and brace overalls and breeches, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 297896,
+    "quantity": 3581,
+    "affected": "affected"
+  },
+  {
+    "hs": "85452000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Carbon brushes.",
+    "exports_usd": 289333,
+    "quantity": 9527,
+    "affected": "affected"
+  },
+  {
+    "hs": "49070090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Stamp-impressed paper; stock, share or bond certificates and similar documents of title.",
+    "exports_usd": 269939,
+    "quantity": 1501,
+    "affected": "affected"
+  },
+  {
+    "hs": "85043100",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Transformers (other than liquid dielectric transformers), having a power handling capacity not exceeding 1 kVA.",
+    "exports_usd": 241450,
+    "quantity": 18195,
+    "affected": "affected"
+  },
+  {
+    "hs": "85182900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Loudspeakers, not mounted in their enclosures.",
+    "exports_usd": 214988,
+    "quantity": 5982,
+    "affected": "affected"
+  },
+  {
+    "hs": "85369000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, surge suppressors, junction boxes), for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 136290,
+    "quantity": 9530,
+    "affected": "affected"
+  },
+  {
+    "hs": "85198900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other sound recording or reproducing apparatus, not using magnetic, optical or semiconductor media.",
+    "exports_usd": 80000,
+    "quantity": 257,
+    "affected": "affected"
+  },
+  {
+    "hs": "69120090",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other ceramic household articles and toilet articles, other than of porcelain or china.",
+    "exports_usd": 75000,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "39269090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other articles of plastics, not elsewhere specified or included.",
+    "exports_usd": 67277,
+    "quantity": 3278,
+    "affected": "affected"
+  },
+  {
+    "hs": "22060090",
+    "sitc": "1",
+    "country": "KN",
+    "description": "Other fermented beverages (for example, cider, perry, mead); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included.",
+    "exports_usd": 63940,
+    "quantity": 20186,
+    "affected": "affected"
+  },
+  {
+    "hs": "85441900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Insulated winding wire, other than of copper.",
+    "exports_usd": 56369,
+    "quantity": 2566,
+    "affected": "affected"
+  },
+  {
+    "hs": "73084000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Equipment for scaffolding, shuttering, propping or pit-propping, of iron or steel.",
+    "exports_usd": 52986,
+    "quantity": 11364,
+    "affected": "affected"
+  },
+  {
+    "hs": "90319000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Parts and accessories of measuring and checking instruments, appliances and machines not elsewhere specified or included.",
+    "exports_usd": 50142,
+    "quantity": 194,
+    "affected": "affected"
+  },
+  {
+    "hs": "85372000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36 (SITC 772.4 or 772.5), for electric control or the distribution of electricity, including those incorporating instruments or apparatus",
+    "exports_usd": 50052,
+    "quantity": 4068,
+    "affected": "affected"
+  },
+  {
+    "hs": "71132000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Articles of jewellery and parts thereof, base metal clad with precious metal.",
+    "exports_usd": 48909,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "73110000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Containers for compressed or liquefied gas, of iron or steel.",
+    "exports_usd": 47200,
+    "quantity": 22553,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089990",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other parts and accessories for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 37389,
+    "quantity": 1532,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061910",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Live dogs",
+    "exports_usd": 35680,
+    "quantity": 2003,
+    "affected": "affected"
+  },
+  {
+    "hs": "85023900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other generating sets, not elsewhere specified or included.",
+    "exports_usd": 35000,
+    "quantity": 100,
+    "affected": "affected"
+  },
+  {
+    "hs": "96035000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other brushes constituting parts of machines, appliances or vehicles.",
+    "exports_usd": 29157,
+    "quantity": 977,
+    "affected": "affected"
+  },
+  {
+    "hs": "85365000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other switches, for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 22596,
+    "quantity": 1423,
+    "affected": "affected"
+  },
+  {
+    "hs": "89039900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other non-inflatable yachts, rowing boats, canoes and vessels for pleasure or sports.",
+    "exports_usd": 14815,
+    "quantity": 6500,
+    "affected": "affected"
+  },
+  {
+    "hs": "39249090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other household articles and hygienic or toilet articles, of plastics.",
+    "exports_usd": 14241,
+    "quantity": 16987,
+    "affected": "affected"
+  },
+  {
+    "hs": "85371000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36 (SITC 772.4 or 772.5), for electric control or the distribution of electricity, including those incorporating instruments or apparatus",
+    "exports_usd": 13976,
+    "quantity": 969,
+    "affected": "affected"
+  },
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 13890,
+    "quantity": 94,
+    "affected": "affected"
+  },
+  {
+    "hs": "84714100",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other automatic data processing machines, comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined.",
+    "exports_usd": 12468,
+    "quantity": 37,
+    "affected": "affected"
+  },
+  {
+    "hs": "90041000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Sunglasses.",
+    "exports_usd": 10345,
+    "quantity": 175,
+    "affected": "affected"
+  },
+  {
+    "hs": "85119000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts of equipment for electrical ignition or of other starting equipment used with spark-ignition or compression-ignition internal combustion engines.",
+    "exports_usd": 9296,
+    "quantity": 172,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 8065,
+    "quantity": 138913,
+    "affected": "affected"
+  },
+  {
+    "hs": "73090010",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Petrol, oil and gas tanks (other than those for liquified or compressed gas), of iron or steel, of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.",
+    "exports_usd": 7000,
+    "quantity": 752,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032340",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 1800cc but not exceeding 2000cc.",
+    "exports_usd": 6296,
+    "quantity": 1588,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032490",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 3000cc, other than those completely knocked down for assembly in plants approved for the purpose by the  Competent Authority.",
+    "exports_usd": 6000,
+    "quantity": 1583,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other apparatus for transmission or reception of voice, images or other data, not elsewhere specified or included.",
+    "exports_usd": 5910,
+    "quantity": 269,
+    "affected": "affected"
+  },
+  {
+    "hs": "84138100",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other pumps for liquids, not elsewhere specified or included.",
+    "exports_usd": 5378,
+    "quantity": 80,
+    "affected": "affected"
+  },
+  {
+    "hs": "85044000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Static converters (for example rectifiers).",
+    "exports_usd": 5199,
+    "quantity": 1945,
+    "affected": "affected"
+  },
+  {
+    "hs": "90181300",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Magnetic resonance imaging apparatus.",
+    "exports_usd": 4966,
+    "quantity": 146,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084090",
+    "sitc": "1",
+    "country": "KN",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, other than in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 4640,
+    "quantity": 1916,
+    "affected": "affected"
+  },
+  {
+    "hs": "84148000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other air pumps; other air or other gas compressors and fans; other ventilating or recycling hoods incorporating a fan, whether or not fitted with filters.",
+    "exports_usd": 4637,
+    "quantity": 1878,
+    "affected": "affected"
+  },
+  {
+    "hs": "73239900",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other table, kitchen or other household articles, of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 4521,
+    "quantity": 884,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055900",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other hand tools (including glaziers’ diamonds), not elsewhere specified or included.",
+    "exports_usd": 4341,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 4182,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099910",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines) for road motor vehicles.",
+    "exports_usd": 3500,
+    "quantity": 312,
+    "affected": "affected"
+  },
+  {
+    "hs": "05119990",
+    "sitc": "2",
+    "country": "KN",
+    "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 (excl. Human remains), unfit for human consumption.",
+    "exports_usd": 3252,
+    "quantity": 84,
+    "affected": "affected"
+  },
+  {
+    "hs": "84719000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Data-processing equipment, not elsewhere specified or included.",
+    "exports_usd": 3160,
+    "quantity": 18,
+    "affected": "affected"
+  },
+  {
+    "hs": "76109090",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, balustrades, pillars and columns), of aluminium; aluminium plates, rods, profiles, tubes and the like, prepared for use in structures.",
+    "exports_usd": 3000,
+    "quantity": 3750,
+    "affected": "affected"
+  },
+  {
+    "hs": "85030000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts suitable for use solely or principally with electric motors, generators, generating sets and rotary converters (HS 85.01, 85.02).",
+    "exports_usd": 2999,
+    "quantity": 412,
+    "affected": "affected"
+  },
+  {
+    "hs": "05119910",
+    "sitc": "2",
+    "country": "KN",
+    "description": "Human remains",
+    "exports_usd": 2755,
+    "quantity": 376,
+    "affected": "affected"
+  },
+  {
+    "hs": "28043000",
+    "sitc": "5",
+    "country": "KN",
+    "description": "Nitrogen.",
+    "exports_usd": 2400,
+    "quantity": 871,
+    "affected": "affected"
+  },
+  {
+    "hs": "84133000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Fuel, lubricating or cooling medium pumps for internal combustion piston engines.",
+    "exports_usd": 2355,
+    "quantity": 118,
+    "affected": "affected"
+  },
+  {
+    "hs": "84128000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other engines and motors, not elsewhere specified or included.",
+    "exports_usd": 2114,
+    "quantity": 784,
+    "affected": "affected"
+  },
+  {
+    "hs": "84821000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Ball bearings.",
+    "exports_usd": 2085,
+    "quantity": 125,
+    "affected": "affected"
+  },
+  {
+    "hs": "90189000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other instruments and appliances used in medical, surgical or veterinary sciences.",
+    "exports_usd": 2001,
+    "quantity": 39,
+    "affected": "affected"
+  },
+  {
+    "hs": "84431900",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 (SITC 726.3).",
+    "exports_usd": 2000,
+    "quantity": 600,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032320",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 1,500 cc but not exceeding 1599cc.",
+    "exports_usd": 2000,
+    "quantity": 2988,
+    "affected": "affected"
+  },
+  {
+    "hs": "71129900",
+    "sitc": "2",
+    "country": "KN",
+    "description": "Waste and scrap (other than ash) of precious metal or of metal clad with precious metal, other than gold or platinum; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious meta",
+    "exports_usd": 1852,
+    "quantity": 8773,
+    "affected": "affected"
+  },
+  {
+    "hs": "94036090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Wooden furniture, other than of a kind used in offices, kitchens, bedrooms, schools, churches and laboratories.",
+    "exports_usd": 1481,
+    "quantity": 363,
+    "affected": "affected"
+  },
+  {
+    "hs": "49059900",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps and topographical plans, printed, not in book form.",
+    "exports_usd": 1399,
+    "quantity": 141,
+    "affected": "affected"
+  },
+  {
+    "hs": "39261000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Office or school supplies, of plastics.",
+    "exports_usd": 1330,
+    "quantity": 708,
+    "affected": "affected"
+  },
+  {
+    "hs": "28042100",
+    "sitc": "5",
+    "country": "KN",
+    "description": "Argon.",
+    "exports_usd": 1200,
+    "quantity": 435,
+    "affected": "affected"
+  },
+  {
+    "hs": "85114000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Starter motors and dual purpose starter-generators of a kind used for spark-ignition or compression-ignition internal combustion engines.",
+    "exports_usd": 1200,
+    "quantity": 399,
+    "affected": "affected"
+  },
+  {
+    "hs": "82079000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other interchangeable tools for hand tools, whether or not power-operated, or for machine-tools.",
+    "exports_usd": 1150,
+    "quantity": 356,
+    "affected": "affected"
+  },
+  {
+    "hs": "83062900",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Statuettes and other ornaments of base metal, other than those plated with precious metal.",
+    "exports_usd": 1111,
+    "quantity": 300,
+    "affected": "affected"
+  },
+  {
+    "hs": "94035000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Wooden furniture of a kind used in the bedroom.",
+    "exports_usd": 1111,
+    "quantity": 1179,
+    "affected": "affected"
+  },
+  {
+    "hs": "84831020",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Transmission shafts (including cam shafts and crank shafts) and cranks, for marine engines.",
+    "exports_usd": 1082,
+    "quantity": 344,
+    "affected": "affected"
+  },
+  {
+    "hs": "85287200",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Other reception apparatus for television, colour.",
+    "exports_usd": 1069,
+    "quantity": 44,
+    "affected": "affected"
+  },
+  {
+    "hs": "84716000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Input or output units, whether or not containing storage units in the same housing.",
+    "exports_usd": 1031,
+    "quantity": 114,
+    "affected": "affected"
+  },
+  {
+    "hs": "39252000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Doors, windows and their frames and thresholds for doors, of plastics.",
+    "exports_usd": 1000,
+    "quantity": 122,
+    "affected": "affected"
+  },
+  {
+    "hs": "85016100",
+    "sitc": "7",
+    "country": "KN",
+    "description": "AC generators (alternators) of an output not exceeding 75 kVA.",
+    "exports_usd": 996,
+    "quantity": 190,
+    "affected": "affected"
+  },
+  {
+    "hs": "40103900",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other transmission belts or belting, of vulcanised rubber, not elsewhere specified or included.",
+    "exports_usd": 819,
+    "quantity": 139,
+    "affected": "affected"
+  },
+  {
+    "hs": "40094100",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Tubes, pipes and hoses, of vulcanized rubber other than hard rubber, reinforced or otherwise combined with other materials, without their fittings.",
+    "exports_usd": 717,
+    "quantity": 135,
+    "affected": "affected"
+  },
+  {
+    "hs": "90258090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Hydrometers and similar floating instruments, hygrometers and psychrometers, recording or not, and any combination of these instruments.",
+    "exports_usd": 693,
+    "quantity": 257,
+    "affected": "affected"
+  },
+  {
+    "hs": "84733000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts and accessories of automatic data-processing machines or for other machines of heading 84.71 (SITC 752).",
+    "exports_usd": 630,
+    "quantity": 112,
+    "affected": "affected"
+  },
+  {
+    "hs": "40159090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Clothing accessories (other than gloves, mittens and mitts), for all purposes, of vulcanized rubber other than hard rubber.",
+    "exports_usd": 556,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "92071000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Keyboard instruments, other than accordions, the sound of which is produced, or must be amplified, electrically (for example, organs).",
+    "exports_usd": 556,
+    "quantity": 80,
+    "affected": "affected"
+  },
+  {
+    "hs": "44140000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Wooden frames for paintings, photographs, mirrors or similar objects.",
+    "exports_usd": 500,
+    "quantity": 20,
+    "affected": "affected"
+  },
+  {
+    "hs": "83063000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Photograph, picture or similar frames, of base metal; mirrors of base metal.",
+    "exports_usd": 500,
+    "quantity": 175,
+    "affected": "affected"
+  },
+  {
+    "hs": "84072100",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Outboard motors for marine propulsion, with spark-ignition reciprocating or rotary internal combustion piston engines.",
+    "exports_usd": 500,
+    "quantity": 154,
+    "affected": "affected"
+  },
+  {
+    "hs": "84091000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts suitable for use solely or principally with aircraft engines.",
+    "exports_usd": 500,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "95030090",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other toys.",
+    "exports_usd": 475,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "85113000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Distributors; ignition coils of a kind used for spark-ignition or compression-ignition internal combustion engines.",
+    "exports_usd": 471,
+    "quantity": 96,
+    "affected": "affected"
+  },
+  {
+    "hs": "59069900",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Rubberised textile fabrics, other than adhesive tape of a width not exceeding 20 cm or items of heading 59.02 (SITC 657.93), not knitted or crocheted.",
+    "exports_usd": 470,
+    "quantity": 117,
+    "affected": "affected"
+  },
+  {
+    "hs": "95062900",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Water-skis, surf-boards and other water-sport equipment (excl. sailboards).",
+    "exports_usd": 401,
+    "quantity": 26,
+    "affected": "affected"
+  },
+  {
+    "hs": "23099090",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Other preparations of a kind used in animal feeding.",
+    "exports_usd": 400,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "49119100",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Pictures, designs and photographs.",
+    "exports_usd": 400,
+    "quantity": 36,
+    "affected": "affected"
+  },
+  {
+    "hs": "83023000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Other mountings, fittings and similar articles suitable for motor vehicles, of base metal.",
+    "exports_usd": 386,
+    "quantity": 23,
+    "affected": "affected"
+  },
+  {
+    "hs": "84849000",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings.",
+    "exports_usd": 371,
+    "quantity": 35,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022900",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other handbags, whether or not with shoulder strap, including those without handle, not elsewhere specified or included, including those made of vulcanised fibre or of paperboard, or wholly or maily covered with such materials or with paper.",
+    "exports_usd": 370,
+    "quantity": 107,
+    "affected": "affected"
+  },
+  {
+    "hs": "64059000",
+    "sitc": "8",
+    "country": "KN",
+    "description": "Other footwear, not elsewhere specified or included.",
+    "exports_usd": 370,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "83014000",
+    "sitc": "6",
+    "country": "KN",
+    "description": "Locks (other than locks for motor vehicles or furniture), of base metal.",
+    "exports_usd": 367,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "01069000",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Other live animals n.e.s",
+    "exports_usd": 330,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "01062090",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Live reptiles (other than turtles).",
+    "exports_usd": 327,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "01062010",
+    "sitc": "0",
+    "country": "KN",
+    "description": "Live turtles",
+    "exports_usd": 317,
+    "quantity": 9,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 224,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "87120090",
+    "sitc": "7",
+    "country": "KN",
+    "description": "Bicycles and other cycles, not motorized, not for the transport of goods.",
+    "exports_usd": 220,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "38210000",
+    "sitc": "5",
+    "country": "KN",
+    "description": "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells.",
+    "exports_usd": 198,
+    "quantity": 13,
+    "affected": "affected"
+  }
+]

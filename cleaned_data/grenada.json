@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "03023110",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Albacore or long finned tunas, for processing, fresh or chilled.",
+    "exports_usd": 1198837,
+    "quantity": 390895,
+    "affected": "affected"
+  },
+  {
+    "hs": "82041200",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Hand-operated spanners and wrenches, adjustable.",
+    "exports_usd": 690894,
+    "quantity": 136,
+    "affected": "affected"
+  },
+  {
+    "hs": "08109040",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Soursop, fresh.",
+    "exports_usd": 416151,
+    "quantity": 67740,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023210",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Yellowfin tunas, for processing, fresh or chilled.",
+    "exports_usd": 244206,
+    "quantity": 79790,
+    "affected": "affected"
+  },
+  {
+    "hs": "90065900",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other cameras, not elsewhere specified or included.",
+    "exports_usd": 226408,
+    "quantity": 3000,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 123358,
+    "quantity": 685,
+    "affected": "affected"
+  },
+  {
+    "hs": "84609000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Machine-tools for deburring, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, not elsewhere specified or included.",
+    "exports_usd": 108652,
+    "quantity": 838,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 96475,
+    "quantity": 13405,
+    "affected": "affected"
+  },
+  {
+    "hs": "88033000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other parts of aeroplanes or helicopters.",
+    "exports_usd": 89248,
+    "quantity": 552,
+    "affected": "affected"
+  },
+  {
+    "hs": "85441190",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Winding wire (other than enamelled or plastic insulated winding wire), of copper.",
+    "exports_usd": 80501,
+    "quantity": 24999,
+    "affected": "affected"
+  },
+  {
+    "hs": "37069000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track, other than those of a width of 35 mm or more.",
+    "exports_usd": 54338,
+    "quantity": 3000,
+    "affected": "affected"
+  },
+  {
+    "hs": "12122900",
+    "sitc": "2",
+    "country": "GD",
+    "description": "Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, (other than for human consumption).",
+    "exports_usd": 49778,
+    "quantity": 1858,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "GD",
+    "description": "Personal and household effects",
+    "exports_usd": 48501,
+    "quantity": 7157,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030090",
+    "sitc": "5",
+    "country": "GD",
+    "description": "Perfumes and toilet waters, other than bay rum.",
+    "exports_usd": 42504,
+    "quantity": 451,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032490",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 3000cc, other than those completely knocked down for assembly in plants approved for the purpose by the  Competent Authority.",
+    "exports_usd": 38238,
+    "quantity": 1915,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176200",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus.",
+    "exports_usd": 27348,
+    "quantity": 39,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023190",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Albacore or long finned tunas, other than for processing, fresh or chilled.",
+    "exports_usd": 25259,
+    "quantity": 8668,
+    "affected": "affected"
+  },
+  {
+    "hs": "18069000",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Other chocolate and food preparations containing cocoa, nes.",
+    "exports_usd": 24677,
+    "quantity": 665,
+    "affected": "affected"
+  },
+  {
+    "hs": "90278000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other instruments and apparatus for physical or chemical analysis, for measuring or checking viscosity, porosity, expansion, surface tension or the like, for measuring or checking quantities of heat, sound or light.",
+    "exports_usd": 24570,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "84133000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Fuel, lubricating or cooling medium pumps for internal combustion piston engines.",
+    "exports_usd": 23144,
+    "quantity": 935,
+    "affected": "affected"
+  },
+  {
+    "hs": "92060090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Percussion musical instruments, other than steel band (for example, drums, xylophones, cymbals, castanets, maracas).",
+    "exports_usd": 21735,
+    "quantity": 3000,
+    "affected": "affected"
+  },
+  {
+    "hs": "72043000",
+    "sitc": "2",
+    "country": "GD",
+    "description": "Waste and scrap of tinned iron or steel.",
+    "exports_usd": 21408,
+    "quantity": 230500,
+    "affected": "affected"
+  },
+  {
+    "hs": "90189000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other instruments and appliances used in medical, surgical or veterinary sciences.",
+    "exports_usd": 14299,
+    "quantity": 52,
+    "affected": "affected"
+  },
+  {
+    "hs": "08134000",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Fruit (other than apricots, prunes, apples or those of headings 08.01 to 08.06) , dried.",
+    "exports_usd": 12667,
+    "quantity": 4171,
+    "affected": "affected"
+  },
+  {
+    "hs": "90279000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Microtomes; parts and accessories of instruments and apparatus, for physical or chemical analysis, for measuring or checking viscosity, porosity and the like, for measuring or checking quantities of heat, sound or light.",
+    "exports_usd": 12248,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "85286900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Projectors, other than of a kind solely or principally used in an automatic data processing system of heading 84.71 (SITC 752).",
+    "exports_usd": 11575,
+    "quantity": 150,
+    "affected": "affected"
+  },
+  {
+    "hs": "84118100",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other gas turbines, of a power not exceeding 5,000 kW.",
+    "exports_usd": 10412,
+    "quantity": 174,
+    "affected": "affected"
+  },
+  {
+    "hs": "85118000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other ignition or starting equipment used with spark-ignition or compression-ignition internal combustion engines and cuts of a kind used in conjunction with such engines.",
+    "exports_usd": 10208,
+    "quantity": 168,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 9459,
+    "quantity": 18,
+    "affected": "affected"
+  },
+  {
+    "hs": "84224000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other packing or wrapping machinery (including heat-shrink wrapping machinery).",
+    "exports_usd": 9259,
+    "quantity": 181,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 8879,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "39231090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Boxes (other than egg boxes), cases, crates and similar articles, of plastics.",
+    "exports_usd": 7738,
+    "quantity": 250,
+    "affected": "affected"
+  },
+  {
+    "hs": "83040090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than office furniture of heading 94.03 (SITC 821).",
+    "exports_usd": 6764,
+    "quantity": 4608,
+    "affected": "affected"
+  },
+  {
+    "hs": "84431900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 (SITC 726.3).",
+    "exports_usd": 6221,
+    "quantity": 329,
+    "affected": "affected"
+  },
+  {
+    "hs": "85369000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, surge suppressors, junction boxes), for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 6201,
+    "quantity": 97,
+    "affected": "affected"
+  },
+  {
+    "hs": "84193900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Dryers, other than those for agricultural products or for wood, paper pulp, paper or paperboard.",
+    "exports_usd": 6029,
+    "quantity": 100,
+    "affected": "affected"
+  },
+  {
+    "hs": "73110000",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Containers for compressed or liquefied gas, of iron or steel.",
+    "exports_usd": 5736,
+    "quantity": 4345,
+    "affected": "affected"
+  },
+  {
+    "hs": "84139190",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts of other pumps for liquids.",
+    "exports_usd": 5690,
+    "quantity": 71,
+    "affected": "affected"
+  },
+  {
+    "hs": "29012990",
+    "sitc": "5",
+    "country": "GD",
+    "description": "Unsaturated acyclic hydrocarbons, other than ethylene, propene (propylene), butene (butylenes) and isomers thereof, buta-1, 3-diene and isoprene, nonylene (nonene), or acetylene.",
+    "exports_usd": 5663,
+    "quantity": 1936,
+    "affected": "affected"
+  },
+  {
+    "hs": "84604000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Honing or lapping machines.",
+    "exports_usd": 5233,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "73043900",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Other tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron (other than cast iron) or non-alloy steel, other than those cold-drawn or cold-rolled (cold-reduced).",
+    "exports_usd": 5071,
+    "quantity": 175,
+    "affected": "affected"
+  },
+  {
+    "hs": "92079000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other musical instruments, the sound of which is produced, or must be amplified, electrically (for example, guitars, accordions).",
+    "exports_usd": 5029,
+    "quantity": 1200,
+    "affected": "affected"
+  },
+  {
+    "hs": "85044000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Static converters (for example rectifiers).",
+    "exports_usd": 4988,
+    "quantity": 106,
+    "affected": "affected"
+  },
+  {
+    "hs": "89071000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Inflatable rafts.",
+    "exports_usd": 4953,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "85442000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Insulated co-axial cable and other co-axial electric conductors.",
+    "exports_usd": 4772,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "90303300",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other instruments and apparatus for measuring or checking voltage, current, resistance or power, without a recording device.",
+    "exports_usd": 4730,
+    "quantity": 34,
+    "affected": "affected"
+  },
+  {
+    "hs": "73072200",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Threaded elbows, bends and sleeves, of stainless steel.",
+    "exports_usd": 4589,
+    "quantity": 158,
+    "affected": "affected"
+  },
+  {
+    "hs": "88021100",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Helicopters of an unladen weight not exceeding 2,000 kg.",
+    "exports_usd": 4531,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other apparatus for transmission or reception of voice, images or other data, not elsewhere specified or included.",
+    "exports_usd": 4519,
+    "quantity": 33,
+    "affected": "affected"
+  },
+  {
+    "hs": "72041000",
+    "sitc": "2",
+    "country": "GD",
+    "description": "Waste and scrap of cast iron.",
+    "exports_usd": 4304,
+    "quantity": 40070,
+    "affected": "affected"
+  },
+  {
+    "hs": "82076000",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Tools for boring or broaching.",
+    "exports_usd": 4025,
+    "quantity": 31,
+    "affected": "affected"
+  },
+  {
+    "hs": "07109090",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Mixtures of vegetables, not for use in industry (uncooked or cooked by steaming or boiling in water), frozen.",
+    "exports_usd": 3574,
+    "quantity": 1257,
+    "affected": "affected"
+  },
+  {
+    "hs": "84849000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings.",
+    "exports_usd": 3501,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "76130000",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Aluminium containers for compressed or liquefied gas.",
+    "exports_usd": 3381,
+    "quantity": 47,
+    "affected": "affected"
+  },
+  {
+    "hs": "90079200",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Parts and accessories for cinematographic projectors.",
+    "exports_usd": 3170,
+    "quantity": 17,
+    "affected": "affected"
+  },
+  {
+    "hs": "84831090",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Transmission shafts (including cam shafts and crank shafts) and cranks, other than for road motor vehicle engines, marine engines or aircrafts engines.",
+    "exports_usd": 3019,
+    "quantity": 46,
+    "affected": "affected"
+  },
+  {
+    "hs": "90261000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Instruments and apparatus for measuring or checking the flow or level of liquids.",
+    "exports_usd": 3019,
+    "quantity": 31,
+    "affected": "affected"
+  },
+  {
+    "hs": "90268000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other instruments or apparatus for measuring or checking the flow, level or other variables of liquids or gases, excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32 (SITC 873.1, 874.1 and 874.6).",
+    "exports_usd": 3019,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "84419000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts of other machinery for making up paper pulp, paper or paperboard.",
+    "exports_usd": 2963,
+    "quantity": 1090,
+    "affected": "affected"
+  },
+  {
+    "hs": "55122900",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Woven fabrics of synthetic staple fibres, containing 85% or more by weight of acrylic or modacrylic staple fibres, other than unbleached or bleached.",
+    "exports_usd": 2854,
+    "quantity": 21,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111200",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Women’s or girls’ swimwear, not knitted or crocheted.",
+    "exports_usd": 2824,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "84879000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not elsewhere specified or included.",
+    "exports_usd": 2516,
+    "quantity": 36,
+    "affected": "affected"
+  },
+  {
+    "hs": "85437090",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other electrical machines and apparatus, having individual functions, not elsewhere specified or included.",
+    "exports_usd": 2516,
+    "quantity": 28,
+    "affected": "affected"
+  },
+  {
+    "hs": "84714100",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other automatic data processing machines, comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined.",
+    "exports_usd": 2435,
+    "quantity": 13,
+    "affected": "affected"
+  },
+  {
+    "hs": "84238200",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other weighing machinery, having a maximum weighing capacity exceeding 30 kg but not exceeding 5,000 kg.",
+    "exports_usd": 2340,
+    "quantity": 7,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 2314,
+    "quantity": 59,
+    "affected": "affected"
+  },
+  {
+    "hs": "84119900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts of other gas turbines.",
+    "exports_usd": 2264,
+    "quantity": 1450,
+    "affected": "affected"
+  },
+  {
+    "hs": "39269090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other articles of plastics, not elsewhere specified or included.",
+    "exports_usd": 2223,
+    "quantity": 28,
+    "affected": "affected"
+  },
+  {
+    "hs": "84713000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display.",
+    "exports_usd": 2093,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "84081000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines), for marine propulsion.",
+    "exports_usd": 2013,
+    "quantity": 1600,
+    "affected": "affected"
+  },
+  {
+    "hs": "95030090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other toys.",
+    "exports_usd": 2013,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "90318000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other measuring or checking instruments, appliances and machines not elsewhere specified or included.",
+    "exports_usd": 1956,
+    "quantity": 54,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "GD",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 1890,
+    "quantity": 401,
+    "affected": "affected"
+  },
+  {
+    "hs": "06039000",
+    "sitc": "2",
+    "country": "GD",
+    "description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared.",
+    "exports_usd": 1877,
+    "quantity": 511,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109100",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Mixtures referred to in Note 1(b) to this Chapter (spices).",
+    "exports_usd": 1520,
+    "quantity": 116,
+    "affected": "affected"
+  },
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 1509,
+    "quantity": 9,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061910",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Live dogs",
+    "exports_usd": 1509,
+    "quantity": 116,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099910",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines) for road motor vehicles.",
+    "exports_usd": 1449,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069099",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Other food preparations not elsewhere specified or included.",
+    "exports_usd": 1388,
+    "quantity": 428,
+    "affected": "affected"
+  },
+  {
+    "hs": "62114900",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Women’s or girls’ track suits and other garments, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or man-made fibres.",
+    "exports_usd": 1363,
+    "quantity": 29,
+    "affected": "affected"
+  },
+  {
+    "hs": "76020000",
+    "sitc": "2",
+    "country": "GD",
+    "description": "Aluminium waste and scrap.",
+    "exports_usd": 1296,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "87083099",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Brakes, servo-brakes and parts thereof (other than mounted brake lining) for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 1168,
+    "quantity": 80,
+    "affected": "affected"
+  },
+  {
+    "hs": "18063200",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Other chocolate and food preparations containing cocoa, in blocks, slabs or bars, not filled.",
+    "exports_usd": 1087,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "84818000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Taps, cocks and other valves and similar appliances for pipes, boiler shells, tanks, vats or the like.",
+    "exports_usd": 1083,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "87088090",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Suspension systems and parts thereof (including shock-absorbers), for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 1073,
+    "quantity": 10,
+    "affected": "affected"
+  },
+  {
+    "hs": "84149000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Parts, for air or vacuum pumps, for air and other gas compressors and fans, and for ventilating or recycling hoods.",
+    "exports_usd": 1029,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "59032000",
+    "sitc": "6",
+    "country": "GD",
+    "description": "Textile fabrics impregnated, coated, covered or laminated with polyurethane, other than those of heading 59.02 (SITC 657.93).",
+    "exports_usd": 1026,
+    "quantity": 43,
+    "affected": "affected"
+  },
+  {
+    "hs": "85182900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Loudspeakers, not mounted in their enclosures.",
+    "exports_usd": 1024,
+    "quantity": 125,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012990",
+    "sitc": "5",
+    "country": "GD",
+    "description": "Essential oils, other than of citrus fruits, mints, bay, clove, ginger, nutmeg, patchouli or pimento.",
+    "exports_usd": 1019,
+    "quantity": 9,
+    "affected": "affected"
+  },
+  {
+    "hs": "84248900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Mechanical appliances (other than agricultural or horticultural) for projecting, dispersing or spraying liquids or powders.",
+    "exports_usd": 1006,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "84433200",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other printers, copying machines and facsimile machine, capable of connecting to an automatic data processing machine or to a network.",
+    "exports_usd": 1006,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "96072090",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Parts for slide fasteners, other than continuous chain.",
+    "exports_usd": 1006,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "84082000",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for the propulsion of vehicles of Chapter 87 (SITC 78, 722, 744.14, 744.15, and 891.11).",
+    "exports_usd": 906,
+    "quantity": 200,
+    "affected": "affected"
+  },
+  {
+    "hs": "37079000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Chemical preparations (other than sensitising emulsions) for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready",
+    "exports_usd": 831,
+    "quantity": 10,
+    "affected": "affected"
+  },
+  {
+    "hs": "90153000",
+    "sitc": "8",
+    "country": "GD",
+    "description": "Levels.",
+    "exports_usd": 805,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "22087000",
+    "sitc": "1",
+    "country": "GD",
+    "description": "Liqueurs and cordials.",
+    "exports_usd": 758,
+    "quantity": 91,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "GD",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 731,
+    "quantity": 41,
+    "affected": "affected"
+  },
+  {
+    "hs": "08109050",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Breadfruit, fresh.",
+    "exports_usd": 729,
+    "quantity": 366,
+    "affected": "affected"
+  },
+  {
+    "hs": "84238900",
+    "sitc": "7",
+    "country": "GD",
+    "description": "Other weighing machinery, not elsewhere specified or included.",
+    "exports_usd": 722,
+    "quantity": 74,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109920",
+    "sitc": "0",
+    "country": "GD",
+    "description": "Bay leaves.",
+    "exports_usd": 705,
+    "quantity": 10,
+    "affected": "affected"
+  }
+]

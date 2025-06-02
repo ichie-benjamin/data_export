@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 10090209,
+    "quantity": 1226075,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 8340210,
+    "quantity": 850,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084090",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, other than in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 6879143,
+    "quantity": 2042271,
+    "affected": "affected"
+  },
+  {
+    "hs": "19053100",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Sweet biscuits.",
+    "exports_usd": 3021407,
+    "quantity": 758252,
+    "affected": "affected"
+  },
+  {
+    "hs": "91012900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist-watches, with case of precious metal or of metal clad with precious metal, not electrically operated, whether or not incorporating a stop-watch facility, other than those with automatic winding.",
+    "exports_usd": 2352739,
+    "quantity": 277,
+    "affected": "affected"
+  },
+  {
+    "hs": "71023900",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Non-industrial diamonds (other than those unworked or simply sawn, cleaved or bruted), not mounted or set.",
+    "exports_usd": 2191730,
+    "quantity": 16,
+    "affected": "affected"
+  },
+  {
+    "hs": "91022100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist-watches (other than those with case of precious metal or of metal clad with precious metal), not electrically operated, whether or not incorporating a stop-watch facility, with automatic winding.",
+    "exports_usd": 2163970,
+    "quantity": 766,
+    "affected": "affected"
+  },
+  {
+    "hs": "22087000",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Liqueurs and cordials.",
+    "exports_usd": 1769421,
+    "quantity": 492181,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 1710077,
+    "quantity": 522,
+    "affected": "affected"
+  },
+  {
+    "hs": "64059000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other footwear, not elsewhere specified or included.",
+    "exports_usd": 1410012,
+    "quantity": 49011,
+    "affected": "affected"
+  },
+  {
+    "hs": "90071000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Cinematographic cameras.",
+    "exports_usd": 1408578,
+    "quantity": 8012,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023290",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Yellowfin tunas, other than for processing, fresh or chilled.",
+    "exports_usd": 1144688,
+    "quantity": 143057,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030090",
+    "sitc": "5",
+    "country": "BB",
+    "description": "Perfumes and toilet waters, other than bay rum.",
+    "exports_usd": 1109281,
+    "quantity": 43343,
+    "affected": "affected"
+  },
+  {
+    "hs": "22089000",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Other undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol",
+    "exports_usd": 1097570,
+    "quantity": 628209,
+    "affected": "affected"
+  },
+  {
+    "hs": "85258000",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Television cameras, digital cameras and video camera recorders.",
+    "exports_usd": 1025270,
+    "quantity": 427,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 1002977,
+    "quantity": 909,
+    "affected": "affected"
+  },
+  {
+    "hs": "88033000",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Other parts of aeroplanes or helicopters.",
+    "exports_usd": 912948,
+    "quantity": 1966,
+    "affected": "affected"
+  },
+  {
+    "hs": "63063000",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Sails for boats, sailboards or landcraft.",
+    "exports_usd": 887199,
+    "quantity": 7857,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044300",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of synthetic fibres.",
+    "exports_usd": 848117,
+    "quantity": 9311,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131990",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Articles of jewellery and parts thereof, of precious metal (other tha silver or gold), whether or not plated or clad with precious metal.",
+    "exports_usd": 798974,
+    "quantity": 27,
+    "affected": "affected"
+  },
+  {
+    "hs": "61091010",
+    "sitc": "8",
+    "country": "BB",
+    "description": "T-shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 792717,
+    "quantity": 27686,
+    "affected": "affected"
+  },
+  {
+    "hs": "62059000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of textile materials other than cotton or man-made fibres.",
+    "exports_usd": 728937,
+    "quantity": 9970,
+    "affected": "affected"
+  },
+  {
+    "hs": "64041120",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like, with outer soles of rubber or plastics and uppers of textile materials.",
+    "exports_usd": 717537,
+    "quantity": 15250,
+    "affected": "affected"
+  },
+  {
+    "hs": "72044900",
+    "sitc": "2",
+    "country": "BB",
+    "description": "Other ferrous waste and scrap, not elsewhere specified or included.",
+    "exports_usd": 704000,
+    "quantity": 535329,
+    "affected": "affected"
+  },
+  {
+    "hs": "22083010",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Whiskies, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 679834,
+    "quantity": 67378,
+    "affected": "affected"
+  },
+  {
+    "hs": "90303100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Multimeters for measuring or checking voltage, current, resistance or power, without a recording device.",
+    "exports_usd": 613991,
+    "quantity": 1286,
+    "affected": "affected"
+  },
+  {
+    "hs": "84261900",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Overhead travelling cranes (other than those on fixed supports), transporter cranes, gantry cranes, bridge cranes and mobile lifting frames (other than those on tyres).",
+    "exports_usd": 603191,
+    "quantity": 54000,
+    "affected": "affected"
+  },
+  {
+    "hs": "85261000",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Radar apparatus.",
+    "exports_usd": 502500,
+    "quantity": 141,
+    "affected": "affected"
+  },
+  {
+    "hs": "90041000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Sunglasses.",
+    "exports_usd": 487483,
+    "quantity": 3309,
+    "affected": "affected"
+  },
+  {
+    "hs": "64029910",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Sandals and slippers, with outer soles and uppers of rubber or plastics.",
+    "exports_usd": 482272,
+    "quantity": 17430,
+    "affected": "affected"
+  },
+  {
+    "hs": "88052900",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Ground flying trainers (other than air combat simulators) and parts thereof.",
+    "exports_usd": 435269,
+    "quantity": 2235,
+    "affected": "affected"
+  },
+  {
+    "hs": "73110000",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Containers for compressed or liquefied gas, of iron or steel.",
+    "exports_usd": 415177,
+    "quantity": 106336,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Handbags, whether or not with shoulder strap, including those without handle, with outer surface of leather or of composition leather.",
+    "exports_usd": 375171,
+    "quantity": 4194,
+    "affected": "affected"
+  },
+  {
+    "hs": "91012100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist-watches, with case of precious metal or of metal clad with precious metal, not electrically operated, whether or not incorporating a stop-watch facility, with automatic winding.",
+    "exports_usd": 369653,
+    "quantity": 46,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility.",
+    "exports_usd": 364560,
+    "quantity": 596,
+    "affected": "affected"
+  },
+  {
+    "hs": "62069010",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of textile materials other than silk or silk waste, wool, fine animal hair, cotton or man-made fibres.",
+    "exports_usd": 313676,
+    "quantity": 4283,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "BB",
+    "description": "Personal and household effects",
+    "exports_usd": 286215,
+    "quantity": 102581,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111200",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ swimwear, not knitted or crocheted.",
+    "exports_usd": 285036,
+    "quantity": 5565,
+    "affected": "affected"
+  },
+  {
+    "hs": "19059010",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Biscuits, unsweetened.",
+    "exports_usd": 275385,
+    "quantity": 84121,
+    "affected": "affected"
+  },
+  {
+    "hs": "91011100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist-watches, with case of precious metal or of metal clad with precious metal, electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 274230,
+    "quantity": 109,
+    "affected": "affected"
+  },
+  {
+    "hs": "90189000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other instruments and appliances used in medical, surgical or veterinary sciences.",
+    "exports_usd": 247819,
+    "quantity": 2068,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061110",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Live monkeys.",
+    "exports_usd": 235175,
+    "quantity": 1341,
+    "affected": "affected"
+  },
+  {
+    "hs": "71179000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Imitation jewellery of non-precious materials (other than base metal).",
+    "exports_usd": 229827,
+    "quantity": 5619,
+    "affected": "affected"
+  },
+  {
+    "hs": "22082010",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Brandy, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 221626,
+    "quantity": 14658,
+    "affected": "affected"
+  },
+  {
+    "hs": "84159000",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Parts for air conditioning machines.",
+    "exports_usd": 213633,
+    "quantity": 11252,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046210",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of cotton.",
+    "exports_usd": 209177,
+    "quantity": 3209,
+    "affected": "affected"
+  },
+  {
+    "hs": "18063100",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Other chocolate and food preparations containing cocoa, in blocks, slabs or bars, filled.",
+    "exports_usd": 202386,
+    "quantity": 18775,
+    "affected": "affected"
+  },
+  {
+    "hs": "65050090",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed.",
+    "exports_usd": 194631,
+    "quantity": 4394,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton, synthetic fibres or artificial fibres.",
+    "exports_usd": 194423,
+    "quantity": 3125,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021090",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Other waters including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured.",
+    "exports_usd": 187499,
+    "quantity": 175177,
+    "affected": "affected"
+  },
+  {
+    "hs": "76169990",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Other articles of aluminium, not elsewhere specified or included.",
+    "exports_usd": 180500,
+    "quantity": 133842,
+    "affected": "affected"
+  },
+  {
+    "hs": "71129100",
+    "sitc": "9",
+    "country": "BB",
+    "description": "Waste and scrap of gold (other than ash), including metal clad with gold but excluding sweepings containing other precious metals.",
+    "exports_usd": 180136,
+    "quantity": 133,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other handbags, whether or not with shoulder strap, including those without handle, not elsewhere specified or included, including those made of vulcanised fibre or of paperboard, or wholly or maily covered with such materials or with paper.",
+    "exports_usd": 178207,
+    "quantity": 2980,
+    "affected": "affected"
+  },
+  {
+    "hs": "70131000",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes of glass-ceramics.",
+    "exports_usd": 177604,
+    "quantity": 20291,
+    "affected": "affected"
+  },
+  {
+    "hs": "17011490",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Raw cane sugar (other than those specified in Subheading Note 2 to this Chapter), not containing added flavouring or colouring matter, other than for retail sale in packages of not more than 10kg.",
+    "exports_usd": 172425,
+    "quantity": 243000,
+    "affected": "affected"
+  },
+  {
+    "hs": "22086000",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Vodka.",
+    "exports_usd": 165461,
+    "quantity": 17580,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032350",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 2000cc but not exceeding 2500cc.",
+    "exports_usd": 165000,
+    "quantity": 13949,
+    "affected": "affected"
+  },
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 163780,
+    "quantity": 1115,
+    "affected": "affected"
+  },
+  {
+    "hs": "65069900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other headgear, not elsewhere specified or included, of materials other than rubber or of plastics, whether or not lined or trimmed.",
+    "exports_usd": 160226,
+    "quantity": 7333,
+    "affected": "affected"
+  },
+  {
+    "hs": "42021290",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Trunks, vanity-cases, executive-cases, school satchels and similar containers, with outer surface of plastics or of textile materials.",
+    "exports_usd": 160152,
+    "quantity": 4824,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034310",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men's or boys’ trousers and shorts of synthetic fibres",
+    "exports_usd": 158185,
+    "quantity": 2588,
+    "affected": "affected"
+  },
+  {
+    "hs": "42021900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, not elsewhere specified or included, including those made of vulcanised fibre or of paperboard or wholly or mainly covered with such materials or with",
+    "exports_usd": 154305,
+    "quantity": 3544,
+    "affected": "affected"
+  },
+  {
+    "hs": "91022900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Wrist-watches (other than those with case of precious metal or of metal clad with precious metal), not electrically operated, whether or not incorporating a stop-watch facility, other than those with automatic winding.",
+    "exports_usd": 147125,
+    "quantity": 137,
+    "affected": "affected"
+  },
+  {
+    "hs": "17011310",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Raw cane sugar specified in Subheading Note 2 to this Chapter, not containing added flavouring or colouring matter, for retail sale in packages of not more than 10kg.",
+    "exports_usd": 140660,
+    "quantity": 86696,
+    "affected": "affected"
+  },
+  {
+    "hs": "42029290",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; insulated food or beverage bags, toilet bags, rucksacks, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxe",
+    "exports_usd": 138918,
+    "quantity": 4384,
+    "affected": "affected"
+  },
+  {
+    "hs": "62045900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ skirts and divided skirts, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 135734,
+    "quantity": 2230,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069010",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Mauby syrup.",
+    "exports_usd": 135090,
+    "quantity": 57330,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044200",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of cotton.",
+    "exports_usd": 135005,
+    "quantity": 1340,
+    "affected": "affected"
+  },
+  {
+    "hs": "64051000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other footwear, with uppers of leather or composition leather",
+    "exports_usd": 134374,
+    "quantity": 3344,
+    "affected": "affected"
+  },
+  {
+    "hs": "73239900",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Other table, kitchen or other household articles, of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 133542,
+    "quantity": 6709,
+    "affected": "affected"
+  },
+  {
+    "hs": "61052000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men’s or boys’ shirts, knitted or crocheted, of man-made fibres.",
+    "exports_usd": 132701,
+    "quantity": 935,
+    "affected": "affected"
+  },
+  {
+    "hs": "85051900",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Permanent magnets and articles intended to become permanent magnets after magnetization, other than of metal.",
+    "exports_usd": 132689,
+    "quantity": 7713,
+    "affected": "affected"
+  },
+  {
+    "hs": "42023110",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Purses, spectacle cases and wallets, with outer surface of leather or of composition leather.",
+    "exports_usd": 130000,
+    "quantity": 1721,
+    "affected": "affected"
+  },
+  {
+    "hs": "61124100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Women’s or girls’ swimwear, knitted or crocheted, of synthetic fibres.",
+    "exports_usd": 126055,
+    "quantity": 698,
+    "affected": "affected"
+  },
+  {
+    "hs": "95030090",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other toys.",
+    "exports_usd": 118114,
+    "quantity": 6638,
+    "affected": "affected"
+  },
+  {
+    "hs": "85271300",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Radio-broadcast receivers (other than pocket-size radio cassette-players) combined with sound recording or reproducing apparatus, capable of operating without an external source of power.",
+    "exports_usd": 111435,
+    "quantity": 8000,
+    "affected": "affected"
+  },
+  {
+    "hs": "24022000",
+    "sitc": "1",
+    "country": "BB",
+    "description": "Cigarettes containing tobacco.",
+    "exports_usd": 109364,
+    "quantity": 1753,
+    "affected": "affected"
+  },
+  {
+    "hs": "63029900",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Toilet linen and kitchen linen, of textile materials other than cotton or man-made fibres.",
+    "exports_usd": 108996,
+    "quantity": 10126,
+    "affected": "affected"
+  },
+  {
+    "hs": "69120010",
+    "sitc": "6",
+    "country": "BB",
+    "description": "Ceramic tableware and kitchenware, other than of porcelain or china.",
+    "exports_usd": 108796,
+    "quantity": 11381,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111100",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men’s or boys’ swimwear, not knitted or crocheted.",
+    "exports_usd": 108282,
+    "quantity": 1157,
+    "affected": "affected"
+  },
+  {
+    "hs": "64029990",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other footwear with outer soles and uppers of rubber or plastics, not elsewhere specified or included.",
+    "exports_usd": 103188,
+    "quantity": 3607,
+    "affected": "affected"
+  },
+  {
+    "hs": "39249090",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other household articles and hygienic or toilet articles, of plastics.",
+    "exports_usd": 98798,
+    "quantity": 5807,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "BB",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 94807,
+    "quantity": 5040,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 93345,
+    "quantity": 2008,
+    "affected": "affected"
+  },
+  {
+    "hs": "84254290",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Other hydraulic jacks and hoists used for raising vehicles.",
+    "exports_usd": 91540,
+    "quantity": 2000,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034910",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men's or boys’ trousers and shorts of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 90247,
+    "quantity": 2299,
+    "affected": "affected"
+  },
+  {
+    "hs": "42021210",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Suit-cases, with outer surface of plastics or of textile materials.",
+    "exports_usd": 90115,
+    "quantity": 10841,
+    "affected": "affected"
+  },
+  {
+    "hs": "65040000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",
+    "exports_usd": 90102,
+    "quantity": 4154,
+    "affected": "affected"
+  },
+  {
+    "hs": "42029900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling bags, insulated food or beverage bags, toilet bags, rucksacks, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-case",
+    "exports_usd": 88197,
+    "quantity": 4676,
+    "affected": "affected"
+  },
+  {
+    "hs": "62052000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 87828,
+    "quantity": 4792,
+    "affected": "affected"
+  },
+  {
+    "hs": "85182900",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Loudspeakers, not mounted in their enclosures.",
+    "exports_usd": 87602,
+    "quantity": 2139,
+    "affected": "affected"
+  },
+  {
+    "hs": "71161000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Articles of natural or cultured pearls.",
+    "exports_usd": 83341,
+    "quantity": 12,
+    "affected": "affected"
+  },
+  {
+    "hs": "71171900",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Imitation jewellery (other than cuff-links and studs), of base metal, whether or not plated with precious metal.",
+    "exports_usd": 80750,
+    "quantity": 436,
+    "affected": "affected"
+  },
+  {
+    "hs": "42033000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Belts and bandoliers, of leather or of composition leather.",
+    "exports_usd": 76373,
+    "quantity": 1098,
+    "affected": "affected"
+  },
+  {
+    "hs": "39269090",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Other articles of plastics, not elsewhere specified or included.",
+    "exports_usd": 76217,
+    "quantity": 8675,
+    "affected": "affected"
+  },
+  {
+    "hs": "18063200",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Other chocolate and food preparations containing cocoa, in blocks, slabs or bars, not filled.",
+    "exports_usd": 70925,
+    "quantity": 6972,
+    "affected": "affected"
+  },
+  {
+    "hs": "85182200",
+    "sitc": "7",
+    "country": "BB",
+    "description": "Multiple loudspeakers, mounted in the same enclosure.",
+    "exports_usd": 69717,
+    "quantity": 3502,
+    "affected": "affected"
+  },
+  {
+    "hs": "15171000",
+    "sitc": "0",
+    "country": "BB",
+    "description": "Margarine, excluding liquid margarine.",
+    "exports_usd": 69529,
+    "quantity": 18045,
+    "affected": "affected"
+  },
+  {
+    "hs": "61051000",
+    "sitc": "8",
+    "country": "BB",
+    "description": "Men’s or boys’ shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 68722,
+    "quantity": 1849,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049910",
+    "sitc": "5",
+    "country": "BB",
+    "description": "Sunscreen or sun tan preparations.",
+    "exports_usd": 66738,
+    "quantity": 4239,
+    "affected": "affected"
+  }
+]

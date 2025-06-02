@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "71131990",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Articles of jewellery and parts thereof, of precious metal (other tha silver or gold), whether or not plated or clad with precious metal.",
+    "exports_usd": 5781196,
+    "quantity": 2337,
+    "affected": "affected"
+  },
+  {
+    "hs": "91011900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Wrist-watches, with case of precious metal or of metal clad with precious metal, electrically operated, whether or not incorporating a stop-watch facility, other than those with mechanical display only.",
+    "exports_usd": 3521379,
+    "quantity": 745,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 2178899,
+    "quantity": 275,
+    "affected": "affected"
+  },
+  {
+    "hs": "12122100",
+    "sitc": "2",
+    "country": "LC",
+    "description": "Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, fit for human consumption.",
+    "exports_usd": 1663053,
+    "quantity": 122833,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 1469358,
+    "quantity": 3288,
+    "affected": "affected"
+  },
+  {
+    "hs": "32091010",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Paints based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium.",
+    "exports_usd": 1416028,
+    "quantity": 588528,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 1041811,
+    "quantity": 265682,
+    "affected": "affected"
+  },
+  {
+    "hs": "91022100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Wrist-watches (other than those with case of precious metal or of metal clad with precious metal), not electrically operated, whether or not incorporating a stop-watch facility, with automatic winding.",
+    "exports_usd": 803000,
+    "quantity": 451,
+    "affected": "affected"
+  },
+  {
+    "hs": "61091010",
+    "sitc": "8",
+    "country": "LC",
+    "description": "T-shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 748492,
+    "quantity": 50017,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039010",
+    "sitc": "0",
+    "country": "LC",
+    "description": "Pepper sauce.",
+    "exports_usd": 615716,
+    "quantity": 287447,
+    "affected": "affected"
+  },
+  {
+    "hs": "32081040",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Other paints based on polyesters, dispersed or dissolved in a non-aqueous medium.",
+    "exports_usd": 607777,
+    "quantity": 264926,
+    "affected": "affected"
+  },
+  {
+    "hs": "89039900",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other non-inflatable yachts, rowing boats, canoes and vessels for pleasure or sports.",
+    "exports_usd": 606636,
+    "quantity": 32923,
+    "affected": "affected"
+  },
+  {
+    "hs": "24022000",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Cigarettes containing tobacco.",
+    "exports_usd": 526632,
+    "quantity": 17995,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "LC",
+    "description": "Personal and household effects",
+    "exports_usd": 473218,
+    "quantity": 35528,
+    "affected": "affected"
+  },
+  {
+    "hs": "22083010",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Whiskies, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 410272,
+    "quantity": 69565,
+    "affected": "affected"
+  },
+  {
+    "hs": "72043000",
+    "sitc": "2",
+    "country": "LC",
+    "description": "Waste and scrap of tinned iron or steel.",
+    "exports_usd": 396298,
+    "quantity": 128669,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 364711,
+    "quantity": 514,
+    "affected": "affected"
+  },
+  {
+    "hs": "22087000",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Liqueurs and cordials.",
+    "exports_usd": 351407,
+    "quantity": 77120,
+    "affected": "affected"
+  },
+  {
+    "hs": "90328900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Automatic regulating or controlling instruments and apparatus (other than thermostats, manostats or hydraulic or pneumatic instruments and apparatus).",
+    "exports_usd": 307459,
+    "quantity": 94,
+    "affected": "affected"
+  },
+  {
+    "hs": "71031010",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Precious stones (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, temporarily strung for convenience of transport.",
+    "exports_usd": 294859,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "24021000",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Cigars, cheroots and cigarillos, containing tobacco.",
+    "exports_usd": 239981,
+    "quantity": 1146,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 233640,
+    "quantity": 64158,
+    "affected": "affected"
+  },
+  {
+    "hs": "85332100",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Fixed electrical resistors (other than heating resistors or composition- or film-type carbon resistors) for a power handling capacity not exceeding 20W.",
+    "exports_usd": 214656,
+    "quantity": 1384,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 193401,
+    "quantity": 425,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030090",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Perfumes and toilet waters, other than bay rum.",
+    "exports_usd": 179000,
+    "quantity": 2732,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044200",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of cotton.",
+    "exports_usd": 161434,
+    "quantity": 5634,
+    "affected": "affected"
+  },
+  {
+    "hs": "90041000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Sunglasses.",
+    "exports_usd": 156586,
+    "quantity": 5340,
+    "affected": "affected"
+  },
+  {
+    "hs": "22082010",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Brandy, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 122682,
+    "quantity": 7305,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046210",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of cotton.",
+    "exports_usd": 118670,
+    "quantity": 4496,
+    "affected": "affected"
+  },
+  {
+    "hs": "62052000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 116097,
+    "quantity": 3672,
+    "affected": "affected"
+  },
+  {
+    "hs": "84133000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Fuel, lubricating or cooling medium pumps for internal combustion piston engines.",
+    "exports_usd": 113991,
+    "quantity": 486,
+    "affected": "affected"
+  },
+  {
+    "hs": "90281000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Gas supply or production meters, including calibrating meters therefor.",
+    "exports_usd": 112935,
+    "quantity": 34,
+    "affected": "affected"
+  },
+  {
+    "hs": "32081030",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Enamels based on polyesters, dispersed or dissolved in a non-aqueous medium.",
+    "exports_usd": 108045,
+    "quantity": 28660,
+    "affected": "affected"
+  },
+  {
+    "hs": "71179000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Imitation jewellery of non-precious materials (other than base metal).",
+    "exports_usd": 105291,
+    "quantity": 2108,
+    "affected": "affected"
+  },
+  {
+    "hs": "64029910",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Sandals and slippers, with outer soles and uppers of rubber or plastics.",
+    "exports_usd": 102024,
+    "quantity": 11910,
+    "affected": "affected"
+  },
+  {
+    "hs": "62063010",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of cotton.",
+    "exports_usd": 101740,
+    "quantity": 8147,
+    "affected": "affected"
+  },
+  {
+    "hs": "22042100",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Wine (other than sparkling wine), in containers holding 2 litres or less.",
+    "exports_usd": 100418,
+    "quantity": 9912,
+    "affected": "affected"
+  },
+  {
+    "hs": "22086000",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Vodka.",
+    "exports_usd": 100184,
+    "quantity": 19052,
+    "affected": "affected"
+  },
+  {
+    "hs": "71161000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Articles of natural or cultured pearls.",
+    "exports_usd": 97249,
+    "quantity": 380,
+    "affected": "affected"
+  },
+  {
+    "hs": "61102000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted, of cotton.",
+    "exports_usd": 95991,
+    "quantity": 2919,
+    "affected": "affected"
+  },
+  {
+    "hs": "65050090",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed.",
+    "exports_usd": 94251,
+    "quantity": 5641,
+    "affected": "affected"
+  },
+  {
+    "hs": "84812000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Valves for oleohydraulic or pneumatic transmissions.",
+    "exports_usd": 81847,
+    "quantity": 180,
+    "affected": "affected"
+  },
+  {
+    "hs": "85256000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Transmission apparatus for radio-broadcasting or television, incorporating reception apparatus.",
+    "exports_usd": 80842,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034220",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men's or boys’ trousers and shorts of cotton other than denim",
+    "exports_usd": 79683,
+    "quantity": 3155,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039090",
+    "sitc": "0",
+    "country": "LC",
+    "description": "Other sauces and preparations therefor; other mixed condiments and mixed seasonings.",
+    "exports_usd": 79135,
+    "quantity": 36525,
+    "affected": "affected"
+  },
+  {
+    "hs": "65069900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Other headgear, not elsewhere specified or included, of materials other than rubber or of plastics, whether or not lined or trimmed.",
+    "exports_usd": 77733,
+    "quantity": 1577,
+    "affected": "affected"
+  },
+  {
+    "hs": "88033000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other parts of aeroplanes or helicopters.",
+    "exports_usd": 75880,
+    "quantity": 503,
+    "affected": "affected"
+  },
+  {
+    "hs": "22085010",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Gin and geneva, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 70039,
+    "quantity": 12222,
+    "affected": "affected"
+  },
+  {
+    "hs": "84072100",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Outboard motors for marine propulsion, with spark-ignition reciprocating or rotary internal combustion piston engines.",
+    "exports_usd": 69543,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "32099010",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Paints based on synthetic polymers or chemically modified natural polymers (other than acrylic or vinyl polymers), dispersed or dissolved in an aqueous medium.",
+    "exports_usd": 68374,
+    "quantity": 20000,
+    "affected": "affected"
+  },
+  {
+    "hs": "61051000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men’s or boys’ shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 67943,
+    "quantity": 893,
+    "affected": "affected"
+  },
+  {
+    "hs": "20039091",
+    "sitc": "0",
+    "country": "LC",
+    "description": "Truffles, prepared or preserved otherwise than by vinegar or acetic acid, in packages not less than 50 kg.",
+    "exports_usd": 67077,
+    "quantity": 16637,
+    "affected": "affected"
+  },
+  {
+    "hs": "70139900",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Glassware of a kind used for toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18 (SITC 665.11, 665.92 or 665.93)), other than of lead crystal.",
+    "exports_usd": 63292,
+    "quantity": 1769,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Other handbags, whether or not with shoulder strap, including those without handle, not elsewhere specified or included, including those made of vulcanised fibre or of paperboard, or wholly or maily covered with such materials or with paper.",
+    "exports_usd": 61190,
+    "quantity": 4070,
+    "affected": "affected"
+  },
+  {
+    "hs": "32081020",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Marine paints based on polyesters, dispersed or dissolved in a non-aqueous medium.",
+    "exports_usd": 60967,
+    "quantity": 300,
+    "affected": "affected"
+  },
+  {
+    "hs": "73110000",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Containers for compressed or liquefied gas, of iron or steel.",
+    "exports_usd": 60848,
+    "quantity": 159688,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton, synthetic fibres or artificial fibres.",
+    "exports_usd": 57698,
+    "quantity": 9356,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 56350,
+    "quantity": 2515,
+    "affected": "affected"
+  },
+  {
+    "hs": "69120010",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Ceramic tableware and kitchenware, other than of porcelain or china.",
+    "exports_usd": 53294,
+    "quantity": 5921,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032320",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 1,500 cc but not exceeding 1599cc.",
+    "exports_usd": 53163,
+    "quantity": 4390,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111200",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ swimwear, not knitted or crocheted.",
+    "exports_usd": 52143,
+    "quantity": 3483,
+    "affected": "affected"
+  },
+  {
+    "hs": "22041000",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Sparkling wine.",
+    "exports_usd": 51660,
+    "quantity": 5657,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men’s or boys’ swimwear, not knitted or crocheted.",
+    "exports_usd": 48654,
+    "quantity": 1984,
+    "affected": "affected"
+  },
+  {
+    "hs": "71171900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Imitation jewellery (other than cuff-links and studs), of base metal, whether or not plated with precious metal.",
+    "exports_usd": 45535,
+    "quantity": 1821,
+    "affected": "affected"
+  },
+  {
+    "hs": "71021000",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Unsorted diamonds.",
+    "exports_usd": 45448,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "88039000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other parts of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 42947,
+    "quantity": 823,
+    "affected": "affected"
+  },
+  {
+    "hs": "85072000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Lead-acid electric accumulators, other than of a kind used for starting piston engines.",
+    "exports_usd": 42877,
+    "quantity": 77,
+    "affected": "affected"
+  },
+  {
+    "hs": "83062900",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Statuettes and other ornaments of base metal, other than those plated with precious metal.",
+    "exports_usd": 42519,
+    "quantity": 1059,
+    "affected": "affected"
+  },
+  {
+    "hs": "63063000",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Sails for boats, sailboards or landcraft.",
+    "exports_usd": 40604,
+    "quantity": 613,
+    "affected": "affected"
+  },
+  {
+    "hs": "94049000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Articles of bedding and similar furnishing, other than mattresses or sleeping bags (for example, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, wh",
+    "exports_usd": 38801,
+    "quantity": 1406,
+    "affected": "affected"
+  },
+  {
+    "hs": "39269090",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Other articles of plastics, not elsewhere specified or included.",
+    "exports_usd": 38534,
+    "quantity": 13622,
+    "affected": "affected"
+  },
+  {
+    "hs": "84138100",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other pumps for liquids, not elsewhere specified or included.",
+    "exports_usd": 37281,
+    "quantity": 79,
+    "affected": "affected"
+  },
+  {
+    "hs": "89031000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Yachts and other vessels for pleasure or sports (including rowing boats and canoes), inflatable.",
+    "exports_usd": 36909,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "42029900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling bags, insulated food or beverage bags, toilet bags, rucksacks, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-case",
+    "exports_usd": 36327,
+    "quantity": 1573,
+    "affected": "affected"
+  },
+  {
+    "hs": "32129090",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Other pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels).",
+    "exports_usd": 36223,
+    "quantity": 3900,
+    "affected": "affected"
+  },
+  {
+    "hs": "90066900",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Photographic flashlight apparatus and flashbulbs (other than discharge lamp (“electronic”) flashlight apparatus)",
+    "exports_usd": 35361,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "61124100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ swimwear, knitted or crocheted, of synthetic fibres.",
+    "exports_usd": 35319,
+    "quantity": 18435,
+    "affected": "affected"
+  },
+  {
+    "hs": "91011100",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Wrist-watches, with case of precious metal or of metal clad with precious metal, electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 34414,
+    "quantity": 31,
+    "affected": "affected"
+  },
+  {
+    "hs": "62063020",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Women’s or girls’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 32767,
+    "quantity": 549,
+    "affected": "affected"
+  },
+  {
+    "hs": "95030090",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Other toys.",
+    "exports_usd": 32257,
+    "quantity": 1255,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 32021,
+    "quantity": 609,
+    "affected": "affected"
+  },
+  {
+    "hs": "64041110",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Sports footwear, with outer soles of rubber or plastics and uppers of textile materials.",
+    "exports_usd": 31384,
+    "quantity": 389,
+    "affected": "affected"
+  },
+  {
+    "hs": "88032000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Under-carriages and parts thereof, of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 30191,
+    "quantity": 507,
+    "affected": "affected"
+  },
+  {
+    "hs": "62059000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of textile materials other than cotton or man-made fibres.",
+    "exports_usd": 28435,
+    "quantity": 1979,
+    "affected": "affected"
+  },
+  {
+    "hs": "84688000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other machinery and apparatus for soldering, welding or brazing.",
+    "exports_usd": 28175,
+    "quantity": 250,
+    "affected": "affected"
+  },
+  {
+    "hs": "85051100",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Permanent magnets and articles intended to become permanent magnets after magnetization, of metal.",
+    "exports_usd": 24672,
+    "quantity": 617,
+    "affected": "affected"
+  },
+  {
+    "hs": "39241010",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Cups, forks, knives, plates, spoons and tumblers, of plastics.",
+    "exports_usd": 24555,
+    "quantity": 1655,
+    "affected": "affected"
+  },
+  {
+    "hs": "42029210",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Travelling bags and tote bags, with outer surface of plastic sheeting or of textile materials.",
+    "exports_usd": 23153,
+    "quantity": 5909,
+    "affected": "affected"
+  },
+  {
+    "hs": "84814000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Safety or relief valves for pipes, boiler shells, tanks, vats or the like.",
+    "exports_usd": 22921,
+    "quantity": 7,
+    "affected": "affected"
+  },
+  {
+    "hs": "85078000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Electric accumulators (other than lead-acid, nickel-cadmium, nickel-iron, nickel-metal hydride or lithium-ion accumulators).",
+    "exports_usd": 22888,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "62053000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of man-made fibres.",
+    "exports_usd": 22737,
+    "quantity": 133,
+    "affected": "affected"
+  },
+  {
+    "hs": "84682000",
+    "sitc": "7",
+    "country": "LC",
+    "description": "Other gas-operated machinery and apparatus for soldering, welding or brazing.",
+    "exports_usd": 22641,
+    "quantity": 4109,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034210",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Men's or boys’ denim trousers and shorts",
+    "exports_usd": 22438,
+    "quantity": 791,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 21913,
+    "quantity": 203,
+    "affected": "affected"
+  },
+  {
+    "hs": "42029290",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; insulated food or beverage bags, toilet bags, rucksacks, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxe",
+    "exports_usd": 21842,
+    "quantity": 3381,
+    "affected": "affected"
+  },
+  {
+    "hs": "39264000",
+    "sitc": "8",
+    "country": "LC",
+    "description": "Statuettes and other ornamental articles, of plastics.",
+    "exports_usd": 21740,
+    "quantity": 980,
+    "affected": "affected"
+  },
+  {
+    "hs": "22083090",
+    "sitc": "1",
+    "country": "LC",
+    "description": "Whiskies, other than whiskies in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 21039,
+    "quantity": 2262,
+    "affected": "affected"
+  },
+  {
+    "hs": "35061000",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",
+    "exports_usd": 20481,
+    "quantity": 2345,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049910",
+    "sitc": "5",
+    "country": "LC",
+    "description": "Sunscreen or sun tan preparations.",
+    "exports_usd": 20320,
+    "quantity": 667,
+    "affected": "affected"
+  },
+  {
+    "hs": "69139000",
+    "sitc": "6",
+    "country": "LC",
+    "description": "Statuettes and other ornamental ceramic articles, other than of porcelain or china.",
+    "exports_usd": 19941,
+    "quantity": 2314,
+    "affected": "affected"
+  }
+]

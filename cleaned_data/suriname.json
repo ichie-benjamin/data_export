@@ -1,0 +1,274 @@
+[
+  {
+    "hs": "030389",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; frozen, n.e.c. in heading 0303, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "exports_usd": 12039985,
+    "affected": "affected"
+  },
+  {
+    "hs": "999999",
+    "sitc": "9",
+    "country": "SR",
+    "description": "Commodities not specified according to kind",
+    "exports_usd": 10739280,
+    "affected": "affected"
+  },
+  {
+    "hs": "030489",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish fillets; frozen, of fish n.e.c. in heading 0304.8",
+    "exports_usd": 10480578,
+    "affected": "affected"
+  },
+  {
+    "hs": "030289",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; fresh or chilled, n.e.c. in heading 0302, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "exports_usd": 8643105,
+    "affected": "affected"
+  },
+  {
+    "hs": "030232",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; fresh or chilled, yellowfin tunas (Thunnus albacares), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "exports_usd": 6913514,
+    "affected": "affected"
+  },
+  {
+    "hs": "030449",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish fillets; fresh or chilled, other than fish of heading 0304.4",
+    "exports_usd": 4995214,
+    "affected": "affected"
+  },
+  {
+    "hs": "030459",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish meat; excluding fillets, whether or not minced; fresh or chilled, of fish n.e.c. in item no. 0304.5",
+    "exports_usd": 3064136,
+    "affected": "affected"
+  },
+  {
+    "hs": "030499",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish meat, excluding fillets, whether or not minced; frozen, n.e.c. in item no. 0304.9",
+    "exports_usd": 2968357,
+    "affected": "affected"
+  },
+  {
+    "hs": "030487",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish fillets; frozen, tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)",
+    "exports_usd": 2921524,
+    "affected": "affected"
+  },
+  {
+    "hs": "030234",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; fresh or chilled, bigeye tunas (Thunnus obesus), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "exports_usd": 1247059,
+    "affected": "affected"
+  },
+  {
+    "hs": "870840",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Vehicle parts; gear boxes and parts thereof",
+    "exports_usd": 878384,
+    "affected": "affected"
+  },
+  {
+    "hs": "840820",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Engines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for the propulsion of vehicles of chapter 87",
+    "exports_usd": 807495,
+    "affected": "affected"
+  },
+  {
+    "hs": "030354",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; frozen, mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "exports_usd": 720769,
+    "affected": "affected"
+  },
+  {
+    "hs": "870899",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Vehicle parts and accessories; n.e.c. in heading no. 8708",
+    "exports_usd": 599120,
+    "affected": "affected"
+  },
+  {
+    "hs": "841199",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Turbines; parts of gas turbines (excluding turbo-jets and turbo-propellers)",
+    "exports_usd": 482192,
+    "affected": "affected"
+  },
+  {
+    "hs": "030469",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish fillets; frozen, carp (Cyprinus/Carassius/Ctenopharyngodon idellus/Hypophthalmichthys/Cirrhinus/Mylopharyngodon piceus/Catla catla/Labeo/Osteochilus hasselti/Leptobarbus hoeveni/Megalobrama), eels (Anguilla) and snakeheads (Channa)",
+    "exports_usd": 377176,
+    "affected": "affected"
+  },
+  {
+    "hs": "970191",
+    "sitc": "8",
+    "country": "SR",
+    "description": "Paintings, drawings and pastels; executed entirely by hand, other than drawings of heading no. 4906, of an age not exceeding 100 years",
+    "exports_usd": 376686,
+    "affected": "affected"
+  },
+  {
+    "hs": "010620",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Reptiles; live (including snakes and turtles)",
+    "exports_usd": 330034,
+    "affected": "affected"
+  },
+  {
+    "hs": "842132",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Machinery; catalytic converters or particulate filters, whether or not combined, for purifying or filtering exhaust gases from internal combustion engines",
+    "exports_usd": 206218,
+    "affected": "affected"
+  },
+  {
+    "hs": "441850",
+    "sitc": "6",
+    "country": "SR",
+    "description": "Wood; shingles and shakes",
+    "exports_usd": 186832,
+    "affected": "affected"
+  },
+  {
+    "hs": "030245",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; fresh or chilled, jack and horse mackerel (Trachurus spp.), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "exports_usd": 184355,
+    "affected": "affected"
+  },
+  {
+    "hs": "870880",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Vehicle parts; suspension systems and parts thereof (including shock-absorbers)",
+    "exports_usd": 182987,
+    "affected": "affected"
+  },
+  {
+    "hs": "761699",
+    "sitc": "6",
+    "country": "SR",
+    "description": "Aluminium; articles n.e.c. in heading 7616",
+    "exports_usd": 179532,
+    "affected": "affected"
+  },
+  {
+    "hs": "030341",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; frozen, albacore or longfinned tunas (Thunnus alalunga), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "exports_usd": 156875,
+    "affected": "affected"
+  },
+  {
+    "hs": "030559",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; dried, whether or not salted but not smoked, other than edible fish offal, n.e.c. in item no. 0305.5",
+    "exports_usd": 145709,
+    "affected": "affected"
+  },
+  {
+    "hs": "901580",
+    "sitc": "8",
+    "country": "SR",
+    "description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
+    "exports_usd": 145150,
+    "affected": "affected"
+  },
+  {
+    "hs": "030344",
+    "sitc": "0",
+    "country": "SR",
+    "description": "Fish; frozen, bigeye tunas (Thunnus obesus), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "exports_usd": 143665,
+    "affected": "affected"
+  },
+  {
+    "hs": "840890",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Engines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for other than marine propulsion or the vehicles of chapter 87",
+    "exports_usd": 141447,
+    "affected": "affected"
+  },
+  {
+    "hs": "760200",
+    "sitc": "2",
+    "country": "SR",
+    "description": "Aluminium; waste and scrap",
+    "exports_usd": 133651,
+    "affected": "affected"
+  },
+  {
+    "hs": "848320",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Bearing housings, incorporating ball or roller bearings",
+    "exports_usd": 124360,
+    "affected": "affected"
+  },
+  {
+    "hs": "841370",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Pumps; centrifugal, n.e.c. in heading no. 8413, for liquids",
+    "exports_usd": 121234,
+    "affected": "affected"
+  },
+  {
+    "hs": "848210",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Ball bearings",
+    "exports_usd": 115902,
+    "affected": "affected"
+  },
+  {
+    "hs": "848340",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Gears and gearing; (not toothed wheels, chain sprockets and other transmission elements presented separately); ball or roller screws; gear boxes and other speed changers, including torque converters",
+    "exports_usd": 113100,
+    "affected": "affected"
+  },
+  {
+    "hs": "841350",
+    "sitc": "7",
+    "country": "SR",
+    "description": "Pumps; reciprocating positive displacement pumps, n.e.c. in heading no. 8413, for liquids",
+    "exports_usd": 108070,
+    "affected": "affected"
+  }
+]

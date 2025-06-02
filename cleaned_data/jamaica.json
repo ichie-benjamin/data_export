@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "07143000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Yams, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets.",
+    "exports_usd": 34606815,
+    "quantity": 8369884,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other sauces and preparations therefor; other mixed condiments and mixed seasonings.",
+    "exports_usd": 25754892,
+    "quantity": 5719406,
+    "affected": "affected"
+  },
+  {
+    "hs": "20089930",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Akee (ackee) (blighia sapida koenig), otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, n.e.s.",
+    "exports_usd": 16233055,
+    "quantity": 1986545,
+    "affected": "affected"
+  },
+  {
+    "hs": "22030010",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Beer made from malt.",
+    "exports_usd": 12189593,
+    "quantity": 11244096,
+    "affected": "affected"
+  },
+  {
+    "hs": "25210000",
+    "sitc": "2",
+    "country": "JM",
+    "description": "Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement.",
+    "exports_usd": 11273678,
+    "quantity": 499673000,
+    "affected": "affected"
+  },
+  {
+    "hs": "19059090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other bread, pastry, cakes, biscuits and other bakers’ wares, whether or not containing cocoa.",
+    "exports_usd": 10971015,
+    "quantity": 2197723,
+    "affected": "affected"
+  },
+  {
+    "hs": "22029999",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Other non-alcoholic beverages, not including fruit or vegetable juices of heading 20.09 (sitc 059).",
+    "exports_usd": 10808257,
+    "quantity": 5736668,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084090",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, other than in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 9909070,
+    "quantity": 1700435,
+    "affected": "affected"
+  },
+  {
+    "hs": "19059010",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Biscuits, unsweetened.",
+    "exports_usd": 6247855,
+    "quantity": 2600569,
+    "affected": "affected"
+  },
+  {
+    "hs": "22030020",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Stout made from malt.",
+    "exports_usd": 5030707,
+    "quantity": 3099873,
+    "affected": "affected"
+  },
+  {
+    "hs": "20099090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other mixtures of juices, n.e.s.",
+    "exports_usd": 4663801,
+    "quantity": 2257645,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 4182237,
+    "quantity": 927931,
+    "affected": "affected"
+  },
+  {
+    "hs": "04063000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Processed cheese, not grated or powdered.",
+    "exports_usd": 3770580,
+    "quantity": 308296,
+    "affected": "affected"
+  },
+  {
+    "hs": "17011490",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Raw cane sugar (other than those specified in Subheading Note 2 to this Chapter), not containing added flavouring or colouring matter, other than for retail sale in packages of not more than 10kg.",
+    "exports_usd": 3683014,
+    "quantity": 4513500,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061100",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Rock lobster and other sea crawfish (palinurus spp., panulirus spp., jasus spp.), frozen.",
+    "exports_usd": 3240482,
+    "quantity": 87521,
+    "affected": "affected"
+  },
+  {
+    "hs": "21041020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Soups and broths and preparations therefor, in solid or powder form.",
+    "exports_usd": 3081940,
+    "quantity": 572993,
+    "affected": "affected"
+  },
+  {
+    "hs": "09011110",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Coffee beans for blending, not decaffeinated, not roasted.",
+    "exports_usd": 2999522,
+    "quantity": 81067,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039010",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Pepper sauce.",
+    "exports_usd": 2700281,
+    "quantity": 629202,
+    "affected": "affected"
+  },
+  {
+    "hs": "20051090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Homogenized vegetables, prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06 (sitc 062.1), put up for retail sale for dietetic purposes, in containers of a net weight content not exceeding 250g.",
+    "exports_usd": 2639421,
+    "quantity": 1084989,
+    "affected": "affected"
+  },
+  {
+    "hs": "17029020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Caramel.",
+    "exports_usd": 2621016,
+    "quantity": 592793,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069030",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Flavouring powders for making beverages.",
+    "exports_usd": 2426232,
+    "quantity": 406060,
+    "affected": "affected"
+  },
+  {
+    "hs": "25171000",
+    "sitc": "2",
+    "country": "JM",
+    "description": "Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated.",
+    "exports_usd": 2140498,
+    "quantity": 119541520,
+    "affected": "affected"
+  },
+  {
+    "hs": "04069000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other cheese.",
+    "exports_usd": 2118200,
+    "quantity": 173599,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other flavoured or coloured sugar syrups, not elsewhere specified or included.",
+    "exports_usd": 1735573,
+    "quantity": 786128,
+    "affected": "affected"
+  },
+  {
+    "hs": "08027000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Kola nuts, fresh or dried, whether or not shelled.",
+    "exports_usd": 1663463,
+    "quantity": 384257,
+    "affected": "affected"
+  },
+  {
+    "hs": "44181000",
+    "sitc": "6",
+    "country": "JM",
+    "description": "Windows, French-windows and their frames, of wood.",
+    "exports_usd": 1551558,
+    "quantity": 103400,
+    "affected": "affected"
+  },
+  {
+    "hs": "22051000",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances, in containers holding 2 litres or less.",
+    "exports_usd": 1392252,
+    "quantity": 350039,
+    "affected": "affected"
+  },
+  {
+    "hs": "21011100",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Extracts, essences and concentrates, of coffee.",
+    "exports_usd": 1135822,
+    "quantity": 40469,
+    "affected": "affected"
+  },
+  {
+    "hs": "08109050",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Breadfruit, fresh.",
+    "exports_usd": 1131165,
+    "quantity": 728079,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021010",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Aerated waters, containing added sugar or other sweetening matter nor flavoured.",
+    "exports_usd": 1125050,
+    "quantity": 1775252,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109930",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Curry.",
+    "exports_usd": 1118024,
+    "quantity": 147615,
+    "affected": "affected"
+  },
+  {
+    "hs": "19053100",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Sweet biscuits.",
+    "exports_usd": 1090084,
+    "quantity": 238224,
+    "affected": "affected"
+  },
+  {
+    "hs": "04029910",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Condensed milk.",
+    "exports_usd": 1082947,
+    "quantity": 378420,
+    "affected": "affected"
+  },
+  {
+    "hs": "09023000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Black tea (fermented) and partly fermented tea, whether or not flavoured, in immediate packings of a content not exceeding 3 kg.",
+    "exports_usd": 1044785,
+    "quantity": 135629,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176200",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus.",
+    "exports_usd": 1015430,
+    "quantity": 14633,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "JM",
+    "description": "Personal and household effects",
+    "exports_usd": 899315,
+    "quantity": 40745,
+    "affected": "affected"
+  },
+  {
+    "hs": "19041000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (e.g. corn flakes).",
+    "exports_usd": 856040,
+    "quantity": 226419,
+    "affected": "affected"
+  },
+  {
+    "hs": "09024000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Black tea (fermented) and other partly fermented tea, whether or not flavoured, in immediate packings of a content exceeding 3 kg.",
+    "exports_usd": 823831,
+    "quantity": 88189,
+    "affected": "affected"
+  },
+  {
+    "hs": "09011190",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Coffee, other than beans for blending, not decaffeinated, not roasted.",
+    "exports_usd": 793899,
+    "quantity": 23723,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012960",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Essential oils of pimento.",
+    "exports_usd": 773768,
+    "quantity": 6497,
+    "affected": "affected"
+  },
+  {
+    "hs": "09012100",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Coffee, roasted, not decaffeinated.",
+    "exports_usd": 750598,
+    "quantity": 18754,
+    "affected": "affected"
+  },
+  {
+    "hs": "71129100",
+    "sitc": "9",
+    "country": "JM",
+    "description": "Waste and scrap of gold (other than ash), including metal clad with gold but excluding sweepings containing other precious metals.",
+    "exports_usd": 729580,
+    "quantity": 26,
+    "affected": "affected"
+  },
+  {
+    "hs": "20098990",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other juice of any other single fruit or vegetable, n.e.s.",
+    "exports_usd": 725413,
+    "quantity": 226776,
+    "affected": "affected"
+  },
+  {
+    "hs": "85371000",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36 (SITC 772.4 or 772.5), for electric control or the distribution of electricity, including those incorporating instruments or apparatus",
+    "exports_usd": 693270,
+    "quantity": 3544,
+    "affected": "affected"
+  },
+  {
+    "hs": "07096090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Fruits of the genus capsicum or of the genus pimenta, other than sweet peppers, fresh or chilled.",
+    "exports_usd": 663436,
+    "quantity": 105522,
+    "affected": "affected"
+  },
+  {
+    "hs": "07149020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Dasheens, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets.",
+    "exports_usd": 647821,
+    "quantity": 181034,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021090",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Other waters including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured.",
+    "exports_usd": 638208,
+    "quantity": 785054,
+    "affected": "affected"
+  },
+  {
+    "hs": "33029000",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry (other than in the food or drink industries).",
+    "exports_usd": 611856,
+    "quantity": 182886,
+    "affected": "affected"
+  },
+  {
+    "hs": "84713000",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display.",
+    "exports_usd": 528685,
+    "quantity": 5749,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089500",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Safety airbags with inflator system for the motor vehicles of headings 87.01 to 87.05 (SITC 722, 781, 782 and 783); parts thereof.",
+    "exports_usd": 523656,
+    "quantity": 6768,
+    "affected": "affected"
+  },
+  {
+    "hs": "09101200",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Ginger, crushed or ground.",
+    "exports_usd": 519899,
+    "quantity": 45408,
+    "affected": "affected"
+  },
+  {
+    "hs": "09103000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Turmeric (curcuma).",
+    "exports_usd": 511691,
+    "quantity": 253613,
+    "affected": "affected"
+  },
+  {
+    "hs": "22060090",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Other fermented beverages (for example, cider, perry, mead); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included.",
+    "exports_usd": 409391,
+    "quantity": 182114,
+    "affected": "affected"
+  },
+  {
+    "hs": "84733000",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Parts and accessories of automatic data-processing machines or for other machines of heading 84.71 (SITC 752).",
+    "exports_usd": 405986,
+    "quantity": 2369,
+    "affected": "affected"
+  },
+  {
+    "hs": "33021090",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Other mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used in the food or drink industries.",
+    "exports_usd": 348315,
+    "quantity": 61029,
+    "affected": "affected"
+  },
+  {
+    "hs": "20089920",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Banana and plantain chips.",
+    "exports_usd": 345752,
+    "quantity": 31343,
+    "affected": "affected"
+  },
+  {
+    "hs": "19012090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Mixes (other than cake mix in retail packages not exceeding 2 kg) and doughs for the preparation of bakers’ wares of heading 19.05 (sitc 048.4).",
+    "exports_usd": 336199,
+    "quantity": 140989,
+    "affected": "affected"
+  },
+  {
+    "hs": "09042120",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Pimento (all spice), dried, neither crushed or ground.",
+    "exports_usd": 326531,
+    "quantity": 31651,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109990",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other spices.",
+    "exports_usd": 326110,
+    "quantity": 59584,
+    "affected": "affected"
+  },
+  {
+    "hs": "84072100",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Outboard motors for marine propulsion, with spark-ignition reciprocating or rotary internal combustion piston engines.",
+    "exports_usd": 324960,
+    "quantity": 5745,
+    "affected": "affected"
+  },
+  {
+    "hs": "33013000",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Resinoids.",
+    "exports_usd": 320613,
+    "quantity": 85837,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069099",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other food preparations not elsewhere specified or included.",
+    "exports_usd": 315505,
+    "quantity": 81767,
+    "affected": "affected"
+  },
+  {
+    "hs": "85444990",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Other electric conductors, for a voltage not exceeding 1000 V, not fitted with connectors.",
+    "exports_usd": 273760,
+    "quantity": 5424,
+    "affected": "affected"
+  },
+  {
+    "hs": "22029140",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Malt beverages.",
+    "exports_usd": 265050,
+    "quantity": 69148,
+    "affected": "affected"
+  },
+  {
+    "hs": "21032010",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Tomato ketchup.",
+    "exports_usd": 249177,
+    "quantity": 141276,
+    "affected": "affected"
+  },
+  {
+    "hs": "09041100",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Pepper of the genus Piper, neither crushed nor ground.",
+    "exports_usd": 237735,
+    "quantity": 45769,
+    "affected": "affected"
+  },
+  {
+    "hs": "22042100",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Wine (other than sparkling wine), in containers holding 2 litres or less.",
+    "exports_usd": 232475,
+    "quantity": 84398,
+    "affected": "affected"
+  },
+  {
+    "hs": "84314910",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Other parts of machinery suitable for use solely or principally with machinery of heading 84.29 or 84.30 (SITC 723 excluding 723.48).",
+    "exports_usd": 231976,
+    "quantity": 17595,
+    "affected": "affected"
+  },
+  {
+    "hs": "08039011",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Bananas, fresh.",
+    "exports_usd": 230667,
+    "quantity": 194761,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "JM",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 221560,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "82079000",
+    "sitc": "6",
+    "country": "JM",
+    "description": "Other interchangeable tools for hand tools, whether or not power-operated, or for machine-tools.",
+    "exports_usd": 220746,
+    "quantity": 721,
+    "affected": "affected"
+  },
+  {
+    "hs": "82059000",
+    "sitc": "6",
+    "country": "JM",
+    "description": "Sets of articles of two or more of the foregoing subheadings.",
+    "exports_usd": 210676,
+    "quantity": 9831,
+    "affected": "affected"
+  },
+  {
+    "hs": "17029090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other sugar and sugar syrup blends, including invert sugars, containing in the dry state 50% by weight of fructose.",
+    "exports_usd": 206408,
+    "quantity": 24471,
+    "affected": "affected"
+  },
+  {
+    "hs": "90189000",
+    "sitc": "8",
+    "country": "JM",
+    "description": "Other instruments and appliances used in medical, surgical or veterinary sciences.",
+    "exports_usd": 198057,
+    "quantity": 685,
+    "affected": "affected"
+  },
+  {
+    "hs": "20089990",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other fruit and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, n.e.s.",
+    "exports_usd": 197920,
+    "quantity": 91393,
+    "affected": "affected"
+  },
+  {
+    "hs": "08045020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Mangoes, fresh or dried.",
+    "exports_usd": 193417,
+    "quantity": 52917,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "JM",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 179891,
+    "quantity": 1015,
+    "affected": "affected"
+  },
+  {
+    "hs": "17049090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Sugar confectionery (including white chocolate and excluding chewing gums (whether or not sugar-coated) and guava cheese), not containing cocoa.",
+    "exports_usd": 174785,
+    "quantity": 18673,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109910",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Thyme.",
+    "exports_usd": 170645,
+    "quantity": 6333,
+    "affected": "affected"
+  },
+  {
+    "hs": "34011910",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, for laundry and other household uses.",
+    "exports_usd": 167267,
+    "quantity": 107856,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 167031,
+    "quantity": 2239,
+    "affected": "affected"
+  },
+  {
+    "hs": "07049090",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Kohlrabi, kale and similar edible brassicas, fresh or chilled.",
+    "exports_usd": 166461,
+    "quantity": 72875,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069091",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Coconut milk including powder form",
+    "exports_usd": 166289,
+    "quantity": 38061,
+    "affected": "affected"
+  },
+  {
+    "hs": "12119090",
+    "sitc": "2",
+    "country": "JM",
+    "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered, other than ginseng roots, coca leaf,",
+    "exports_usd": 158327,
+    "quantity": 26057,
+    "affected": "affected"
+  },
+  {
+    "hs": "20079930",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Guava jams and jellies, obtained by cooking, whether or not containing sugar or other sweetening matter",
+    "exports_usd": 151132,
+    "quantity": 33935,
+    "affected": "affected"
+  },
+  {
+    "hs": "21031000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Soya sauce.",
+    "exports_usd": 146987,
+    "quantity": 59930,
+    "affected": "affected"
+  },
+  {
+    "hs": "44152000",
+    "sitc": "6",
+    "country": "JM",
+    "description": "Pallets, box pallets and other load boards, of wood; pallet collars of wood.",
+    "exports_usd": 137144,
+    "quantity": 206840,
+    "affected": "affected"
+  },
+  {
+    "hs": "33021010",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Mixtures of two or more of bay, clove, nutmeg, orange, patchouli and pimento oils, for use in the food or drink industries.",
+    "exports_usd": 136865,
+    "quantity": 1334,
+    "affected": "affected"
+  },
+  {
+    "hs": "32081010",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Automotive paints based on polyesters, dispersed or dissolved in a non-aqueous medium.",
+    "exports_usd": 129830,
+    "quantity": 10670,
+    "affected": "affected"
+  },
+  {
+    "hs": "21032020",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Tomato sauces, other than ketchup.",
+    "exports_usd": 129635,
+    "quantity": 28636,
+    "affected": "affected"
+  },
+  {
+    "hs": "58089000",
+    "sitc": "6",
+    "country": "JM",
+    "description": "Ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles.",
+    "exports_usd": 129100,
+    "quantity": 23476,
+    "affected": "affected"
+  },
+  {
+    "hs": "10089000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other cereals, n.e.s.",
+    "exports_usd": 127648,
+    "quantity": 10700,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176900",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Other apparatus for transmission or reception of voice, images or other data, not elsewhere specified or included.",
+    "exports_usd": 125380,
+    "quantity": 240,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 124701,
+    "quantity": 119,
+    "affected": "affected"
+  },
+  {
+    "hs": "85014000",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Other AC motors, single-phase.",
+    "exports_usd": 120528,
+    "quantity": 622,
+    "affected": "affected"
+  },
+  {
+    "hs": "84439100",
+    "sitc": "7",
+    "country": "JM",
+    "description": "Parts and accessories of printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 (SITC 726.3).",
+    "exports_usd": 108862,
+    "quantity": 652,
+    "affected": "affected"
+  },
+  {
+    "hs": "20081990",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Other, including mixtures (nuts and other seeds, whether or not mixed together, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included).",
+    "exports_usd": 107499,
+    "quantity": 24383,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012990",
+    "sitc": "5",
+    "country": "JM",
+    "description": "Essential oils, other than of citrus fruits, mints, bay, clove, ginger, nutmeg, patchouli or pimento.",
+    "exports_usd": 105276,
+    "quantity": 8030,
+    "affected": "affected"
+  },
+  {
+    "hs": "22030090",
+    "sitc": "1",
+    "country": "JM",
+    "description": "Other beer made from malt.",
+    "exports_usd": 97636,
+    "quantity": 62505,
+    "affected": "affected"
+  },
+  {
+    "hs": "10049000",
+    "sitc": "0",
+    "country": "JM",
+    "description": "Oats, other than seed.",
+    "exports_usd": 94147,
+    "quantity": 27537,
+    "affected": "affected"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 534074,
+    "quantity": 7867,
+    "affected": "affected"
+  },
+  {
+    "hs": "84798900",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other machines and mechanical appliances having individual functions, not elsewhere specified or included.",
+    "exports_usd": 266626,
+    "quantity": 5732,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021100",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 262918,
+    "quantity": 121,
+    "affected": "affected"
+  },
+  {
+    "hs": "85444200",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other electric conductors, for a voltage not exceeding 1000 V, fitted with connectors.",
+    "exports_usd": 157647,
+    "quantity": 1310,
+    "affected": "affected"
+  },
+  {
+    "hs": "84799000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts for machines and mechanical appliances having individual functions, not elsewhere specified or included.",
+    "exports_usd": 107972,
+    "quantity": 1843,
+    "affected": "affected"
+  },
+  {
+    "hs": "84254290",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other hydraulic jacks and hoists used for raising vehicles.",
+    "exports_usd": 81104,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "90269000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Parts and accessories for instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of headin",
+    "exports_usd": 74958,
+    "quantity": 191,
+    "affected": "affected"
+  },
+  {
+    "hs": "85042300",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Liquid dielectric transformers, having a power handling capacity exceeding 10,000 kVA.",
+    "exports_usd": 33831,
+    "quantity": 10780,
+    "affected": "affected"
+  },
+  {
+    "hs": "85030000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts suitable for use solely or principally with electric motors, generators, generating sets and rotary converters (HS 85.01, 85.02).",
+    "exports_usd": 28959,
+    "quantity": 1500,
+    "affected": "affected"
+  },
+  {
+    "hs": "84314990",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other parts of machinery suitable for use solely or principally with machinery of heading 84.26 (SITC 744.3).",
+    "exports_usd": 27591,
+    "quantity": 549,
+    "affected": "affected"
+  },
+  {
+    "hs": "02071490",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Cuts and edible offal of fowls of the species gallus domesticus, other than backs, necks, wings or livers, frozen.",
+    "exports_usd": 27476,
+    "quantity": 22625,
+    "affected": "affected"
+  },
+  {
+    "hs": "90069100",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Parts and accessories for cameras",
+    "exports_usd": 24208,
+    "quantity": 1736,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012910",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Essential oils of bay.",
+    "exports_usd": 22640,
+    "quantity": 205,
+    "affected": "affected"
+  },
+  {
+    "hs": "65069100",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other headgear, not elsewhere specified or included, of rubber or of plastics, whether or not lined or trimmed.",
+    "exports_usd": 16181,
+    "quantity": 2620,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 15358,
+    "quantity": 6,
+    "affected": "affected"
+  },
+  {
+    "hs": "85043200",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Transformers (other than liquid dielectric transformers), having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA.",
+    "exports_usd": 14788,
+    "quantity": 1456,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 12933,
+    "quantity": 7,
+    "affected": "affected"
+  },
+  {
+    "hs": "82060090",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Tools (other than household tools) of two or more of the headings 82.02 to 82.05 (SITC 695.2 to 695.5), put up in sets for retail sale.",
+    "exports_usd": 12583,
+    "quantity": 246,
+    "affected": "affected"
+  },
+  {
+    "hs": "73160000",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Anchors, grapnels and parts thereof, of iron or steel.",
+    "exports_usd": 11220,
+    "quantity": 7812,
+    "affected": "affected"
+  },
+  {
+    "hs": "90303900",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other instruments and apparatus for measuring or checking voltage, current, resistance or power, with a recording device.",
+    "exports_usd": 10004,
+    "quantity": 12,
+    "affected": "affected"
+  },
+  {
+    "hs": "84433900",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other printers, copying machines and facsimile machines, whether or not combined, not elsewhere specified or included.",
+    "exports_usd": 9312,
+    "quantity": 25,
+    "affected": "affected"
+  },
+  {
+    "hs": "90262000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Instruments and apparatus for measuring or checking the pressure of liquids or gases.",
+    "exports_usd": 8775,
+    "quantity": 96,
+    "affected": "affected"
+  },
+  {
+    "hs": "56075010",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Twine and ropes, of other synthetic fibres.",
+    "exports_usd": 8509,
+    "quantity": 9057,
+    "affected": "affected"
+  },
+  {
+    "hs": "72042900",
+    "sitc": "2",
+    "country": "DM",
+    "description": "Waste and scrap of alloy steel, other than of stainless steel.",
+    "exports_usd": 8152,
+    "quantity": 8500,
+    "affected": "affected"
+  },
+  {
+    "hs": "76042100",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Hollow profiles, of aluminium alloys.",
+    "exports_usd": 7849,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "84831090",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Transmission shafts (including cam shafts and crank shafts) and cranks, other than for road motor vehicle engines, marine engines or aircrafts engines.",
+    "exports_usd": 5233,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "39239090",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other articles for the conveyance or packing of goods, of plastics.",
+    "exports_usd": 5218,
+    "quantity": 20,
+    "affected": "affected"
+  },
+  {
+    "hs": "84672100",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Drills of all kinds, for working in the hand, with self-contained electric motor.",
+    "exports_usd": 5031,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "85079090",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts, other than lead grids or plates coated with paste, for electric accumulators.",
+    "exports_usd": 5000,
+    "quantity": 10000,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030010",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Bay rum.",
+    "exports_usd": 4709,
+    "quantity": 326,
+    "affected": "affected"
+  },
+  {
+    "hs": "85414000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes.",
+    "exports_usd": 4649,
+    "quantity": 5042,
+    "affected": "affected"
+  },
+  {
+    "hs": "73045900",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Other tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel (other than stainless steel), other than those cold-drawn or cold-rolled (cold-reduced).",
+    "exports_usd": 4528,
+    "quantity": 1310,
+    "affected": "affected"
+  },
+  {
+    "hs": "84138100",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other pumps for liquids, not elsewhere specified or included.",
+    "exports_usd": 4316,
+    "quantity": 986,
+    "affected": "affected"
+  },
+  {
+    "hs": "73084000",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Equipment for scaffolding, shuttering, propping or pit-propping, of iron or steel.",
+    "exports_usd": 4226,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "90261000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Instruments and apparatus for measuring or checking the flow or level of liquids.",
+    "exports_usd": 3971,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "72043000",
+    "sitc": "2",
+    "country": "DM",
+    "description": "Waste and scrap of tinned iron or steel.",
+    "exports_usd": 3704,
+    "quantity": 5000,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 3592,
+    "quantity": 6,
+    "affected": "affected"
+  },
+  {
+    "hs": "84713000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display.",
+    "exports_usd": 3421,
+    "quantity": 6,
+    "affected": "affected"
+  },
+  {
+    "hs": "84778000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other machinery for working rubber or plastics or for the manufacture of articles from these materials.",
+    "exports_usd": 3389,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176200",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus.",
+    "exports_usd": 3189,
+    "quantity": 172,
+    "affected": "affected"
+  },
+  {
+    "hs": "90258090",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Hydrometers and similar floating instruments, hygrometers and psychrometers, recording or not, and any combination of these instruments.",
+    "exports_usd": 2236,
+    "quantity": 72,
+    "affected": "affected"
+  },
+  {
+    "hs": "90318000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other measuring or checking instruments, appliances and machines not elsewhere specified or included.",
+    "exports_usd": 1840,
+    "quantity": 48,
+    "affected": "affected"
+  },
+  {
+    "hs": "90328900",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Automatic regulating or controlling instruments and apparatus (other than thermostats, manostats or hydraulic or pneumatic instruments and apparatus).",
+    "exports_usd": 1736,
+    "quantity": 95,
+    "affected": "affected"
+  },
+  {
+    "hs": "85369000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, surge suppressors, junction boxes), for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 1549,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "40093100",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Tubes, pipes and hoses, of vulcanized rubber other than hard rubber, reinforced or otherwise combined only with textile materials, without their fittings.",
+    "exports_usd": 1509,
+    "quantity": 41,
+    "affected": "affected"
+  },
+  {
+    "hs": "84669300",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other parts and accessories for machines of headings 84.56 to 84.61 (SITC 731).",
+    "exports_usd": 1509,
+    "quantity": 204,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069099",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Other food preparations not elsewhere specified or included.",
+    "exports_usd": 1482,
+    "quantity": 26,
+    "affected": "affected"
+  },
+  {
+    "hs": "84229000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts of machines for dishwashing, cleaning or drying bottles and the like, of machines for filling, closing, sealing, labelling, and the like, and of machines for aerating beverages.",
+    "exports_usd": 1433,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "85078000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Electric accumulators (other than lead-acid, nickel-cadmium, nickel-iron, nickel-metal hydride or lithium-ion accumulators).",
+    "exports_usd": 1423,
+    "quantity": 88078,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061910",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Live dogs",
+    "exports_usd": 1111,
+    "quantity": 3000,
+    "affected": "affected"
+  },
+  {
+    "hs": "84439100",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts and accessories of printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 (SITC 726.3).",
+    "exports_usd": 1006,
+    "quantity": 15,
+    "affected": "affected"
+  },
+  {
+    "hs": "90271000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Gas or smoke analysis apparatus.",
+    "exports_usd": 1006,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "94054000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other electric lamps and lighting fittings.",
+    "exports_usd": 926,
+    "quantity": 34,
+    "affected": "affected"
+  },
+  {
+    "hs": "34011120",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Soap (other than medicated soap) and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, for toilet use.",
+    "exports_usd": 908,
+    "quantity": 76,
+    "affected": "affected"
+  },
+  {
+    "hs": "85153900",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Machines and apparatus for arc (including plasma arc) welding of metals, other than those fully or partly automatic.",
+    "exports_usd": 755,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055900",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Other hand tools (including glaziers’ diamonds), not elsewhere specified or included.",
+    "exports_usd": 654,
+    "quantity": 7,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 583,
+    "quantity": 15,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046990",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Women’s or girls’ bib and brace overalls and breeches, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 556,
+    "quantity": 75,
+    "affected": "affected"
+  },
+  {
+    "hs": "91039000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Clocks with watch movements, excluding clocks of heading 91.04 (SITC 885.71), not electrically operated.",
+    "exports_usd": 503,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "33059000",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Preparations for use on the hair, other than shampoos, preparations for permanent waving or straightening, or hair lacquers.",
+    "exports_usd": 465,
+    "quantity": 13,
+    "affected": "affected"
+  },
+  {
+    "hs": "85151900",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Brazing or soldering machines and apparatus, other than soldering irons or guns.",
+    "exports_usd": 433,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "73182400",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Cotters and cotter-pins, of iron or steel.",
+    "exports_usd": 413,
+    "quantity": 211,
+    "affected": "affected"
+  },
+  {
+    "hs": "73072900",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Other tube and pipe fittings, of stainless steel.",
+    "exports_usd": 339,
+    "quantity": 24,
+    "affected": "affected"
+  },
+  {
+    "hs": "90148000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other navigational instruments and appliances.",
+    "exports_usd": 302,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "19011000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, n.e.s; food preparations of goods of headings 04.01 to 04.04, not containing coco",
+    "exports_usd": 289,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "49119100",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Pictures, designs and photographs.",
+    "exports_usd": 204,
+    "quantity": 20,
+    "affected": "affected"
+  },
+  {
+    "hs": "82041200",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Hand-operated spanners and wrenches, adjustable.",
+    "exports_usd": 201,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "76151030",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Baking, stew and frying pans, of aluminium.",
+    "exports_usd": 185,
+    "quantity": 95,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171290",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Telephones for cellular networks or for other wireless networks, other than portable radio-telephones.",
+    "exports_usd": 185,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "34011910",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, for laundry and other household uses.",
+    "exports_usd": 168,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "18031000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Cocoa paste, not defatted.",
+    "exports_usd": 153,
+    "quantity": 15,
+    "affected": "affected"
+  },
+  {
+    "hs": "90268000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Other instruments or apparatus for measuring or checking the flow, level or other variables of liquids or gases, excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32 (SITC 873.1, 874.1 and 874.6).",
+    "exports_usd": 148,
+    "quantity": 24,
+    "affected": "affected"
+  },
+  {
+    "hs": "82051000",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Drilling, threading or tapping tools.",
+    "exports_usd": 111,
+    "quantity": 50,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089990",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other parts and accessories for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 111,
+    "quantity": 278,
+    "affected": "affected"
+  },
+  {
+    "hs": "84828000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other, including combined ball/roller bearings.",
+    "exports_usd": 104,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "84716000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Input or output units, whether or not containing storage units in the same housing.",
+    "exports_usd": 101,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "90289000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Parts and accessories for gas, liquid or electricity supply or production meters, including calibrating meters therefor.",
+    "exports_usd": 101,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "96151110",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Combs, of hard rubber or plastics.",
+    "exports_usd": 78,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176900",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Other apparatus for transmission or reception of voice, images or other data, not elsewhere specified or included.",
+    "exports_usd": 74,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "38089911",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Rodenticides, put up in forms or packings of a net weight not exceeding 6 kg or as articles, other than those specified in subheading 3808.50 and 3808.60.",
+    "exports_usd": 59,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 59,
+    "quantity": 20,
+    "affected": "affected"
+  },
+  {
+    "hs": "73182900",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Non-threaded articles, other than washers, rivets, cotters or cotter-pins, of iron or steel.",
+    "exports_usd": 50,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "85258000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Television cameras, digital cameras and video camera recorders.",
+    "exports_usd": 50,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "19053100",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Sweet biscuits.",
+    "exports_usd": 45,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "62052000",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 43,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "84769000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Parts for automatic goods-vending machines, including money-changing machines.",
+    "exports_usd": 40,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "62045200",
+    "sitc": "8",
+    "country": "DM",
+    "description": "Women’s or girls’ skirts and divided skirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 40,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "18069000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Other chocolate and food preparations containing cocoa, nes.",
+    "exports_usd": 32,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "82119390",
+    "sitc": "6",
+    "country": "DM",
+    "description": "Knives (other than table and other household knives) having other than fixed blades.",
+    "exports_usd": 32,
+    "quantity": 0,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012400",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Essential oils of peppermint (Mentha piperita).",
+    "exports_usd": 31,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030090",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Perfumes and toilet waters, other than bay rum.",
+    "exports_usd": 30,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "33072000",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Personal deodorants and anti-perspirants.",
+    "exports_usd": 27,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "04011000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 1%.",
+    "exports_usd": 20,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "84717000",
+    "sitc": "7",
+    "country": "DM",
+    "description": "Storage units.",
+    "exports_usd": 20,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "15153000",
+    "sitc": "4",
+    "country": "DM",
+    "description": "Castor oil and its fractions, whether or not refined, but not chemically modified.",
+    "exports_usd": 18,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "33012990",
+    "sitc": "5",
+    "country": "DM",
+    "description": "Essential oils, other than of citrus fruits, mints, bay, clove, ginger, nutmeg, patchouli or pimento.",
+    "exports_usd": 14,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "04015000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 10%.",
+    "exports_usd": 14,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "12119090",
+    "sitc": "2",
+    "country": "DM",
+    "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered, other than ginseng roots, coca leaf,",
+    "exports_usd": 12,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "21011100",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Extracts, essences and concentrates, of coffee.",
+    "exports_usd": 11,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "09022000",
+    "sitc": "0",
+    "country": "DM",
+    "description": "Green tea (not fermented), whether or not flavoured, in immediate packings of a content exceeding 3 kg.",
+    "exports_usd": 9,
+    "quantity": 1,
+    "affected": "affected"
+  }
+]

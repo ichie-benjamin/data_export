@@ -1,0 +1,274 @@
+[
+  {
+    "hs": "999999",
+    "sitc": "9",
+    "country": "GY",
+    "description": "Commodities not specified according to kind",
+    "exports_usd": 123710797,
+    "affected": "affected"
+  },
+  {
+    "hs": "170114",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
+    "exports_usd": 19537495,
+    "affected": "affected"
+  },
+  {
+    "hs": "220840",
+    "sitc": "1",
+    "country": "GY",
+    "description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
+    "exports_usd": 9004962,
+    "affected": "affected"
+  },
+  {
+    "hs": "030617",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Crustaceans; frozen, shrimps and prawns, excluding cold-water varieties, in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",
+    "exports_usd": 5665241,
+    "affected": "affected"
+  },
+  {
+    "hs": "030389",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Fish; frozen, n.e.c. in heading 0303, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "exports_usd": 5429877,
+    "affected": "affected"
+  },
+  {
+    "hs": "030289",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Fish; fresh or chilled, n.e.c. in heading 0302, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "exports_usd": 4871719,
+    "affected": "affected"
+  },
+  {
+    "hs": "843049",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Boring and sinking machinery; not self-propelled",
+    "exports_usd": 3992580,
+    "affected": "affected"
+  },
+  {
+    "hs": "441850",
+    "sitc": "6",
+    "country": "GY",
+    "description": "Wood; shingles and shakes",
+    "exports_usd": 2144254,
+    "affected": "affected"
+  },
+  {
+    "hs": "190219",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",
+    "exports_usd": 1797982,
+    "affected": "affected"
+  },
+  {
+    "hs": "030489",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Fish fillets; frozen, of fish n.e.c. in heading 0304.8",
+    "exports_usd": 1319131,
+    "affected": "affected"
+  },
+  {
+    "hs": "262190",
+    "sitc": "2",
+    "country": "GY",
+    "description": "Slag and ash n.e.c. in chapter 26; including seaweed ash (kelp) but excluding ash and residues from the incineration of municipal waste",
+    "exports_usd": 886881,
+    "affected": "affected"
+  },
+  {
+    "hs": "080111",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Nuts, edible; coconuts, desiccated",
+    "exports_usd": 749440,
+    "affected": "affected"
+  },
+  {
+    "hs": "100630",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",
+    "exports_usd": 658874,
+    "affected": "affected"
+  },
+  {
+    "hs": "710210",
+    "sitc": "6",
+    "country": "GY",
+    "description": "Diamonds; whether or not worked, but not mounted or set, unsorted",
+    "exports_usd": 578746,
+    "affected": "affected"
+  },
+  {
+    "hs": "210390",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
+    "exports_usd": 541332,
+    "affected": "affected"
+  },
+  {
+    "hs": "200989",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Juice; of any single fruit, nut or vegetable n.e.c. in heading no. 2009, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
+    "exports_usd": 390397,
+    "affected": "affected"
+  },
+  {
+    "hs": "730900",
+    "sitc": "6",
+    "country": "GY",
+    "description": "Reservoirs, tanks, vats and similar containers; for any material (excluding compressed or liquefied gas), of iron or steel, capacity exceeding 300l, whether or not lined or heat insulated",
+    "exports_usd": 304022,
+    "affected": "affected"
+  },
+  {
+    "hs": "151710",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Margarine; excluding liquid margarine",
+    "exports_usd": 256409,
+    "affected": "affected"
+  },
+  {
+    "hs": "841199",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Turbines; parts of gas turbines (excluding turbo-jets and turbo-propellers)",
+    "exports_usd": 238926,
+    "affected": "affected"
+  },
+  {
+    "hs": "220210",
+    "sitc": "1",
+    "country": "GY",
+    "description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
+    "exports_usd": 232294,
+    "affected": "affected"
+  },
+  {
+    "hs": "860900",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
+    "exports_usd": 188145,
+    "affected": "affected"
+  },
+  {
+    "hs": "850120",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Electric motors; universal AC/DC of an output exceeding 37.5W",
+    "exports_usd": 183839,
+    "affected": "affected"
+  },
+  {
+    "hs": "030636",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Crustaceans; live, fresh or chilled, shrimps and prawns excluding cold-water varieties, in shell or not",
+    "exports_usd": 172950,
+    "affected": "affected"
+  },
+  {
+    "hs": "840820",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Engines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for the propulsion of vehicles of chapter 87",
+    "exports_usd": 164637,
+    "affected": "affected"
+  },
+  {
+    "hs": "190211",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Food preparations; pasta, containing eggs, uncooked, not stuffed or otherwise prepared",
+    "exports_usd": 163459,
+    "affected": "affected"
+  },
+  {
+    "hs": "820719",
+    "sitc": "6",
+    "country": "GY",
+    "description": "Tools, interchangeable; rock drilling or earth boring tools, with working part (other than of cermets), whether or not power operated, including parts",
+    "exports_usd": 158889,
+    "affected": "affected"
+  },
+  {
+    "hs": "200891",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Fruit, palm hearts; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",
+    "exports_usd": 157460,
+    "affected": "affected"
+  },
+  {
+    "hs": "730799",
+    "sitc": "6",
+    "country": "GY",
+    "description": "Iron or steel; tube or pipe fittings, n.e.c. in item no. 7307.9, other than stainless steel",
+    "exports_usd": 146895,
+    "affected": "affected"
+  },
+  {
+    "hs": "853690",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Electrical apparatus; n.e.c. in heading no. 8536, for switching or protecting electrical circuits, for a voltage not exceeding 1000 volts",
+    "exports_usd": 141700,
+    "affected": "affected"
+  },
+  {
+    "hs": "091099",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Spices; n.e.c. in heading no. 0910",
+    "exports_usd": 138938,
+    "affected": "affected"
+  },
+  {
+    "hs": "841231",
+    "sitc": "7",
+    "country": "GY",
+    "description": "Engines; pneumatic power engines and motors, linear acting (cylinders)",
+    "exports_usd": 134800,
+    "affected": "affected"
+  },
+  {
+    "hs": "010620",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Reptiles; live (including snakes and turtles)",
+    "exports_usd": 129982,
+    "affected": "affected"
+  },
+  {
+    "hs": "190230",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Food preparations; pasta (excluding stuffed), cooked or otherwise prepared",
+    "exports_usd": 118013,
+    "affected": "affected"
+  },
+  {
+    "hs": "200899",
+    "sitc": "0",
+    "country": "GY",
+    "description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
+    "exports_usd": 106706,
+    "affected": "affected"
+  }
+]

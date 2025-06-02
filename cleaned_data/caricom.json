@@ -1,0 +1,702 @@
+[
+  {
+    "hs": "720310",
+    "description": "Ferrous products; obtained by direct reduction of iron ore, in lumps, pellets or similar forms",
+    "sitc": "6",
+    "exports_usd": 591264613,
+    "affected": "affected"
+  },
+  {
+    "hs": "281410",
+    "description": "Ammonia; anhydrous",
+    "sitc": "5",
+    "exports_usd": 382116545,
+    "affected": "affected"
+  },
+  {
+    "hs": "290511",
+    "description": "Alcohols; saturated monohydric, methanol (methyl alcohol)",
+    "sitc": "5",
+    "exports_usd": 161983626,
+    "affected": "affected"
+  },
+  {
+    "hs": "310280",
+    "description": "Fertilizers, mineral or chemical; nitrogenous, mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",
+    "sitc": "5",
+    "exports_usd": 71307343,
+    "affected": "affected"
+  },
+  {
+    "hs": "210390",
+    "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings",
+    "sitc": "0",
+    "exports_usd": 61228052,
+    "affected": "affected"
+  },
+  {
+    "hs": "220840",
+    "description": "Rum and other spirits obtained by distilling fermented sugar-cane products",
+    "sitc": "1",
+    "exports_usd": 43433159,
+    "affected": "affected"
+  },
+  {
+    "hs": "071430",
+    "description": "Vegetable roots and tubers; yams (Dioscorea spp.) with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets",
+    "sitc": "0",
+    "exports_usd": 34606815,
+    "affected": "affected"
+  },
+  {
+    "hs": "170114",
+    "description": "Sugars; cane sugar, raw, in solid form, other than as specified in Subheading Note 2 to this chapter, not containing added flavouring or colouring matter",
+    "sitc": "0",
+    "exports_usd": 33891154,
+    "affected": "affected"
+  },
+  {
+    "hs": "880240",
+    "description": "Aeroplanes and other aircraft; of an unladen weight exceeding 15,000kg",
+    "sitc": "7",
+    "exports_usd": 30230922,
+    "affected": "affected"
+  },
+  {
+    "hs": "310210",
+    "description": "Fertilizers, mineral or chemical; nitrogenous, urea, whether or not in aqueous solution",
+    "sitc": "5",
+    "exports_usd": 20761551,
+    "affected": "affected"
+  },
+  {
+    "hs": "843143",
+    "description": "Boring or sinking machinery; parts of the machinery of item no. 8430.41 or 8430.41",
+    "sitc": "7",
+    "exports_usd": 20701251,
+    "affected": "affected"
+  },
+  {
+    "hs": "711319",
+    "description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
+    "sitc": "8",
+    "exports_usd": 19743639,
+    "affected": "affected"
+  },
+  {
+    "hs": "190590",
+    "description": "Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",
+    "sitc": "0",
+    "exports_usd": 18742762,
+    "affected": "affected"
+  },
+  {
+    "hs": "030389",
+    "description": "Fish; frozen, n.e.c. in heading 0303, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",
+    "sitc": "0",
+    "exports_usd": 17528320,
+    "affected": "affected"
+  },
+  {
+    "hs": "220300",
+    "description": "Beer; made from malt",
+    "sitc": "1",
+    "exports_usd": 17420170,
+    "affected": "affected"
+  },
+  {
+    "hs": "200899",
+    "description": "Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008",
+    "sitc": "0",
+    "exports_usd": 17378548,
+    "affected": "affected"
+  },
+  {
+    "hs": "030232",
+    "description": "Fish; fresh or chilled, yellowfin tunas (Thunnus albacares), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "sitc": "0",
+    "exports_usd": 15089007,
+    "affected": "affected"
+  },
+  {
+    "hs": "030289",
+    "description": "Fish; fresh or chilled, n.e.c. in heading 0302, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "sitc": "0",
+    "exports_usd": 14930689,
+    "affected": "affected"
+  },
+  {
+    "hs": "220299",
+    "description": "Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit or vegetable juices of heading no. 2009",
+    "sitc": "1",
+    "exports_usd": 12185208,
+    "affected": "affected"
+  },
+  {
+    "hs": "252100",
+    "description": "Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement",
+    "sitc": "2",
+    "exports_usd": 11274245,
+    "affected": "affected"
+  },
+  {
+    "hs": "880212",
+    "description": "Helicopters; of an unladen weight exceeding 2000kg",
+    "sitc": "7",
+    "exports_usd": 10833113,
+    "affected": "affected"
+  },
+  {
+    "hs": "030611",
+    "description": "Crustaceans; frozen, rock lobsters and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",
+    "sitc": "0",
+    "exports_usd": 10658073,
+    "affected": "affected"
+  },
+  {
+    "hs": "841199",
+    "description": "Turbines; parts of gas turbines (excluding turbo-jets and turbo-propellers)",
+    "sitc": "7",
+    "exports_usd": 8403211,
+    "affected": "affected"
+  },
+  {
+    "hs": "890190",
+    "description": "Vessels; n.e.c. in heading no. 8901, for the transport of goods and other vessels for the transport of both persons and goods",
+    "sitc": "7",
+    "exports_usd": 7276032,
+    "affected": "affected"
+  },
+  {
+    "hs": "841182",
+    "description": "Turbines; gas-turbines (excluding turbo-jets and turbo-propellers), of a power exceeding 5000kW",
+    "sitc": "7",
+    "exports_usd": 7139244,
+    "affected": "affected"
+  },
+  {
+    "hs": "853669",
+    "description": "Electrical apparatus; plugs and sockets, for a voltage not exceeding 1000 volts",
+    "sitc": "7",
+    "exports_usd": 6707544,
+    "affected": "affected"
+  },
+  {
+    "hs": "030799",
+    "description": "Molluscs; n.e.c. in heading 0307, whether in shell or not, includes flours, meals, and pellets of molluscs, fit for human consumption, dried, salted, in brine, or smoked, cooked or not before or during the smoking process",
+    "sitc": "0",
+    "exports_usd": 6467332,
+    "affected": "affected"
+  },
+  {
+    "hs": "030617",
+    "description": "Crustaceans; frozen, shrimps and prawns, excluding cold-water varieties, in shell or not, smoked, cooked or not before or during smoking; in shell, cooked by steaming or by boiling in water",
+    "sitc": "0",
+    "exports_usd": 5665564,
+    "affected": "affected"
+  },
+  {
+    "hs": "210690",
+    "description": "Food preparations; n.e.c. in item no. 2106.10",
+    "sitc": "0",
+    "exports_usd": 5284293,
+    "affected": "affected"
+  },
+  {
+    "hs": "843049",
+    "description": "Boring and sinking machinery; not self-propelled",
+    "sitc": "7",
+    "exports_usd": 5173218,
+    "affected": "affected"
+  },
+  {
+    "hs": "030449",
+    "description": "Fish fillets; fresh or chilled, other than fish of heading 0304.4",
+    "sitc": "0",
+    "exports_usd": 5069796,
+    "affected": "affected"
+  },
+  {
+    "hs": "170390",
+    "description": "Sugars; molasses, from sugar beet, resulting from the extraction or refining of sugar",
+    "sitc": "0",
+    "exports_usd": 4943316,
+    "affected": "affected"
+  },
+  {
+    "hs": "190531",
+    "description": "Food preparations; sweet biscuits, whether or not containing cocoa",
+    "sitc": "0",
+    "exports_usd": 4825668,
+    "affected": "affected"
+  },
+  {
+    "hs": "200990",
+    "description": "Juices; mixtures of fruits or vegetables, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
+    "sitc": "0",
+    "exports_usd": 4743404,
+    "affected": "affected"
+  },
+  {
+    "hs": "293361",
+    "description": "Heterocyclic compounds; containing an unfused triazine ring (whether or not hydrogenated) in the structure, melamine",
+    "sitc": "5",
+    "exports_usd": 4594223,
+    "affected": "affected"
+  },
+  {
+    "hs": "220210",
+    "description": "Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured",
+    "sitc": "1",
+    "exports_usd": 4556351,
+    "affected": "affected"
+  },
+  {
+    "hs": "731581",
+    "description": "Chain; stud-link chain, of iron or steel",
+    "sitc": "6",
+    "exports_usd": 4525809,
+    "affected": "affected"
+  },
+  {
+    "hs": "820719",
+    "description": "Tools, interchangeable; rock drilling or earth boring tools, with working part (other than of cermets), whether or not power operated, including parts",
+    "sitc": "6",
+    "exports_usd": 4426584,
+    "affected": "affected"
+  },
+  {
+    "hs": "381590",
+    "description": "Reaction initiators, reaction accelerators and catalytic preparations, unsupported, n.e.c. or included",
+    "sitc": "5",
+    "exports_usd": 4086809,
+    "affected": "affected"
+  },
+  {
+    "hs": "847989",
+    "description": "Machines and mechanical appliances; having individual functions, n.e.c. or included in this chapter",
+    "sitc": "7",
+    "exports_usd": 3970599,
+    "affected": "affected"
+  },
+  {
+    "hs": "848190",
+    "description": "Taps, cocks, valves and similar appliances; parts thereof",
+    "sitc": "7",
+    "exports_usd": 3840410,
+    "affected": "affected"
+  },
+  {
+    "hs": "090111",
+    "description": "Coffee; not roasted or decaffeinated",
+    "sitc": "0",
+    "exports_usd": 3796199,
+    "affected": "affected"
+  },
+  {
+    "hs": "040630",
+    "description": "Dairy produce; cheese, processed (not grated or powdered)",
+    "sitc": "0",
+    "exports_usd": 3770580,
+    "affected": "affected"
+  },
+  {
+    "hs": "910119",
+    "description": "Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or metal clad with precious metal, without mechanical display",
+    "sitc": "8",
+    "exports_usd": 3564609,
+    "affected": "affected"
+  },
+  {
+    "hs": "711311",
+    "description": "Jewellery; of silver, whether or not plated or clad with other precious metal, and parts thereof",
+    "sitc": "8",
+    "exports_usd": 3238714,
+    "affected": "affected"
+  },
+  {
+    "hs": "910221",
+    "description": "Wrist-watches; whether or not incorporating a stop-watch facility, with automatic winding",
+    "sitc": "8",
+    "exports_usd": 3181341,
+    "affected": "affected"
+  },
+  {
+    "hs": "980100",
+    "description": "Personal and Household effects",
+    "sitc": "9",
+    "exports_usd": 3168392,
+    "affected": "affected"
+  },
+  {
+    "hs": "210410",
+    "description": "Soups and broths and preparations therefor",
+    "sitc": "0",
+    "exports_usd": 3082041,
+    "affected": "affected"
+  },
+  {
+    "hs": "030499",
+    "description": "Fish meat, excluding fillets, whether or not minced; frozen, n.e.c. in item no. 0304.9",
+    "sitc": "0",
+    "exports_usd": 3038471,
+    "affected": "affected"
+  },
+  {
+    "hs": "030487",
+    "description": "Fish fillets; frozen, tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis)",
+    "sitc": "0",
+    "exports_usd": 3016086,
+    "affected": "affected"
+  },
+  {
+    "hs": "390910",
+    "description": "Amino-resins; urea and thiourea resins, in primary forms",
+    "sitc": "5",
+    "exports_usd": 2999223,
+    "affected": "affected"
+  },
+  {
+    "hs": "180631",
+    "description": "Chocolate and other food preparations containing cocoa; in blocks, slabs or bars, filled, weighing 2kg or less",
+    "sitc": "0",
+    "exports_usd": 2870997,
+    "affected": "affected"
+  },
+  {
+    "hs": "170290",
+    "description": "Sugars; n.e.c. in heading no. 1702, including invert sugar and other sugar and sugar syrup blends containing, in the dry state, 50% by weight of fructose",
+    "sitc": "0",
+    "exports_usd": 2850767,
+    "affected": "affected"
+  },
+  {
+    "hs": "091099",
+    "description": "Spices; n.e.c. in heading no. 0910",
+    "sitc": "0",
+    "exports_usd": 2705617,
+    "affected": "affected"
+  },
+  {
+    "hs": "731100",
+    "description": "Containers for compressed or liquefied gas, of iron or steel",
+    "sitc": "6",
+    "exports_usd": 2681554,
+    "affected": "affected"
+  },
+  {
+    "hs": "200510",
+    "description": "Vegetable preparations; homogenised vegetables, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
+    "sitc": "0",
+    "exports_usd": 2639421,
+    "affected": "affected"
+  },
+  {
+    "hs": "850940",
+    "description": "Electro-mechanical domestic appliances; food grinders and mixers, fruit or vegetable juice extractors, with self-contained electric motor",
+    "sitc": "7",
+    "exports_usd": 2524488,
+    "affected": "affected"
+  },
+  {
+    "hs": "910129",
+    "description": "Wrist-watches; (not electrically operated), (not automatic winding), whether or not incorporating a stop-watch facility, case of precious metal or of metal clad with precious metal",
+    "sitc": "8",
+    "exports_usd": 2353323,
+    "affected": "affected"
+  },
+  {
+    "hs": "710239",
+    "description": "Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",
+    "sitc": "6",
+    "exports_usd": 2282651,
+    "affected": "affected"
+  },
+  {
+    "hs": "840999",
+    "description": "Engines; parts for internal combustion piston engines (excluding spark-ignition)",
+    "sitc": "7",
+    "exports_usd": 2235372,
+    "affected": "affected"
+  },
+  {
+    "hs": "901580",
+    "description": "Surveying equipment; articles n.e.c. in heading no. 9015, including hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excluding compasses)",
+    "sitc": "8",
+    "exports_usd": 2170294,
+    "affected": "affected"
+  },
+  {
+    "hs": "220870",
+    "description": "Liqueurs and cordials",
+    "sitc": "1",
+    "exports_usd": 2152821,
+    "affected": "affected"
+  },
+  {
+    "hs": "251710",
+    "description": "Pebbles, gravel, broken or crushed stone; of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated",
+    "sitc": "2",
+    "exports_usd": 2140498,
+    "affected": "affected"
+  },
+  {
+    "hs": "040690",
+    "description": "Dairy produce; cheese (not grated, powdered or processed), n.e.c. in heading no. 0406",
+    "sitc": "0",
+    "exports_usd": 2118255,
+    "affected": "affected"
+  },
+  {
+    "hs": "732620",
+    "description": "Iron or steel; wire articles",
+    "sitc": "6",
+    "exports_usd": 2070258,
+    "affected": "affected"
+  },
+  {
+    "hs": "880330",
+    "description": "Aircraft and spacecraft; parts of aeroplanes or helicopters n.e.c. in heading no. 8803",
+    "sitc": "7",
+    "exports_usd": 2037752,
+    "affected": "affected"
+  },
+  {
+    "hs": "853690",
+    "description": "Electrical apparatus; n.e.c. in heading no. 8536, for switching or protecting electrical circuits, for a voltage not exceeding 1000 volts",
+    "sitc": "7",
+    "exports_usd": 2032228,
+    "affected": "affected"
+  },
+  {
+    "hs": "190219",
+    "description": "Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",
+    "sitc": "0",
+    "exports_usd": 1935009,
+    "affected": "affected"
+  },
+  {
+    "hs": "610910",
+    "description": "T-shirts, singlets and other vests; of cotton, knitted or crocheted",
+    "sitc": "8",
+    "exports_usd": 1861283,
+    "affected": "affected"
+  },
+  {
+    "hs": "731210",
+    "description": "Iron or steel; stranded wire, ropes and cables, not electrically insulated",
+    "sitc": "6",
+    "exports_usd": 1791022,
+    "affected": "affected"
+  },
+  {
+    "hs": "081090",
+    "description": "Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",
+    "sitc": "0",
+    "exports_usd": 1739952,
+    "affected": "affected"
+  },
+  {
+    "hs": "121221",
+    "description": "Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+    "sitc": "2",
+    "exports_usd": 1720173,
+    "affected": "affected"
+  },
+  {
+    "hs": "730423",
+    "description": "Iron or steel (excluding cast iron or stainless steel); seamless, drill pipe, of a kind used in drilling for oil or gas",
+    "sitc": "6",
+    "exports_usd": 1681499,
+    "affected": "affected"
+  },
+  {
+    "hs": "080270",
+    "description": "Nuts, edible; kola nuts (Cola spp.), fresh or dried, whether or not shelled or peeled",
+    "sitc": "0",
+    "exports_usd": 1663463,
+    "affected": "affected"
+  },
+  {
+    "hs": "910211",
+    "description": "Wrist-watches; electrically operated, with or without a stop-watch, (other than those of heading no. 9101) with mechanical display only",
+    "sitc": "8",
+    "exports_usd": 1654290,
+    "affected": "affected"
+  },
+  {
+    "hs": "220890",
+    "description": "Spirits, liqueurs and other spirituous beverages; n.e.c. in heading no. 2208",
+    "sitc": "1",
+    "exports_usd": 1627585,
+    "affected": "affected"
+  },
+  {
+    "hs": "890790",
+    "description": "Floating structures; tanks, coffer-dams, landing stages, buoys and beacons",
+    "sitc": "7",
+    "exports_usd": 1590301,
+    "affected": "affected"
+  },
+  {
+    "hs": "170490",
+    "description": "Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa",
+    "sitc": "0",
+    "exports_usd": 1586162,
+    "affected": "affected"
+  },
+  {
+    "hs": "441810",
+    "description": "Wood; windows, French-windows and their frames",
+    "sitc": "6",
+    "exports_usd": 1551558,
+    "affected": "affected"
+  },
+  {
+    "hs": "711299",
+    "description": "Waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds",
+    "sitc": "2",
+    "exports_usd": 1551281,
+    "affected": "affected"
+  },
+  {
+    "hs": "731590",
+    "description": "Chain; parts n.e.c. in heading no. 7315, of iron or steel",
+    "sitc": "6",
+    "exports_usd": 1534758,
+    "affected": "affected"
+  },
+  {
+    "hs": "841370",
+    "description": "Pumps; centrifugal, n.e.c. in heading no. 8413, for liquids",
+    "sitc": "7",
+    "exports_usd": 1528791,
+    "affected": "affected"
+  },
+  {
+    "hs": "330300",
+    "description": "Perfumes and toilet waters",
+    "sitc": "5",
+    "exports_usd": 1516452,
+    "affected": "affected"
+  },
+  {
+    "hs": "490700",
+    "description": "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; cheque forms; banknotes, stock, share or bond certificates and the like of similar title",
+    "sitc": "8",
+    "exports_usd": 1484474,
+    "affected": "affected"
+  },
+  {
+    "hs": "840710",
+    "description": "Engines; for aircraft, spark-ignition reciprocating or rotary internal combustion piston engines",
+    "sitc": "7",
+    "exports_usd": 1467994,
+    "affected": "affected"
+  },
+  {
+    "hs": "860900",
+    "description": "Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport",
+    "sitc": "7",
+    "exports_usd": 1458144,
+    "affected": "affected"
+  },
+  {
+    "hs": "640590",
+    "description": "Footwear; n.e.c. in chapter 64",
+    "sitc": "8",
+    "exports_usd": 1443491,
+    "affected": "affected"
+  },
+  {
+    "hs": "320910",
+    "description": "Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium",
+    "sitc": "5",
+    "exports_usd": 1440696,
+    "affected": "affected"
+  },
+  {
+    "hs": "900710",
+    "description": "Cameras, cinematographic; whether or not incorporating sound recording apparatus",
+    "sitc": "8",
+    "exports_usd": 1427904,
+    "affected": "affected"
+  },
+  {
+    "hs": "220510",
+    "description": "Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers holding 2 litres or less",
+    "sitc": "1",
+    "exports_usd": 1394079,
+    "affected": "affected"
+  },
+  {
+    "hs": "903090",
+    "description": "Instruments, apparatus for measuring, checking electrical quantities, not meters of heading no. 9028; parts and accessories, for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",
+    "sitc": "8",
+    "exports_usd": 1375768,
+    "affected": "affected"
+  },
+  {
+    "hs": "731600",
+    "description": "Iron or steel; anchors, grapnels and parts thereof",
+    "sitc": "6",
+    "exports_usd": 1370639,
+    "affected": "affected"
+  },
+  {
+    "hs": "630630",
+    "description": "Sails; for boats, sailboards or landcraft",
+    "sitc": "6",
+    "exports_usd": 1361809,
+    "affected": "affected"
+  },
+  {
+    "hs": "030234",
+    "description": "Fish; fresh or chilled, bigeye tunas (Thunnus obesus), excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0302.91 to 0302.99",
+    "sitc": "0",
+    "exports_usd": 1351164,
+    "affected": "affected"
+  },
+  {
+    "hs": "190490",
+    "description": "Food preparations; cereal or cereal products (excluding maize), in grain form, pre-cooked or otherwise prepared",
+    "sitc": "0",
+    "exports_usd": 1335048,
+    "affected": "affected"
+  },
+  {
+    "hs": "732690",
+    "description": "Iron or steel; articles n.e.c. in heading 7326",
+    "sitc": "6",
+    "exports_usd": 1324340,
+    "affected": "affected"
+  },
+  {
+    "hs": "330112",
+    "description": "Oils, essential; of orange (terpeneless or not), including concretes and absolutes",
+    "sitc": "5",
+    "exports_usd": 1305344,
+    "affected": "affected"
+  },
+  {
+    "hs": "903180",
+    "description": "Instruments, appliances and machines; for measuring or checking n.e.c. in chapter 90",
+    "sitc": "8",
+    "exports_usd": 1264418,
+    "affected": "affected"
+  },
+  {
+    "hs": "851762",
+    "description": "Communication apparatus (excluding telephone sets or base stations); machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",
+    "sitc": "7",
+    "exports_usd": 1233509,
+    "affected": "affected"
+  },
+  {
+    "hs": "070960",
+    "description": "Vegetables; fruits of the genus capsicum or of the genus pimenta, fresh or chilled",
+    "sitc": "0",
+    "exports_usd": 1229499,
+    "affected": "affected"
+  }
+]

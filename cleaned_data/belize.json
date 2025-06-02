@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "17011490",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Raw cane sugar (other than those specified in Subheading Note 2 to this Chapter), not containing added flavouring or colouring matter, other than for retail sale in packages of not more than 10kg.",
+    "exports_usd": 10496657,
+    "quantity": 16816980,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061100",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Rock lobster and other sea crawfish (palinurus spp., panulirus spp., jasus spp.), frozen.",
+    "exports_usd": 7417591,
+    "quantity": 196297,
+    "affected": "affected"
+  },
+  {
+    "hs": "03079920",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Conch, other than live, fresh or chilled",
+    "exports_usd": 6060164,
+    "quantity": 378569,
+    "affected": "affected"
+  },
+  {
+    "hs": "17039000",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Molasses (other than cane molasses), resulting from the extraction or refining of sugar.",
+    "exports_usd": 4940153,
+    "quantity": 21478126,
+    "affected": "affected"
+  },
+  {
+    "hs": "85094020",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Electro-mechanical fruit or vegetable juice extractors, for domestic use.",
+    "exports_usd": 2521875,
+    "quantity": 20920,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039010",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Pepper sauce.",
+    "exports_usd": 2228889,
+    "quantity": 565579,
+    "affected": "affected"
+  },
+  {
+    "hs": "84071000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Spark-ignition reciprocating or rotary internal combustion piston engines for aircraft.",
+    "exports_usd": 1442324,
+    "quantity": 3946,
+    "affected": "affected"
+  },
+  {
+    "hs": "33011200",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Essential oils of orange.",
+    "exports_usd": 1305344,
+    "quantity": 85602,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "BZ",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 1097121,
+    "quantity": 108845,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 596241,
+    "quantity": 167,
+    "affected": "affected"
+  },
+  {
+    "hs": "03079110",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Conch live, fresh or chilled",
+    "exports_usd": 478753,
+    "quantity": 30754,
+    "affected": "affected"
+  },
+  {
+    "hs": "89039900",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other non-inflatable yachts, rowing boats, canoes and vessels for pleasure or sports.",
+    "exports_usd": 470790,
+    "quantity": 19113,
+    "affected": "affected"
+  },
+  {
+    "hs": "08039011",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Bananas, fresh.",
+    "exports_usd": 451728,
+    "quantity": 1628905,
+    "affected": "affected"
+  },
+  {
+    "hs": "08072000",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Papaws (papayas), fresh.",
+    "exports_usd": 328512,
+    "quantity": 566801,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "BZ",
+    "description": "Personal and household effects",
+    "exports_usd": 319260,
+    "quantity": 59192,
+    "affected": "affected"
+  },
+  {
+    "hs": "08011990",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Other coconuts, fresh or dried, whether or not shelled or peeled.",
+    "exports_usd": 298495,
+    "quantity": 430400,
+    "affected": "affected"
+  },
+  {
+    "hs": "20093113",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Lime juice (other than for infant use), of a brix value not exceeding 20, in packages put up for retail sale, not concentrated",
+    "exports_usd": 292149,
+    "quantity": 88406,
+    "affected": "affected"
+  },
+  {
+    "hs": "08011200",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Coconuts, in the inner shell (endocarp).",
+    "exports_usd": 284698,
+    "quantity": 425057,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032490",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 3000cc, other than those completely knocked down for assembly in plants approved for the purpose by the  Competent Authority.",
+    "exports_usd": 248363,
+    "quantity": 14075,
+    "affected": "affected"
+  },
+  {
+    "hs": "08031010",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Plantains, fresh.",
+    "exports_usd": 218283,
+    "quantity": 959130,
+    "affected": "affected"
+  },
+  {
+    "hs": "61091010",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "T-shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 216048,
+    "quantity": 12042,
+    "affected": "affected"
+  },
+  {
+    "hs": "18010010",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Raw cocoa beans, whole or broken.",
+    "exports_usd": 205303,
+    "quantity": 35354,
+    "affected": "affected"
+  },
+  {
+    "hs": "91022100",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Wrist-watches (other than those with case of precious metal or of metal clad with precious metal), not electrically operated, whether or not incorporating a stop-watch facility, with automatic winding.",
+    "exports_usd": 198410,
+    "quantity": 54,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061400",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Crabs, frozen.",
+    "exports_usd": 169137,
+    "quantity": 2772,
+    "affected": "affected"
+  },
+  {
+    "hs": "88032000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Under-carriages and parts thereof, of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 161842,
+    "quantity": 2211,
+    "affected": "affected"
+  },
+  {
+    "hs": "84224000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other packing or wrapping machinery (including heat-shrink wrapping machinery).",
+    "exports_usd": 154591,
+    "quantity": 3552,
+    "affected": "affected"
+  },
+  {
+    "hs": "84322100",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Disc harrows.",
+    "exports_usd": 129326,
+    "quantity": 7167,
+    "affected": "affected"
+  },
+  {
+    "hs": "84781000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Machinery for preparing or making up tobacco.",
+    "exports_usd": 110963,
+    "quantity": 7713,
+    "affected": "affected"
+  },
+  {
+    "hs": "94032090",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Metal furniture, other than of a kind used in offices, schools, churches or laboratories.",
+    "exports_usd": 104277,
+    "quantity": 1009,
+    "affected": "affected"
+  },
+  {
+    "hs": "94016900",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Other seats, with wooden frames, not upholstered.",
+    "exports_usd": 99789,
+    "quantity": 13064,
+    "affected": "affected"
+  },
+  {
+    "hs": "11031300",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Groats and meal, of maize (corn).",
+    "exports_usd": 98580,
+    "quantity": 136078,
+    "affected": "affected"
+  },
+  {
+    "hs": "07133910",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Blackeye peas, dried, shelled, whether or not skinned or split.",
+    "exports_usd": 95871,
+    "quantity": 69763,
+    "affected": "affected"
+  },
+  {
+    "hs": "87169090",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Parts of the trailers and semi-trailers and of the other non-mechanically propelled vehicles (other than wheelbarrows) of heading 87.16 (SITC 786).",
+    "exports_usd": 92280,
+    "quantity": 1134,
+    "affected": "affected"
+  },
+  {
+    "hs": "71023900",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Non-industrial diamonds (other than those unworked or simply sawn, cleaved or bruted), not mounted or set.",
+    "exports_usd": 90922,
+    "quantity": 23,
+    "affected": "affected"
+  },
+  {
+    "hs": "03011990",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Live ornamental fish, other than freshwater fish, other than for breeding.",
+    "exports_usd": 85131,
+    "quantity": 11325,
+    "affected": "affected"
+  },
+  {
+    "hs": "71129900",
+    "sitc": "2",
+    "country": "BZ",
+    "description": "Waste and scrap (other than ash) of precious metal or of metal clad with precious metal, other than gold or platinum; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious meta",
+    "exports_usd": 80306,
+    "quantity": 58,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089990",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other parts and accessories for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 76467,
+    "quantity": 7502,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 75538,
+    "quantity": 2074,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021900",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Other wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility.",
+    "exports_usd": 62845,
+    "quantity": 15,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084090",
+    "sitc": "1",
+    "country": "BZ",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, other than in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 62471,
+    "quantity": 6486,
+    "affected": "affected"
+  },
+  {
+    "hs": "07133310",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Red kidney beans, dried, shelled, whether or not skinned or split.",
+    "exports_usd": 59651,
+    "quantity": 58604,
+    "affected": "affected"
+  },
+  {
+    "hs": "84251900",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Pulley tackle and hoists (other than skip hoists or hoists of a kind used for raising vehicles), not powered by electric motor.",
+    "exports_usd": 59514,
+    "quantity": 513,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055900",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Other hand tools (including glaziers’ diamonds), not elsewhere specified or included.",
+    "exports_usd": 56595,
+    "quantity": 2196,
+    "affected": "affected"
+  },
+  {
+    "hs": "16010010",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Chicken sausages, canned.",
+    "exports_usd": 54130,
+    "quantity": 7257,
+    "affected": "affected"
+  },
+  {
+    "hs": "20098990",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Other juice of any other single fruit or vegetable, n.e.s.",
+    "exports_usd": 53897,
+    "quantity": 15664,
+    "affected": "affected"
+  },
+  {
+    "hs": "91139000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Watch straps, watch bands and watch bracelets, and parts thereof, of materials other than metal.",
+    "exports_usd": 46999,
+    "quantity": 10,
+    "affected": "affected"
+  },
+  {
+    "hs": "61102000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted, of cotton.",
+    "exports_usd": 44964,
+    "quantity": 3162,
+    "affected": "affected"
+  },
+  {
+    "hs": "84501190",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Fully-automatic washing machines not for domestic use, of a dry linen capacity not exceeding 10 kg.",
+    "exports_usd": 43382,
+    "quantity": 2722,
+    "affected": "affected"
+  },
+  {
+    "hs": "87011010",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Pedestrian controlled tractors, for use in agriculture.",
+    "exports_usd": 43314,
+    "quantity": 17495,
+    "affected": "affected"
+  },
+  {
+    "hs": "03063190",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), other than for breeding or rearing, fresh or chilled.",
+    "exports_usd": 41738,
+    "quantity": 1089,
+    "affected": "affected"
+  },
+  {
+    "hs": "85071000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Lead-acid electric accumulators, of a kind used for starting piston engines.",
+    "exports_usd": 39866,
+    "quantity": 43990,
+    "affected": "affected"
+  },
+  {
+    "hs": "84211290",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Clothes-dryers, not for domestic use.",
+    "exports_usd": 38272,
+    "quantity": 5443,
+    "affected": "affected"
+  },
+  {
+    "hs": "90138000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Other devices, appliances and instruments, not elsewhere specified or included.",
+    "exports_usd": 37768,
+    "quantity": 13,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089940",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other parts and accessories for tractors.",
+    "exports_usd": 35236,
+    "quantity": 885,
+    "affected": "affected"
+  },
+  {
+    "hs": "22083010",
+    "sitc": "1",
+    "country": "BZ",
+    "description": "Whiskies, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 34367,
+    "quantity": 3348,
+    "affected": "affected"
+  },
+  {
+    "hs": "85051900",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Permanent magnets and articles intended to become permanent magnets after magnetization, other than of metal.",
+    "exports_usd": 33458,
+    "quantity": 1639,
+    "affected": "affected"
+  },
+  {
+    "hs": "03089000",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "other aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted, in brine or smoked; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption.",
+    "exports_usd": 33271,
+    "quantity": 3066,
+    "affected": "affected"
+  },
+  {
+    "hs": "20093992",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Juice of any single citrus fruit (excluding orange, grapefruit and lime), of a brix value greater than or equal to 20, not for infant use, put up in packages for retail sale",
+    "exports_usd": 31585,
+    "quantity": 8230,
+    "affected": "affected"
+  },
+  {
+    "hs": "07133500",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Cow peas (Vigna unguiculata), dried, shelled, whether or not skinned or split.",
+    "exports_usd": 31146,
+    "quantity": 23133,
+    "affected": "affected"
+  },
+  {
+    "hs": "94036090",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Wooden furniture, other than of a kind used in offices, kitchens, bedrooms, schools, churches and laboratories.",
+    "exports_usd": 30043,
+    "quantity": 4977,
+    "affected": "affected"
+  },
+  {
+    "hs": "38220000",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 (SITC 541.63, 541.64) or 30.06 (SITC 541.92, 541.99); certified reference materials.",
+    "exports_usd": 29506,
+    "quantity": 105,
+    "affected": "affected"
+  },
+  {
+    "hs": "62019900",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Men’s or boys’ anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03 (SITC 841.2 and 841.3), not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or man-mad",
+    "exports_usd": 29209,
+    "quantity": 978,
+    "affected": "affected"
+  },
+  {
+    "hs": "20094130",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Pineapple juice, of a brix value not exceeding 20, not for infant use, in packages put up for retail sale",
+    "exports_usd": 28873,
+    "quantity": 11802,
+    "affected": "affected"
+  },
+  {
+    "hs": "62052000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 28588,
+    "quantity": 1358,
+    "affected": "affected"
+  },
+  {
+    "hs": "03049900",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Other fish meat (whether or not minced), frozen.",
+    "exports_usd": 27236,
+    "quantity": 612,
+    "affected": "affected"
+  },
+  {
+    "hs": "71179000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Imitation jewellery of non-precious materials (other than base metal).",
+    "exports_usd": 26575,
+    "quantity": 1293,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044200",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of cotton.",
+    "exports_usd": 25990,
+    "quantity": 1604,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032350",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 2000cc but not exceeding 2500cc.",
+    "exports_usd": 25219,
+    "quantity": 1658,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046210",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of cotton.",
+    "exports_usd": 23512,
+    "quantity": 867,
+    "affected": "affected"
+  },
+  {
+    "hs": "85371000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36 (SITC 772.4 or 772.5), for electric control or the distribution of electricity, including those incorporating instruments or apparatus",
+    "exports_usd": 22414,
+    "quantity": 4053,
+    "affected": "affected"
+  },
+  {
+    "hs": "34011120",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Soap (other than medicated soap) and organic surface-active products and preparations, in the form of bars, cakes, moulded pieces or shapes, for toilet use.",
+    "exports_usd": 21809,
+    "quantity": 3105,
+    "affected": "affected"
+  },
+  {
+    "hs": "85291000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Aerials and aerial reflectors of all kinds; parts suitable for use therewith.",
+    "exports_usd": 20169,
+    "quantity": 5879,
+    "affected": "affected"
+  },
+  {
+    "hs": "39269090",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Other articles of plastics, not elsewhere specified or included.",
+    "exports_usd": 20070,
+    "quantity": 572,
+    "affected": "affected"
+  },
+  {
+    "hs": "20092120",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Grapefruit juice, of a brix value not exceeding 20, other than for infant use, in packages put up for retail sale",
+    "exports_usd": 19772,
+    "quantity": 6997,
+    "affected": "affected"
+  },
+  {
+    "hs": "32091010",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Paints based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium.",
+    "exports_usd": 19361,
+    "quantity": 2436,
+    "affected": "affected"
+  },
+  {
+    "hs": "84659100",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Sawing machines for working wood, cork, bone, hard rubber, hard plastics or similar hard materials.",
+    "exports_usd": 19244,
+    "quantity": 1264,
+    "affected": "affected"
+  },
+  {
+    "hs": "63090000",
+    "sitc": "2",
+    "country": "BZ",
+    "description": "Worn clothing and other worn articles.",
+    "exports_usd": 18750,
+    "quantity": 5103,
+    "affected": "affected"
+  },
+  {
+    "hs": "20099090",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Other mixtures of juices, n.e.s.",
+    "exports_usd": 18521,
+    "quantity": 7220,
+    "affected": "affected"
+  },
+  {
+    "hs": "39241020",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Drinking straws, of plastics.",
+    "exports_usd": 17028,
+    "quantity": 2200,
+    "affected": "affected"
+  },
+  {
+    "hs": "20091220",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Orange juice, not frozen, of a brix value not exceeding 20, not for infant use, in packages put up for retail sale, not concentrated",
+    "exports_usd": 16466,
+    "quantity": 8788,
+    "affected": "affected"
+  },
+  {
+    "hs": "44201090",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Statuettes and other ornaments (other than wall plaques), of wood.",
+    "exports_usd": 16384,
+    "quantity": 1309,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 16375,
+    "quantity": 656,
+    "affected": "affected"
+  },
+  {
+    "hs": "09103000",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Turmeric (curcuma).",
+    "exports_usd": 16202,
+    "quantity": 1043,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061200",
+    "sitc": "0",
+    "country": "BZ",
+    "description": "Lobsters (homarus spp.), frozen.",
+    "exports_usd": 16201,
+    "quantity": 1515,
+    "affected": "affected"
+  },
+  {
+    "hs": "84431900",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 (SITC 726.3).",
+    "exports_usd": 16140,
+    "quantity": 9072,
+    "affected": "affected"
+  },
+  {
+    "hs": "33059000",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Preparations for use on the hair, other than shampoos, preparations for permanent waving or straightening, or hair lacquers.",
+    "exports_usd": 15950,
+    "quantity": 1392,
+    "affected": "affected"
+  },
+  {
+    "hs": "72042900",
+    "sitc": "2",
+    "country": "BZ",
+    "description": "Waste and scrap of alloy steel, other than of stainless steel.",
+    "exports_usd": 15888,
+    "quantity": 38102,
+    "affected": "affected"
+  },
+  {
+    "hs": "69120010",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Ceramic tableware and kitchenware, other than of porcelain or china.",
+    "exports_usd": 15589,
+    "quantity": 1406,
+    "affected": "affected"
+  },
+  {
+    "hs": "56012130",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Articles of cotton wadding.",
+    "exports_usd": 15131,
+    "quantity": 689,
+    "affected": "affected"
+  },
+  {
+    "hs": "84272000",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Other self-propelled works trucks, fitted with lifting or handling equipment.",
+    "exports_usd": 15131,
+    "quantity": 7,
+    "affected": "affected"
+  },
+  {
+    "hs": "44219990",
+    "sitc": "6",
+    "country": "BZ",
+    "description": "Other articles of wood, other than bambooo, n.e.c. in heading no. 4414 to 4420.",
+    "exports_usd": 14964,
+    "quantity": 525,
+    "affected": "affected"
+  },
+  {
+    "hs": "65050090",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed.",
+    "exports_usd": 14560,
+    "quantity": 795,
+    "affected": "affected"
+  },
+  {
+    "hs": "87043190",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Vehicles (other than dumpers designed for off-highway use) with spark-ignition internal combustion piston engine, for the transport of goods, g.v.w not exceeding 5 tonnes, other than those completely knocked down for assembly in plants approved for the pu",
+    "exports_usd": 14125,
+    "quantity": 17237,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "BZ",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 14112,
+    "quantity": 2530,
+    "affected": "affected"
+  },
+  {
+    "hs": "71171900",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Imitation jewellery (other than cuff-links and studs), of base metal, whether or not plated with precious metal.",
+    "exports_usd": 13956,
+    "quantity": 242,
+    "affected": "affected"
+  },
+  {
+    "hs": "84251100",
+    "sitc": "7",
+    "country": "BZ",
+    "description": "Pulley tackle and hoists (other than skip hoists or hoists of a kind used for raising vehicles), powered by electric motor.",
+    "exports_usd": 13242,
+    "quantity": 73,
+    "affected": "affected"
+  },
+  {
+    "hs": "24022000",
+    "sitc": "1",
+    "country": "BZ",
+    "description": "Cigarettes containing tobacco.",
+    "exports_usd": 13056,
+    "quantity": 271,
+    "affected": "affected"
+  },
+  {
+    "hs": "90283000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Electricity supply or production meters, including calibrating meters therefor.",
+    "exports_usd": 12936,
+    "quantity": 8,
+    "affected": "affected"
+  },
+  {
+    "hs": "90041000",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Sunglasses.",
+    "exports_usd": 12919,
+    "quantity": 554,
+    "affected": "affected"
+  },
+  {
+    "hs": "61123900",
+    "sitc": "8",
+    "country": "BZ",
+    "description": "Men’s or boys’ swimwear, knitted or crocheted, of textile materials other than synthetic fibres.",
+    "exports_usd": 12662,
+    "quantity": 585,
+    "affected": "affected"
+  }
+]

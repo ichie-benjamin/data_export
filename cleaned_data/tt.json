@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "72031000",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Ferrous products obtained by direct reduction of iron ore, in lumps, pellets or similar forms.",
+    "exports_usd": 591264613,
+    "quantity": 39159620,
+    "affected": "affected"
+  },
+  {
+    "hs": "28141000",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Anhydrous ammonia.",
+    "exports_usd": 382116545,
+    "quantity": 749617213,
+    "affected": "affected"
+  },
+  {
+    "hs": "29051100",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Methanol (methyl alcohol).",
+    "exports_usd": 161983626,
+    "quantity": 494851287,
+    "affected": "affected"
+  },
+  {
+    "hs": "31028000",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution.",
+    "exports_usd": 71307343,
+    "quantity": 255462402,
+    "affected": "affected"
+  },
+  {
+    "hs": "88024000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg.",
+    "exports_usd": 30228330,
+    "quantity": 41400,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039090",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Other sauces and preparations therefor; other mixed condiments and mixed seasonings.",
+    "exports_usd": 27316182,
+    "quantity": 3048557,
+    "affected": "affected"
+  },
+  {
+    "hs": "31021000",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Urea, whether of not in aqueous solution.",
+    "exports_usd": 20761551,
+    "quantity": 42678827,
+    "affected": "affected"
+  },
+  {
+    "hs": "84314300",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts for boring or sinking machinery of subheading 8430.41 or 8430.49 (SITC 723.37 and 723.44).",
+    "exports_usd": 20678104,
+    "quantity": 1009482,
+    "affected": "affected"
+  },
+  {
+    "hs": "88021200",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Helicopters of an unladen weight exceeding 2,000 kg.",
+    "exports_usd": 10833113,
+    "quantity": 5509,
+    "affected": "affected"
+  },
+  {
+    "hs": "84119900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts of other gas turbines.",
+    "exports_usd": 7678321,
+    "quantity": 80338,
+    "affected": "affected"
+  },
+  {
+    "hs": "89019090",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other vessels for transport of goods and other vessels for the transport of both persons and goods, not exceeding 708 cubic metres.",
+    "exports_usd": 7276032,
+    "quantity": 1870000,
+    "affected": "affected"
+  },
+  {
+    "hs": "84118200",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other gas turbines, of a power exceeding 5,000 kW.",
+    "exports_usd": 7139244,
+    "quantity": 27316,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023290",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Yellowfin tunas, other than for processing, fresh or chilled.",
+    "exports_usd": 5458008,
+    "quantity": 837640,
+    "affected": "affected"
+  },
+  {
+    "hs": "29336100",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Melamine.",
+    "exports_usd": 4594223,
+    "quantity": 3800000,
+    "affected": "affected"
+  },
+  {
+    "hs": "73158100",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Stud-link chain, of iron or steel.",
+    "exports_usd": 4525809,
+    "quantity": 791595,
+    "affected": "affected"
+  },
+  {
+    "hs": "82071900",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Rock drilling or earth boring tools, other than those with working part of cermets; parts for rock drilling or earth boring tools.",
+    "exports_usd": 4267695,
+    "quantity": 231637,
+    "affected": "affected"
+  },
+  {
+    "hs": "38159000",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Reaction initiators, reaction accelerators and catalytic preparations, other than supported catalysts, not elsewhere specified or included.",
+    "exports_usd": 4082865,
+    "quantity": 48667,
+    "affected": "affected"
+  },
+  {
+    "hs": "84819000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts for taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like.",
+    "exports_usd": 3834841,
+    "quantity": 72012,
+    "affected": "affected"
+  },
+  {
+    "hs": "84798900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other machines and mechanical appliances having individual functions, not elsewhere specified or included.",
+    "exports_usd": 3639110,
+    "quantity": 77078,
+    "affected": "affected"
+  },
+  {
+    "hs": "39091000",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Urea resins; thiourea resins.",
+    "exports_usd": 2999223,
+    "quantity": 1939901,
+    "affected": "affected"
+  },
+  {
+    "hs": "18063100",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Other chocolate and food preparations containing cocoa, in blocks, slabs or bars, filled.",
+    "exports_usd": 2663062,
+    "quantity": 236760,
+    "affected": "affected"
+  },
+  {
+    "hs": "73110000",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Containers for compressed or liquefied gas, of iron or steel.",
+    "exports_usd": 2149558,
+    "quantity": 735372,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021010",
+    "sitc": "1",
+    "country": "TT",
+    "description": "Aerated waters, containing added sugar or other sweetening matter nor flavoured.",
+    "exports_usd": 1989140,
+    "quantity": 2222824,
+    "affected": "affected"
+  },
+  {
+    "hs": "85369000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, surge suppressors, junction boxes), for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 1715978,
+    "quantity": 276059,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039010",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Pepper sauce.",
+    "exports_usd": 1709145,
+    "quantity": 490084,
+    "affected": "affected"
+  },
+  {
+    "hs": "73042300",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Seamless drill pipe of of iron (other than cast iron) or steel (other than stainless steel), of a kind used in drilling for oil or gas.",
+    "exports_usd": 1681499,
+    "quantity": 550838,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 1658415,
+    "quantity": 41599,
+    "affected": "affected"
+  },
+  {
+    "hs": "73159000",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Parts of chain, other than parts of articulated link chain, of iron or steel.",
+    "exports_usd": 1528660,
+    "quantity": 267361,
+    "affected": "affected"
+  },
+  {
+    "hs": "71129900",
+    "sitc": "2",
+    "country": "TT",
+    "description": "Waste and scrap (other than ash) of precious metal or of metal clad with precious metal, other than gold or platinum; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious meta",
+    "exports_usd": 1468921,
+    "quantity": 68,
+    "affected": "affected"
+  },
+  {
+    "hs": "17049090",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Sugar confectionery (including white chocolate and excluding chewing gums (whether or not sugar-coated) and guava cheese), not containing cocoa.",
+    "exports_usd": 1389352,
+    "quantity": 373250,
+    "affected": "affected"
+  },
+  {
+    "hs": "90309000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Parts and accessories of instruments and apparatus for measuring or checking electrical quantities and for measuring or detecting ionizing radiations.",
+    "exports_usd": 1372755,
+    "quantity": 4096,
+    "affected": "affected"
+  },
+  {
+    "hs": "73160000",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Anchors, grapnels and parts thereof, of iron or steel.",
+    "exports_usd": 1354136,
+    "quantity": 236857,
+    "affected": "affected"
+  },
+  {
+    "hs": "22029999",
+    "sitc": "1",
+    "country": "TT",
+    "description": "Other non-alcoholic beverages, not including fruit or vegetable juices of heading 20.09 (sitc 059).",
+    "exports_usd": 1348424,
+    "quantity": 753509,
+    "affected": "affected"
+  },
+  {
+    "hs": "19049000",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Other cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included.",
+    "exports_usd": 1288094,
+    "quantity": 182757,
+    "affected": "affected"
+  },
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 1277280,
+    "quantity": 35513,
+    "affected": "affected"
+  },
+  {
+    "hs": "73121030",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Ropes, of iron or steel, not electrically insulated.",
+    "exports_usd": 1256612,
+    "quantity": 219562,
+    "affected": "affected"
+  },
+  {
+    "hs": "86090000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.",
+    "exports_usd": 1213494,
+    "quantity": 93835,
+    "affected": "affected"
+  },
+  {
+    "hs": "90301000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionizing radiations.",
+    "exports_usd": 1208491,
+    "quantity": 9360,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023210",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Yellowfin tunas, for processing, fresh or chilled.",
+    "exports_usd": 1187301,
+    "quantity": 78263,
+    "affected": "affected"
+  },
+  {
+    "hs": "98010000",
+    "sitc": "9",
+    "country": "TT",
+    "description": "Personal and household effects",
+    "exports_usd": 1141883,
+    "quantity": 186776,
+    "affected": "affected"
+  },
+  {
+    "hs": "84304900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other boring or sinking machinery, not self-propelled.",
+    "exports_usd": 1126638,
+    "quantity": 71942,
+    "affected": "affected"
+  },
+  {
+    "hs": "84137000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other centrifugal pumps.",
+    "exports_usd": 1124053,
+    "quantity": 3983,
+    "affected": "affected"
+  },
+  {
+    "hs": "90318000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Other measuring or checking instruments, appliances and machines not elsewhere specified or included.",
+    "exports_usd": 1103588,
+    "quantity": 13212,
+    "affected": "affected"
+  },
+  {
+    "hs": "19059010",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Biscuits, unsweetened.",
+    "exports_usd": 1093615,
+    "quantity": 377434,
+    "affected": "affected"
+  },
+  {
+    "hs": "03028920",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Snapper, croaker, grouper, dolphin, banga-mary and sea trout, excluding livers and roes, fresh or chilled.",
+    "exports_usd": 1091149,
+    "quantity": 282778,
+    "affected": "affected"
+  },
+  {
+    "hs": "84243000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Steam or sand blasting machines and similar jet projecting machines.",
+    "exports_usd": 1059600,
+    "quantity": 41400,
+    "affected": "affected"
+  },
+  {
+    "hs": "89079010",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Buoys and beacons.",
+    "exports_usd": 997985,
+    "quantity": 174547,
+    "affected": "affected"
+  },
+  {
+    "hs": "09109930",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Curry.",
+    "exports_usd": 950448,
+    "quantity": 204475,
+    "affected": "affected"
+  },
+  {
+    "hs": "73042900",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Seamless casing and tubing of iron (other than cast iron) or steel (other than stainless steel, of a kind used in drilling for oil or gas.",
+    "exports_usd": 919922,
+    "quantity": 1217775,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 900938,
+    "quantity": 99043,
+    "affected": "affected"
+  },
+  {
+    "hs": "90159000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Parts and accessories for instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 897079,
+    "quantity": 109151,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "TT",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 884817,
+    "quantity": 245098,
+    "affected": "affected"
+  },
+  {
+    "hs": "88033000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other parts of aeroplanes or helicopters.",
+    "exports_usd": 872362,
+    "quantity": 5025,
+    "affected": "affected"
+  },
+  {
+    "hs": "88031000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Propellers and rotors and parts thereof, of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 866493,
+    "quantity": 1673,
+    "affected": "affected"
+  },
+  {
+    "hs": "84589900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Lathes (other than horizontal lathes) for removing metal, not numerically controlled.",
+    "exports_usd": 849961,
+    "quantity": 42195,
+    "affected": "affected"
+  },
+  {
+    "hs": "84135000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other reciprocating positive displacement pumps.",
+    "exports_usd": 816451,
+    "quantity": 70629,
+    "affected": "affected"
+  },
+  {
+    "hs": "84818000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Taps, cocks and other valves and similar appliances for pipes, boiler shells, tanks, vats or the like.",
+    "exports_usd": 738831,
+    "quantity": 12990,
+    "affected": "affected"
+  },
+  {
+    "hs": "15171000",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Margarine, excluding liquid margarine.",
+    "exports_usd": 728246,
+    "quantity": 103153,
+    "affected": "affected"
+  },
+  {
+    "hs": "84828000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other, including combined ball/roller bearings.",
+    "exports_usd": 726960,
+    "quantity": 6579,
+    "affected": "affected"
+  },
+  {
+    "hs": "19053100",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Sweet biscuits.",
+    "exports_usd": 714132,
+    "quantity": 187518,
+    "affected": "affected"
+  },
+  {
+    "hs": "84832020",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Bearing housings, incorporating ball or roller bearings, for marine engines.",
+    "exports_usd": 637327,
+    "quantity": 28000,
+    "affected": "affected"
+  },
+  {
+    "hs": "84129000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts of the engines and motors of heading 84.12 (SITC 714.49 and 718.9).",
+    "exports_usd": 620249,
+    "quantity": 29486,
+    "affected": "affected"
+  },
+  {
+    "hs": "89079090",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other floating structures (for example, tanks, coffer-dams, landing-stages).",
+    "exports_usd": 586980,
+    "quantity": 1233,
+    "affected": "affected"
+  },
+  {
+    "hs": "07096090",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Fruits of the genus capsicum or of the genus pimenta, other than sweet peppers, fresh or chilled.",
+    "exports_usd": 564710,
+    "quantity": 71525,
+    "affected": "affected"
+  },
+  {
+    "hs": "85015300",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Multi-phase AC motors of an output exceeding 75 kW.",
+    "exports_usd": 535076,
+    "quantity": 3060,
+    "affected": "affected"
+  },
+  {
+    "hs": "73121020",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Cables, of iron or steel, not electrically insulated.",
+    "exports_usd": 533007,
+    "quantity": 75563,
+    "affected": "affected"
+  },
+  {
+    "hs": "56075010",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Twine and ropes, of other synthetic fibres.",
+    "exports_usd": 509139,
+    "quantity": 72152,
+    "affected": "affected"
+  },
+  {
+    "hs": "82059000",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Sets of articles of two or more of the foregoing subheadings.",
+    "exports_usd": 495059,
+    "quantity": 11775,
+    "affected": "affected"
+  },
+  {
+    "hs": "90262000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Instruments and apparatus for measuring or checking the pressure of liquids or gases.",
+    "exports_usd": 481354,
+    "quantity": 3520,
+    "affected": "affected"
+  },
+  {
+    "hs": "84314990",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other parts of machinery suitable for use solely or principally with machinery of heading 84.26 (SITC 744.3).",
+    "exports_usd": 477103,
+    "quantity": 23863,
+    "affected": "affected"
+  },
+  {
+    "hs": "20089990",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Other fruit and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, n.e.s.",
+    "exports_usd": 447004,
+    "quantity": 270938,
+    "affected": "affected"
+  },
+  {
+    "hs": "84136000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other rotary positive displacement pumps.",
+    "exports_usd": 444745,
+    "quantity": 27156,
+    "affected": "affected"
+  },
+  {
+    "hs": "84799000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts for machines and mechanical appliances having individual functions, not elsewhere specified or included.",
+    "exports_usd": 429405,
+    "quantity": 7318,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099120",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts suitable for use solely or principally with spark-ignition internal combustion piston engines for marine craft.",
+    "exports_usd": 417565,
+    "quantity": 13126,
+    "affected": "affected"
+  },
+  {
+    "hs": "94069020",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Prefabricated buildings, of steel.",
+    "exports_usd": 405778,
+    "quantity": 47350,
+    "affected": "affected"
+  },
+  {
+    "hs": "84149000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Parts, for air or vacuum pumps, for air and other gas compressors and fans, and for ventilating or recycling hoods.",
+    "exports_usd": 387867,
+    "quantity": 2919,
+    "affected": "affected"
+  },
+  {
+    "hs": "84834090",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other gears and gearing; other ball or roller screws; other gear boxes and other speed changers, including torque converters.",
+    "exports_usd": 384077,
+    "quantity": 4148,
+    "affected": "affected"
+  },
+  {
+    "hs": "84251900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Pulley tackle and hoists (other than skip hoists or hoists of a kind used for raising vehicles), not powered by electric motor.",
+    "exports_usd": 369825,
+    "quantity": 61974,
+    "affected": "affected"
+  },
+  {
+    "hs": "39172100",
+    "sitc": "5",
+    "country": "TT",
+    "description": "Tubes, pipes and hoses, rigid, of polymers of ethylene.",
+    "exports_usd": 360175,
+    "quantity": 142633,
+    "affected": "affected"
+  },
+  {
+    "hs": "89071000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Inflatable rafts.",
+    "exports_usd": 351406,
+    "quantity": 6495,
+    "affected": "affected"
+  },
+  {
+    "hs": "98040000",
+    "sitc": "9",
+    "country": "TT",
+    "description": "Other Special Cases",
+    "exports_usd": 351345,
+    "quantity": 2317,
+    "affected": "affected"
+  },
+  {
+    "hs": "84253900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Winches, not powered by electric motor; capstans, not powered by electric motor.",
+    "exports_usd": 348842,
+    "quantity": 23605,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021090",
+    "sitc": "1",
+    "country": "TT",
+    "description": "Other waters including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured.",
+    "exports_usd": 348490,
+    "quantity": 237547,
+    "affected": "affected"
+  },
+  {
+    "hs": "84122900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Hydraulic power engines and motors, other than linear acting (cylinders).",
+    "exports_usd": 330421,
+    "quantity": 13973,
+    "affected": "affected"
+  },
+  {
+    "hs": "03028990",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Fish, excluding livers and roes, other than salmonidae, flat fish, tunas, skipjack or stripe-bellied bonito, herrings, cod, sardines, sardinella, bristlings or sprats, haddock, coalfish, mackerel, dogfish and other sharks, eels, swordfish, toothfish, alew",
+    "exports_usd": 324716,
+    "quantity": 84584,
+    "affected": "affected"
+  },
+  {
+    "hs": "76020000",
+    "sitc": "2",
+    "country": "TT",
+    "description": "Aluminium waste and scrap.",
+    "exports_usd": 297313,
+    "quantity": 306603,
+    "affected": "affected"
+  },
+  {
+    "hs": "82060010",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Household tools, put up in sets for retail sale.",
+    "exports_usd": 292204,
+    "quantity": 18368,
+    "affected": "affected"
+  },
+  {
+    "hs": "90138000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Other devices, appliances and instruments, not elsewhere specified or included.",
+    "exports_usd": 285847,
+    "quantity": 77,
+    "affected": "affected"
+  },
+  {
+    "hs": "84615000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Sawing or cutting-off machines for metal or cermets.",
+    "exports_usd": 284501,
+    "quantity": 13160,
+    "affected": "affected"
+  },
+  {
+    "hs": "94069090",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Prefabricated buildings, other than of wood, aluminium or steel.",
+    "exports_usd": 252016,
+    "quantity": 2441,
+    "affected": "affected"
+  },
+  {
+    "hs": "90269000",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Parts and accessories for instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of headin",
+    "exports_usd": 249460,
+    "quantity": 3345,
+    "affected": "affected"
+  },
+  {
+    "hs": "21032010",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Tomato ketchup.",
+    "exports_usd": 248403,
+    "quantity": 169552,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069099",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Other food preparations not elsewhere specified or included.",
+    "exports_usd": 245259,
+    "quantity": 80772,
+    "affected": "affected"
+  },
+  {
+    "hs": "85389000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Other parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or  85.37 (SITC 772.4, 772.5 or 772.6).",
+    "exports_usd": 239188,
+    "quantity": 14588,
+    "affected": "affected"
+  },
+  {
+    "hs": "84833090",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Bearing housings, not incorporating ball or roller bearings, other than for road motor vehicle engines, marine engines or aircrafts engines; plain shaft bearings, other than for road motor vehicle engines, marine engines or aircrafts engines.",
+    "exports_usd": 239005,
+    "quantity": 8598,
+    "affected": "affected"
+  },
+  {
+    "hs": "84811000",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Pressure-reducing valves for pipes, boiler shells, tanks, vats or the like.",
+    "exports_usd": 235457,
+    "quantity": 4089,
+    "affected": "affected"
+  },
+  {
+    "hs": "85153900",
+    "sitc": "7",
+    "country": "TT",
+    "description": "Machines and apparatus for arc (including plasma arc) welding of metals, other than those fully or partly automatic.",
+    "exports_usd": 233370,
+    "quantity": 3511,
+    "affected": "affected"
+  },
+  {
+    "hs": "73079900",
+    "sitc": "6",
+    "country": "TT",
+    "description": "Other tube and pipe fittings, of iron or steel (other than stainless steel).",
+    "exports_usd": 226530,
+    "quantity": 1900,
+    "affected": "affected"
+  },
+  {
+    "hs": "92060010",
+    "sitc": "8",
+    "country": "TT",
+    "description": "Steel band instruments.",
+    "exports_usd": 216097,
+    "quantity": 7140,
+    "affected": "affected"
+  },
+  {
+    "hs": "20054090",
+    "sitc": "0",
+    "country": "TT",
+    "description": "Peas (pisum sativum), prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06 (sitc 062.1), other than those in packages not less than 50 kg.",
+    "exports_usd": 214357,
+    "quantity": 73112,
+    "affected": "affected"
+  }
+]

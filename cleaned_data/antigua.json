@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "73262000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Articles of iron or steel wire, not elsewhere specified or included.",
+    "exports_usd": 2064842,
+    "quantity": 55836,
+    "affected": "affected"
+  },
+  {
+    "hs": "63063000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Sails for boats, sailboards or landcraft.",
+    "exports_usd": 434006,
+    "quantity": 23702,
+    "affected": "affected"
+  },
+  {
+    "hs": "84137000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other centrifugal pumps.",
+    "exports_usd": 283161,
+    "quantity": 13458,
+    "affected": "affected"
+  },
+  {
+    "hs": "89039100",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Sailboats, not inflatable, with or without auxiliary motor.",
+    "exports_usd": 221960,
+    "quantity": 2724,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131910",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Articles of jewellery and parts thereof, of gold.",
+    "exports_usd": 194960,
+    "quantity": 15,
+    "affected": "affected"
+  },
+  {
+    "hs": "82079000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other interchangeable tools for hand tools, whether or not power-operated, or for machine-tools.",
+    "exports_usd": 188763,
+    "quantity": 18376,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111200",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ swimwear, not knitted or crocheted.",
+    "exports_usd": 185110,
+    "quantity": 1349,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton, synthetic fibres or artificial fibres.",
+    "exports_usd": 151941,
+    "quantity": 1883,
+    "affected": "affected"
+  },
+  {
+    "hs": "61034210",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men’s or boys’ trousers and shorts, knitted or crocheted, of cotton.",
+    "exports_usd": 150306,
+    "quantity": 2281,
+    "affected": "affected"
+  },
+  {
+    "hs": "33030090",
+    "sitc": "5",
+    "country": "AG",
+    "description": "Perfumes and toilet waters, other than bay rum.",
+    "exports_usd": 125060,
+    "quantity": 4006,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 114663,
+    "quantity": 193899,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046210",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of cotton.",
+    "exports_usd": 110211,
+    "quantity": 1610,
+    "affected": "affected"
+  },
+  {
+    "hs": "62063020",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ shirts, not knitted or crocheted, of cotton.",
+    "exports_usd": 96367,
+    "quantity": 1024,
+    "affected": "affected"
+  },
+  {
+    "hs": "89039200",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Motorboats, other than outboard motors boats, not inflatable.",
+    "exports_usd": 90563,
+    "quantity": 2433,
+    "affected": "affected"
+  },
+  {
+    "hs": "90318000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other measuring or checking instruments, appliances and machines not elsewhere specified or included.",
+    "exports_usd": 86689,
+    "quantity": 3121,
+    "affected": "affected"
+  },
+  {
+    "hs": "73143900",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other grill, netting and fencing, of iron or steel wire, welded at the intersection (other than those plated or coated with zinc).",
+    "exports_usd": 80501,
+    "quantity": 60545,
+    "affected": "affected"
+  },
+  {
+    "hs": "84081000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines), for marine propulsion.",
+    "exports_usd": 70438,
+    "quantity": 6213,
+    "affected": "affected"
+  },
+  {
+    "hs": "88032000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Under-carriages and parts thereof, of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 70200,
+    "quantity": 784,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084010",
+    "sitc": "1",
+    "country": "AG",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 67399,
+    "quantity": 10620,
+    "affected": "affected"
+  },
+  {
+    "hs": "87164000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other trailers and semi-trailers, not elsewhere specified or included.",
+    "exports_usd": 66413,
+    "quantity": 70909,
+    "affected": "affected"
+  },
+  {
+    "hs": "90041000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Sunglasses.",
+    "exports_usd": 65941,
+    "quantity": 284,
+    "affected": "affected"
+  },
+  {
+    "hs": "85158000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Machines and apparatus for welding (other than resistance or arc welding); electric machines and apparatus for hot spraying of metals or cermets.",
+    "exports_usd": 63151,
+    "quantity": 7939,
+    "affected": "affected"
+  },
+  {
+    "hs": "62061010",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of silk or silk waste.",
+    "exports_usd": 52667,
+    "quantity": 364,
+    "affected": "affected"
+  },
+  {
+    "hs": "95049090",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other articles for funfair, table or parlour games, including special tables for casino games and automatic bowling alley equipment.",
+    "exports_usd": 50313,
+    "quantity": 2000,
+    "affected": "affected"
+  },
+  {
+    "hs": "64029910",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Sandals and slippers, with outer soles and uppers of rubber or plastics.",
+    "exports_usd": 48516,
+    "quantity": 776,
+    "affected": "affected"
+  },
+  {
+    "hs": "62042200",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ ensembles, not knitted or crocheted, of cotton.",
+    "exports_usd": 47037,
+    "quantity": 2880,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 39687,
+    "quantity": 674,
+    "affected": "affected"
+  },
+  {
+    "hs": "24021000",
+    "sitc": "1",
+    "country": "AG",
+    "description": "Cigars, cheroots and cigarillos, containing tobacco.",
+    "exports_usd": 35304,
+    "quantity": 147,
+    "affected": "affected"
+  },
+  {
+    "hs": "96050000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Travel sets for personal toilet, sewing or shoe or clothes cleaning.",
+    "exports_usd": 32059,
+    "quantity": 1543,
+    "affected": "affected"
+  },
+  {
+    "hs": "84879000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not elsewhere specified or included.",
+    "exports_usd": 30188,
+    "quantity": 1561,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099920",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines) for marine craft.",
+    "exports_usd": 29272,
+    "quantity": 3599,
+    "affected": "affected"
+  },
+  {
+    "hs": "90158000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other instruments and appliances for surveying, for hydrographic, oceanographic, hydrological, meteorological or geophysical uses.",
+    "exports_usd": 28980,
+    "quantity": 45,
+    "affected": "affected"
+  },
+  {
+    "hs": "62059000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men’s or boys’ shirts, not knitted or crocheted, of textile materials other than cotton or man-made fibres.",
+    "exports_usd": 28675,
+    "quantity": 706,
+    "affected": "affected"
+  },
+  {
+    "hs": "61051000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men’s or boys’ shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 26358,
+    "quantity": 740,
+    "affected": "affected"
+  },
+  {
+    "hs": "21069099",
+    "sitc": "0",
+    "country": "AG",
+    "description": "Other food preparations not elsewhere specified or included.",
+    "exports_usd": 24408,
+    "quantity": 3160,
+    "affected": "affected"
+  },
+  {
+    "hs": "91021100",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Wrist watches (other than those with case of precious metal or of metal clad with precious metal), electrically operated, whether or not incorporating a stop-watch facility, with mechanical display only.",
+    "exports_usd": 23570,
+    "quantity": 21,
+    "affected": "affected"
+  },
+  {
+    "hs": "88031000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Propellers and rotors and parts thereof, of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 23144,
+    "quantity": 1136,
+    "affected": "affected"
+  },
+  {
+    "hs": "95062900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Water-skis, surf-boards and other water-sport equipment (excl. sailboards).",
+    "exports_usd": 22967,
+    "quantity": 1071,
+    "affected": "affected"
+  },
+  {
+    "hs": "84198100",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other machinery, plant and equipment for making hot drinks or for cooking or heating food.",
+    "exports_usd": 22757,
+    "quantity": 1500,
+    "affected": "affected"
+  },
+  {
+    "hs": "63072000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Life-jackets and life-belts.",
+    "exports_usd": 21615,
+    "quantity": 3052,
+    "affected": "affected"
+  },
+  {
+    "hs": "64059000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other footwear, not elsewhere specified or included.",
+    "exports_usd": 20750,
+    "quantity": 322,
+    "affected": "affected"
+  },
+  {
+    "hs": "94036090",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Wooden furniture, other than of a kind used in offices, kitchens, bedrooms, schools, churches and laboratories.",
+    "exports_usd": 20700,
+    "quantity": 4929,
+    "affected": "affected"
+  },
+  {
+    "hs": "62019300",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men’s or boys’ anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03 (SITC 841.2 and 841.3), not knitted or crocheted, of man-made fibres.",
+    "exports_usd": 20125,
+    "quantity": 250,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032340",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 1800cc but not exceeding 2000cc.",
+    "exports_usd": 19320,
+    "quantity": 2430,
+    "affected": "affected"
+  },
+  {
+    "hs": "84311000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Parts suitable for use solely or principally with pulley tackle and hoists other than skip hoists, with winches and capstans, and with jacks.",
+    "exports_usd": 19059,
+    "quantity": 3189,
+    "affected": "affected"
+  },
+  {
+    "hs": "85369000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, surge suppressors, junction boxes), for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 18828,
+    "quantity": 42,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034210",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men's or boys’ denim trousers and shorts",
+    "exports_usd": 18507,
+    "quantity": 472,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055100",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Household hand tools.",
+    "exports_usd": 17409,
+    "quantity": 5054,
+    "affected": "affected"
+  },
+  {
+    "hs": "62069010",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of textile materials other than silk or silk waste, wool, fine animal hair, cotton or man-made fibres.",
+    "exports_usd": 16848,
+    "quantity": 460,
+    "affected": "affected"
+  },
+  {
+    "hs": "71131100",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Articles of jewellery and parts thereof, of silver, whether or not plated or clad with other precious metal.",
+    "exports_usd": 16761,
+    "quantity": 9,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099120",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Parts suitable for use solely or principally with spark-ignition internal combustion piston engines for marine craft.",
+    "exports_usd": 16373,
+    "quantity": 927,
+    "affected": "affected"
+  },
+  {
+    "hs": "85389000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or  85.37 (SITC 772.4, 772.5 or 772.6).",
+    "exports_usd": 16100,
+    "quantity": 723,
+    "affected": "affected"
+  },
+  {
+    "hs": "91022100",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Wrist-watches (other than those with case of precious metal or of metal clad with precious metal), not electrically operated, whether or not incorporating a stop-watch facility, with automatic winding.",
+    "exports_usd": 15961,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "85481000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators.",
+    "exports_usd": 15094,
+    "quantity": 32900,
+    "affected": "affected"
+  },
+  {
+    "hs": "56075010",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Twine and ropes, of other synthetic fibres.",
+    "exports_usd": 14834,
+    "quantity": 6514,
+    "affected": "affected"
+  },
+  {
+    "hs": "62042900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ ensembles, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 14648,
+    "quantity": 3001,
+    "affected": "affected"
+  },
+  {
+    "hs": "84715000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Processing units other than those of subheading 8471.41 (SITC 752.31) or 8471.49 (SITC 752.32), whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units.",
+    "exports_usd": 14597,
+    "quantity": 587,
+    "affected": "affected"
+  },
+  {
+    "hs": "62111100",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men’s or boys’ swimwear, not knitted or crocheted.",
+    "exports_usd": 14299,
+    "quantity": 177,
+    "affected": "affected"
+  },
+  {
+    "hs": "84798900",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other machines and mechanical appliances having individual functions, not elsewhere specified or included.",
+    "exports_usd": 14264,
+    "quantity": 74,
+    "affected": "affected"
+  },
+  {
+    "hs": "84082000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for the propulsion of vehicles of Chapter 87 (SITC 78, 722, 744.14, 744.15, and 891.11).",
+    "exports_usd": 13735,
+    "quantity": 1632,
+    "affected": "affected"
+  },
+  {
+    "hs": "97011010",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Paintings, executed entirely by hand, other than drawings of heading 49.06 (SITC 892.82) and other than hand-painted or hand-decorated manufactured articles.",
+    "exports_usd": 13680,
+    "quantity": 730,
+    "affected": "affected"
+  },
+  {
+    "hs": "90314900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other optical instruments and appliance, not elsewhere specified or included.",
+    "exports_usd": 13329,
+    "quantity": 19,
+    "affected": "affected"
+  },
+  {
+    "hs": "87031000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Vehicles specially designed for travelling on snow; golf cars and similar vehicles.",
+    "exports_usd": 13081,
+    "quantity": 550,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089990",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts and accessories for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 12880,
+    "quantity": 1130,
+    "affected": "affected"
+  },
+  {
+    "hs": "84339090",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Parts of harvesting or threshing machinery (including straw or fodder balers), of other grass or hay mowers and of machines for cleaning, sorting or grading eggs, fruit or other agricultural produce.",
+    "exports_usd": 12036,
+    "quantity": 100,
+    "affected": "affected"
+  },
+  {
+    "hs": "65050090",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed.",
+    "exports_usd": 11760,
+    "quantity": 134,
+    "affected": "affected"
+  },
+  {
+    "hs": "84719000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Data-processing equipment, not elsewhere specified or included.",
+    "exports_usd": 11667,
+    "quantity": 35,
+    "affected": "affected"
+  },
+  {
+    "hs": "73071900",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Cast fittings, of iron (other than non-malleable cast iron) or steel.",
+    "exports_usd": 11572,
+    "quantity": 599,
+    "affected": "affected"
+  },
+  {
+    "hs": "61091010",
+    "sitc": "8",
+    "country": "AG",
+    "description": "T-shirts, knitted or crocheted, of cotton.",
+    "exports_usd": 11396,
+    "quantity": 374,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046910",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 11373,
+    "quantity": 409,
+    "affected": "affected"
+  },
+  {
+    "hs": "85098090",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other electro-mechanical domestic appliances, with self-contained electric motor.",
+    "exports_usd": 11341,
+    "quantity": 2803,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other handbags, whether or not with shoulder strap, including those without handle, not elsewhere specified or included, including those made of vulcanised fibre or of paperboard, or wholly or maily covered with such materials or with paper.",
+    "exports_usd": 11142,
+    "quantity": 139,
+    "affected": "affected"
+  },
+  {
+    "hs": "40169990",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other articles of non-cellular vulcanized rubber other than hard rubber, not elsewhere specified or included.",
+    "exports_usd": 10684,
+    "quantity": 9828,
+    "affected": "affected"
+  },
+  {
+    "hs": "94032090",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Metal furniture, other than of a kind used in offices, schools, churches or laboratories.",
+    "exports_usd": 10566,
+    "quantity": 1013,
+    "affected": "affected"
+  },
+  {
+    "hs": "84145190",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Wall or window fans, with a self-contained electric motor of an output not exceeding 125 W.",
+    "exports_usd": 10069,
+    "quantity": 786,
+    "affected": "affected"
+  },
+  {
+    "hs": "73181500",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other screws and bolts, whether or not with their nuts or washers, of iron or steel.",
+    "exports_usd": 10063,
+    "quantity": 104,
+    "affected": "affected"
+  },
+  {
+    "hs": "86090000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.",
+    "exports_usd": 10063,
+    "quantity": 124,
+    "affected": "affected"
+  },
+  {
+    "hs": "95061900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Snow-ski equipment, other than ski-fastenings (ski-bindings).",
+    "exports_usd": 10063,
+    "quantity": 104,
+    "affected": "affected"
+  },
+  {
+    "hs": "88039000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts of goods of heading 88.01or 88.02 (SITC 792 excluding 792.83).",
+    "exports_usd": 10002,
+    "quantity": 16,
+    "affected": "affected"
+  },
+  {
+    "hs": "84314990",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts of machinery suitable for use solely or principally with machinery of heading 84.26 (SITC 744.3).",
+    "exports_usd": 9811,
+    "quantity": 2687,
+    "affected": "affected"
+  },
+  {
+    "hs": "89031000",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Yachts and other vessels for pleasure or sports (including rowing boats and canoes), inflatable.",
+    "exports_usd": 9320,
+    "quantity": 373,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055900",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Other hand tools (including glaziers’ diamonds), not elsewhere specified or included.",
+    "exports_usd": 8802,
+    "quantity": 580,
+    "affected": "affected"
+  },
+  {
+    "hs": "87082900",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts and accessories of bodies (including cabs) for the motor vehicles of headings 87.01 to 87.05 (SITC 722, 781, 782 and 783).",
+    "exports_usd": 8453,
+    "quantity": 437,
+    "affected": "affected"
+  },
+  {
+    "hs": "18069000",
+    "sitc": "0",
+    "country": "AG",
+    "description": "Other chocolate and food preparations containing cocoa, nes.",
+    "exports_usd": 8420,
+    "quantity": 517,
+    "affected": "affected"
+  },
+  {
+    "hs": "87168090",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other vehicles, not mechanically propelled, not elsewhere specified or included.",
+    "exports_usd": 8186,
+    "quantity": 21,
+    "affected": "affected"
+  },
+  {
+    "hs": "95079010",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Other fishing tackle.",
+    "exports_usd": 8047,
+    "quantity": 202,
+    "affected": "affected"
+  },
+  {
+    "hs": "42033000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Belts and bandoliers, of leather or of composition leather.",
+    "exports_usd": 7259,
+    "quantity": 119,
+    "affected": "affected"
+  },
+  {
+    "hs": "84669300",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Other parts and accessories for machines of headings 84.56 to 84.61 (SITC 731).",
+    "exports_usd": 7245,
+    "quantity": 375,
+    "affected": "affected"
+  },
+  {
+    "hs": "62034910",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Men's or boys’ trousers and shorts of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 7047,
+    "quantity": 162,
+    "affected": "affected"
+  },
+  {
+    "hs": "73170010",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Masonry and roofing nails of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",
+    "exports_usd": 6811,
+    "quantity": 1137,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "AG",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 6653,
+    "quantity": 360,
+    "affected": "affected"
+  },
+  {
+    "hs": "82059000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Sets of articles of two or more of the foregoing subheadings.",
+    "exports_usd": 6612,
+    "quantity": 1737,
+    "affected": "affected"
+  },
+  {
+    "hs": "42022100",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Handbags, whether or not with shoulder strap, including those without handle, with outer surface of leather or of composition leather.",
+    "exports_usd": 6383,
+    "quantity": 241,
+    "affected": "affected"
+  },
+  {
+    "hs": "71179000",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Imitation jewellery of non-precious materials (other than base metal).",
+    "exports_usd": 6239,
+    "quantity": 156,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 6232,
+    "quantity": 1105,
+    "affected": "affected"
+  },
+  {
+    "hs": "73159000",
+    "sitc": "6",
+    "country": "AG",
+    "description": "Parts of chain, other than parts of articulated link chain, of iron or steel.",
+    "exports_usd": 6038,
+    "quantity": 480,
+    "affected": "affected"
+  },
+  {
+    "hs": "96062900",
+    "sitc": "8",
+    "country": "AG",
+    "description": "Buttons (other than buttons of base metal or plastics, not covered with textile material).",
+    "exports_usd": 5990,
+    "quantity": 74,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176200",
+    "sitc": "7",
+    "country": "AG",
+    "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus.",
+    "exports_usd": 5987,
+    "quantity": 146,
+    "affected": "affected"
+  },
+  {
+    "hs": "34029020",
+    "sitc": "5",
+    "country": "AG",
+    "description": "Detergents, other than liquid detergents, not put up for retail sale.",
+    "exports_usd": 5887,
+    "quantity": 825,
+    "affected": "affected"
+  },
+  {
+    "hs": "24022000",
+    "sitc": "1",
+    "country": "AG",
+    "description": "Cigarettes containing tobacco.",
+    "exports_usd": 5868,
+    "quantity": 124,
+    "affected": "affected"
+  }
+]

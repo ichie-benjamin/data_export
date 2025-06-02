@@ -1,0 +1,902 @@
+[
+  {
+    "hs": "03069990",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other, including flours, meals and pellets of crustaceans, fit for human consumption, other than for breeding or rearing.",
+    "exports_usd": 1226941,
+    "quantity": 76841,
+    "affected": "affected"
+  },
+  {
+    "hs": "03078400",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Frozen stromboid conchs (Strombus spp.).",
+    "exports_usd": 1077994,
+    "quantity": 119000,
+    "affected": "affected"
+  },
+  {
+    "hs": "03079920",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Conch, other than live, fresh or chilled",
+    "exports_usd": 407168,
+    "quantity": 20832,
+    "affected": "affected"
+  },
+  {
+    "hs": "03023290",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Yellowfin tunas, other than for processing, fresh or chilled.",
+    "exports_usd": 141289,
+    "quantity": 20856,
+    "affected": "affected"
+  },
+  {
+    "hs": "03034900",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Tunas, other than albacore or long-finned tunas, yellowfin tunas, bigeye tunas, bluefin tunas or southern bluefin tunas, frozen.",
+    "exports_usd": 105506,
+    "quantity": 8770,
+    "affected": "affected"
+  },
+  {
+    "hs": "22084090",
+    "sitc": "1",
+    "country": "VC",
+    "description": "Rum and other spirits obtained by distilling fermented sugarcane products, other than in bottles of a strength not exceeding 46% vol.",
+    "exports_usd": 104655,
+    "quantity": 9000,
+    "affected": "affected"
+  },
+  {
+    "hs": "03048700",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis) fillets (whether or not minced), frozen",
+    "exports_usd": 94562,
+    "quantity": 12895,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171210",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Portable radio-telephones.",
+    "exports_usd": 92604,
+    "quantity": 90,
+    "affected": "affected"
+  },
+  {
+    "hs": "03034290",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Yellowfin tunas (thunnus albacares), other than for processing, frozen.",
+    "exports_usd": 91697,
+    "quantity": 16602,
+    "affected": "affected"
+  },
+  {
+    "hs": "03044990",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Fillets of other fish,(whether or not minced),  fresh or chilled",
+    "exports_usd": 74582,
+    "quantity": 10473,
+    "affected": "affected"
+  },
+  {
+    "hs": "03035900",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other (Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheading 0303.91 to 0303.99), frozen.",
+    "exports_usd": 50315,
+    "quantity": 10000,
+    "affected": "affected"
+  },
+  {
+    "hs": "12122100",
+    "sitc": "2",
+    "country": "VC",
+    "description": "Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, fit for human consumption.",
+    "exports_usd": 49225,
+    "quantity": 1729,
+    "affected": "affected"
+  },
+  {
+    "hs": "68021010",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Tiles, cubes and similar articles of natural stone, whether or not rectangular (including square), the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm.",
+    "exports_usd": 47080,
+    "quantity": 39200,
+    "affected": "affected"
+  },
+  {
+    "hs": "03049900",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other fish meat (whether or not minced), frozen.",
+    "exports_usd": 42878,
+    "quantity": 5071,
+    "affected": "affected"
+  },
+  {
+    "hs": "94036090",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Wooden furniture, other than of a kind used in offices, kitchens, bedrooms, schools, churches and laboratories.",
+    "exports_usd": 22825,
+    "quantity": 236,
+    "affected": "affected"
+  },
+  {
+    "hs": "07149020",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Dasheens, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets.",
+    "exports_usd": 21062,
+    "quantity": 33990,
+    "affected": "affected"
+  },
+  {
+    "hs": "39159000",
+    "sitc": "5",
+    "country": "VC",
+    "description": "Waste, parings and scrap, of plastics other than polymers of ethylene, styrene or vinyl chloride.",
+    "exports_usd": 20178,
+    "quantity": 130160,
+    "affected": "affected"
+  },
+  {
+    "hs": "84071000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Spark-ignition reciprocating or rotary internal combustion piston engines for aircraft.",
+    "exports_usd": 20126,
+    "quantity": 90,
+    "affected": "affected"
+  },
+  {
+    "hs": "85176200",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus.",
+    "exports_usd": 16878,
+    "quantity": 506,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061900",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Flours, meals and pellets of crustaceans, fit for human consumption, frozen.",
+    "exports_usd": 14603,
+    "quantity": 3567,
+    "affected": "affected"
+  },
+  {
+    "hs": "85068000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Primary cells and primary batteries (other than of manganese dioxide, mercuric oxide, silver oxide, lithium or air-zinc).",
+    "exports_usd": 13407,
+    "quantity": 61000,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099190",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Parts suitable for use solely or principally with spark-ignition internal combustion piston engines (other than those for road motor vehicles or marine craft).",
+    "exports_usd": 13201,
+    "quantity": 65,
+    "affected": "affected"
+  },
+  {
+    "hs": "85285990",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other monitors, not elsewhere specified or included.",
+    "exports_usd": 11862,
+    "quantity": 55,
+    "affected": "affected"
+  },
+  {
+    "hs": "87032330",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Vehicles with spark-ignition internal combustion reciprocating piston engine of cylinder capacity exceeding 1,599cc but not exceeding 1800cc.",
+    "exports_usd": 11111,
+    "quantity": 3000,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046210",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of cotton.",
+    "exports_usd": 10918,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044300",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of synthetic fibres.",
+    "exports_usd": 10541,
+    "quantity": 2,
+    "affected": "affected"
+  },
+  {
+    "hs": "69120090",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other ceramic household articles and toilet articles, other than of porcelain or china.",
+    "exports_usd": 10090,
+    "quantity": 6824,
+    "affected": "affected"
+  },
+  {
+    "hs": "22021010",
+    "sitc": "1",
+    "country": "VC",
+    "description": "Aerated waters, containing added sugar or other sweetening matter nor flavoured.",
+    "exports_usd": 9730,
+    "quantity": 12300,
+    "affected": "affected"
+  },
+  {
+    "hs": "76020000",
+    "sitc": "2",
+    "country": "VC",
+    "description": "Aluminium waste and scrap.",
+    "exports_usd": 8741,
+    "quantity": 60395,
+    "affected": "affected"
+  },
+  {
+    "hs": "90275000",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Other instruments and apparatus using optical radiations (UV, visible, IR).",
+    "exports_usd": 8443,
+    "quantity": 10,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099990",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Parts suitable for use solely or principally with compression-ignition internal combustion piston engines (diesel or semi-diesel engines), other than those for road motor vehicles or for marine craft.",
+    "exports_usd": 7193,
+    "quantity": 57,
+    "affected": "affected"
+  },
+  {
+    "hs": "94052000",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Electric table, desk, bedside or floor-standing lamps.",
+    "exports_usd": 6712,
+    "quantity": 83,
+    "affected": "affected"
+  },
+  {
+    "hs": "09103000",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Turmeric (curcuma).",
+    "exports_usd": 6489,
+    "quantity": 2970,
+    "affected": "affected"
+  },
+  {
+    "hs": "62114900",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ track suits and other garments, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or man-made fibres.",
+    "exports_usd": 6242,
+    "quantity": 2394,
+    "affected": "affected"
+  },
+  {
+    "hs": "97019000",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Collages and similar decorative plaques.",
+    "exports_usd": 5535,
+    "quantity": 150,
+    "affected": "affected"
+  },
+  {
+    "hs": "72044900",
+    "sitc": "2",
+    "country": "VC",
+    "description": "Other ferrous waste and scrap, not elsewhere specified or included.",
+    "exports_usd": 5031,
+    "quantity": 18000,
+    "affected": "affected"
+  },
+  {
+    "hs": "84128000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other engines and motors, not elsewhere specified or included.",
+    "exports_usd": 5031,
+    "quantity": 150,
+    "affected": "affected"
+  },
+  {
+    "hs": "84717000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Storage units.",
+    "exports_usd": 4481,
+    "quantity": 161,
+    "affected": "affected"
+  },
+  {
+    "hs": "88033000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other parts of aeroplanes or helicopters.",
+    "exports_usd": 4277,
+    "quantity": 172,
+    "affected": "affected"
+  },
+  {
+    "hs": "38159000",
+    "sitc": "5",
+    "country": "VC",
+    "description": "Reaction initiators, reaction accelerators and catalytic preparations, other than supported catalysts, not elsewhere specified or included.",
+    "exports_usd": 3698,
+    "quantity": 245,
+    "affected": "affected"
+  },
+  {
+    "hs": "62062010",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of wool or fine animal hair.",
+    "exports_usd": 3547,
+    "quantity": 47,
+    "affected": "affected"
+  },
+  {
+    "hs": "57024900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Carpets and other textile floor coverings, woven, not tufted or flocked, of pile construction, made up, of other textile materials.",
+    "exports_usd": 3530,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "62069010",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ blouses and shirt-blouses, not knitted or crocheted, of textile materials other than silk or silk waste, wool, fine animal hair, cotton or man-made fibres.",
+    "exports_usd": 3472,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "85365000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other switches, for a voltage not exceeding 1,000 volts.",
+    "exports_usd": 3385,
+    "quantity": 147,
+    "affected": "affected"
+  },
+  {
+    "hs": "96200000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Monopods, bipods, tripods and similar articles.",
+    "exports_usd": 3287,
+    "quantity": 40,
+    "affected": "affected"
+  },
+  {
+    "hs": "70134900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other glassware of a kind used for table (other than drinking glasses) or kitchen purposes, not elsewhere specified or included.",
+    "exports_usd": 3278,
+    "quantity": 99,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089990",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other parts and accessories for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 3087,
+    "quantity": 5457,
+    "affected": "affected"
+  },
+  {
+    "hs": "85198900",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other sound recording or reproducing apparatus, not using magnetic, optical or semiconductor media.",
+    "exports_usd": 3019,
+    "quantity": 10,
+    "affected": "affected"
+  },
+  {
+    "hs": "90221900",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Apparatus based on the use of X-rays, including radiography or radiotherapy apparatus, for uses other than medical, dental, surgical or veterinary.",
+    "exports_usd": 3019,
+    "quantity": 2213,
+    "affected": "affected"
+  },
+  {
+    "hs": "90189000",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Other instruments and appliances used in medical, surgical or veterinary sciences.",
+    "exports_usd": 2773,
+    "quantity": 615,
+    "affected": "affected"
+  },
+  {
+    "hs": "03079110",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Conch live, fresh or chilled",
+    "exports_usd": 2704,
+    "quantity": 500,
+    "affected": "affected"
+  },
+  {
+    "hs": "03061200",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Lobsters (homarus spp.), frozen.",
+    "exports_usd": 2667,
+    "quantity": 364,
+    "affected": "affected"
+  },
+  {
+    "hs": "62046910",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ trousers and shorts, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 2616,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "84152000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Air conditioning machines of a kind used for persons, in motor vehicles.",
+    "exports_usd": 2610,
+    "quantity": 18,
+    "affected": "affected"
+  },
+  {
+    "hs": "62044200",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ dresses, not knitted or crocheted, of cotton.",
+    "exports_usd": 2609,
+    "quantity": 12,
+    "affected": "affected"
+  },
+  {
+    "hs": "88024000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg.",
+    "exports_usd": 2593,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "63079090",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other made up articles, not elsewhere specified or included.",
+    "exports_usd": 2507,
+    "quantity": 151,
+    "affected": "affected"
+  },
+  {
+    "hs": "21039090",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other sauces and preparations therefor; other mixed condiments and mixed seasonings.",
+    "exports_usd": 2437,
+    "quantity": 90,
+    "affected": "affected"
+  },
+  {
+    "hs": "82055900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other hand tools (including glaziers’ diamonds), not elsewhere specified or included.",
+    "exports_usd": 2099,
+    "quantity": 370,
+    "affected": "affected"
+  },
+  {
+    "hs": "85258000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Television cameras, digital cameras and video camera recorders.",
+    "exports_usd": 2073,
+    "quantity": 55,
+    "affected": "affected"
+  },
+  {
+    "hs": "84672100",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Drills of all kinds, for working in the hand, with self-contained electric motor.",
+    "exports_usd": 2003,
+    "quantity": 94,
+    "affected": "affected"
+  },
+  {
+    "hs": "33049990",
+    "sitc": "5",
+    "country": "VC",
+    "description": "Other beauty or make-up preparations and preparations for the care of the skin (other than medicaments).",
+    "exports_usd": 1976,
+    "quantity": 41,
+    "affected": "affected"
+  },
+  {
+    "hs": "85489000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Electrical parts of machinery or apparatus, not elsewhere specified or included.",
+    "exports_usd": 1970,
+    "quantity": 8318,
+    "affected": "affected"
+  },
+  {
+    "hs": "84439900",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Parts and accessories of other printers, copying machines and facsimile machines, whether or not combined.",
+    "exports_usd": 1828,
+    "quantity": 59,
+    "affected": "affected"
+  },
+  {
+    "hs": "85013100",
+    "sitc": "7",
+    "country": "VC",
+    "description": "DC motors of an output exceeding 37.5 W but not exceeding 750 W; DC generators of an output not exceeding 750 W.",
+    "exports_usd": 1813,
+    "quantity": 3503,
+    "affected": "affected"
+  },
+  {
+    "hs": "87089190",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Radiators and parts thereof, for the motor vehicles of headings 87.02 to 87.05 (SITC 781, 782 and 783.1).",
+    "exports_usd": 1787,
+    "quantity": 4684,
+    "affected": "affected"
+  },
+  {
+    "hs": "90148000",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Other navigational instruments and appliances.",
+    "exports_usd": 1736,
+    "quantity": 17,
+    "affected": "affected"
+  },
+  {
+    "hs": "62045900",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Women’s or girls’ skirts and divided skirts, not knitted or crocheted, of textile materials other than wool, fine animal hair, cotton or synthetic fibres.",
+    "exports_usd": 1635,
+    "quantity": 1,
+    "affected": "affected"
+  },
+  {
+    "hs": "84713000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display.",
+    "exports_usd": 1610,
+    "quantity": 28,
+    "affected": "affected"
+  },
+  {
+    "hs": "19049000",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included.",
+    "exports_usd": 1570,
+    "quantity": 11,
+    "affected": "affected"
+  },
+  {
+    "hs": "12122900",
+    "sitc": "2",
+    "country": "VC",
+    "description": "Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, (other than for human consumption).",
+    "exports_usd": 1559,
+    "quantity": 57,
+    "affected": "affected"
+  },
+  {
+    "hs": "84714100",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other automatic data processing machines, comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined.",
+    "exports_usd": 1509,
+    "quantity": 6,
+    "affected": "affected"
+  },
+  {
+    "hs": "35061000",
+    "sitc": "5",
+    "country": "VC",
+    "description": "Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",
+    "exports_usd": 1492,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "85256000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Transmission apparatus for radio-broadcasting or television, incorporating reception apparatus.",
+    "exports_usd": 1449,
+    "quantity": 194,
+    "affected": "affected"
+  },
+  {
+    "hs": "17049090",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Sugar confectionery (including white chocolate and excluding chewing gums (whether or not sugar-coated) and guava cheese), not containing cocoa.",
+    "exports_usd": 1376,
+    "quantity": 36,
+    "affected": "affected"
+  },
+  {
+    "hs": "95030090",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Other toys.",
+    "exports_usd": 1302,
+    "quantity": 194,
+    "affected": "affected"
+  },
+  {
+    "hs": "82060010",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Household tools, put up in sets for retail sale.",
+    "exports_usd": 1293,
+    "quantity": 410,
+    "affected": "affected"
+  },
+  {
+    "hs": "15131900",
+    "sitc": "4",
+    "country": "VC",
+    "description": "Coconut (copra) oil (other than crude) and its fractions thereof, whether or not refined, but not chemically modified.",
+    "exports_usd": 1234,
+    "quantity": 29,
+    "affected": "affected"
+  },
+  {
+    "hs": "73269090",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other articles of iron or steel, not elsewhere specified or included.",
+    "exports_usd": 1211,
+    "quantity": 374,
+    "affected": "affected"
+  },
+  {
+    "hs": "20079990",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Other jams, jellies and marmalades, obtained by cooking, whether or not containing sugar or other sweetening matter.",
+    "exports_usd": 1208,
+    "quantity": 29,
+    "affected": "affected"
+  },
+  {
+    "hs": "12119090",
+    "sitc": "2",
+    "country": "VC",
+    "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered, other than ginseng roots, coca leaf,",
+    "exports_usd": 1107,
+    "quantity": 60,
+    "affected": "affected"
+  },
+  {
+    "hs": "85287200",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Other reception apparatus for television, colour.",
+    "exports_usd": 1105,
+    "quantity": 78,
+    "affected": "affected"
+  },
+  {
+    "hs": "84672900",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Tools (other than drills or saws) for working in the hand, with self-contained electric motor.",
+    "exports_usd": 1071,
+    "quantity": 269,
+    "affected": "affected"
+  },
+  {
+    "hs": "40103900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other transmission belts or belting, of vulcanised rubber, not elsewhere specified or included.",
+    "exports_usd": 1057,
+    "quantity": 28,
+    "affected": "affected"
+  },
+  {
+    "hs": "85171290",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Telephones for cellular networks or for other wireless networks, other than portable radio-telephones.",
+    "exports_usd": 1006,
+    "quantity": 5,
+    "affected": "affected"
+  },
+  {
+    "hs": "88051000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Aircraft launching gear and parts thereof; deck-arrestor or similar gear and parts thereof.",
+    "exports_usd": 1006,
+    "quantity": 79,
+    "affected": "affected"
+  },
+  {
+    "hs": "85044000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Static converters (for example rectifiers).",
+    "exports_usd": 979,
+    "quantity": 59,
+    "affected": "affected"
+  },
+  {
+    "hs": "01061910",
+    "sitc": "0",
+    "country": "VC",
+    "description": "Live dogs",
+    "exports_usd": 970,
+    "quantity": 502,
+    "affected": "affected"
+  },
+  {
+    "hs": "22042990",
+    "sitc": "1",
+    "country": "VC",
+    "description": "Wine (other than sparkling wine), in containers holding more than 2 litres.",
+    "exports_usd": 932,
+    "quantity": 70,
+    "affected": "affected"
+  },
+  {
+    "hs": "82023900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Circular saw blades (including slitting or slotting saw blades), with working part of materials other than steel; parts for circular saw blades.",
+    "exports_usd": 909,
+    "quantity": 14,
+    "affected": "affected"
+  },
+  {
+    "hs": "84099120",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Parts suitable for use solely or principally with spark-ignition internal combustion piston engines for marine craft.",
+    "exports_usd": 906,
+    "quantity": 246,
+    "affected": "affected"
+  },
+  {
+    "hs": "69111010",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Tableware, of porcelain or china.",
+    "exports_usd": 863,
+    "quantity": 20,
+    "affected": "affected"
+  },
+  {
+    "hs": "94037090",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Furniture of plastics, other than of a kind used in offices, schools, churches and laboratories.",
+    "exports_usd": 806,
+    "quantity": 151,
+    "affected": "affected"
+  },
+  {
+    "hs": "85183000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers.",
+    "exports_usd": 774,
+    "quantity": 52,
+    "affected": "affected"
+  },
+  {
+    "hs": "84615000",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Sawing or cutting-off machines for metal or cermets.",
+    "exports_usd": 767,
+    "quantity": 4,
+    "affected": "affected"
+  },
+  {
+    "hs": "90314900",
+    "sitc": "8",
+    "country": "VC",
+    "description": "Other optical instruments and appliance, not elsewhere specified or included.",
+    "exports_usd": 764,
+    "quantity": 3,
+    "affected": "affected"
+  },
+  {
+    "hs": "87149100",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Frames and forks, and parts thereof, for bicycles and other non-motorised cycles, and for cycles fitted with an auxilliary motor.",
+    "exports_usd": 755,
+    "quantity": 55,
+    "affected": "affected"
+  },
+  {
+    "hs": "82041200",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Hand-operated spanners and wrenches, adjustable.",
+    "exports_usd": 706,
+    "quantity": 6,
+    "affected": "affected"
+  },
+  {
+    "hs": "84671900",
+    "sitc": "7",
+    "country": "VC",
+    "description": "Pneumatic tools for working in the hand (other than rotary type).",
+    "exports_usd": 683,
+    "quantity": 47,
+    "affected": "affected"
+  },
+  {
+    "hs": "83024900",
+    "sitc": "6",
+    "country": "VC",
+    "description": "Other mountings, fittings and similar articles of base metal, suitable for coachwork, saddlery, trunks, chests, caskets or the like.",
+    "exports_usd": 667,
+    "quantity": 100,
+    "affected": "affected"
+  }
+]
