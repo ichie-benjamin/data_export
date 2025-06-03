@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exports Visualization</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/flowbite@1.6.5/dist/flowbite.min.css" rel="stylesheet" />
+</head>
+<body class="bg-gray-50">
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold mb-6">Exports Visualization</h1>
+        <div id="countryChart" class="mb-8"></div>
+        <div id="sitcChart" class="mb-8"></div>
+        <div class="mb-4">
+            <label for="countrySelect" class="block mb-2 text-sm font-medium text-gray-900">Select Country</label>
+            <select id="countrySelect" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-40 p-2.5"></select>
+        </div>
+        <div id="topHsChart" class="mb-8"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://unpkg.com/flowbite@1.6.5/dist/flowbite.min.js"></script>
+    <script>
+        const files = [
+            'antigua.json','barbados.json','belize.json','caricom.json','dominica.json',
+            'grenada.json','guyana.json','jamaica.json','oecs.json','st_kitts.json',
+            'st_lucia.json','st_vincent.json','suriname.json','tt.json'
+        ];
+
+        async function loadData() {
+            const allData = [];
+            for (const f of files) {
+                const res = await fetch('cleaned_data/' + f);
+                const json = await res.json();
+                allData.push(...json);
+            }
+            return allData;
+        }
+
+        function aggregate(data) {
+            const countryTotals = {};
+            const sitcTotals = {};
+            const countryData = {};
+            for (const r of data) {
+                if (r.sitc) {
+                    sitcTotals[r.sitc] = (sitcTotals[r.sitc] || 0) + Number(r.exports_usd || 0);
+                }
+                if (r.country) {
+                    countryTotals[r.country] = (countryTotals[r.country] || 0) + Number(r.exports_usd || 0);
+                    if (!countryData[r.country]) countryData[r.country] = [];
+                    countryData[r.country].push(r);
+                }
+            }
+            return {countryTotals, sitcTotals, countryData};
+        }
+
+        function renderCountryChart(totals) {
+            const codes = Object.keys(totals);
+            const values = codes.map(c => totals[c]);
+            const options = {
+                chart: {type: 'bar', height: 350},
+                series: [{name: 'Exports USD', data: values}],
+                xaxis: {categories: codes}
+            };
+            new ApexCharts(document.querySelector('#countryChart'), options).render();
+        }
+
+        function renderSitcChart(totals) {
+            const keys = Object.keys(totals);
+            const values = keys.map(k => totals[k]);
+            const options = {
+                chart: {type: 'donut', height: 350},
+                series: values,
+                labels: keys
+            };
+            new ApexCharts(document.querySelector('#sitcChart'), options).render();
+        }
+
+        function renderCountrySelect(countryData) {
+            const select = document.getElementById('countrySelect');
+            const codes = Object.keys(countryData);
+            codes.forEach(c => {
+                const opt = document.createElement('option');
+                opt.value = c;
+                opt.textContent = c;
+                select.appendChild(opt);
+            });
+            select.addEventListener('change', () => {
+                renderCountryDetail(countryData, select.value);
+            });
+            if (codes.length > 0) {
+                select.value = codes[0];
+                renderCountryDetail(countryData, codes[0]);
+            }
+        }
+
+        function renderCountryDetail(countryData, code) {
+            const arr = (countryData[code] || []).slice();
+            arr.sort((a,b) => Number(b.exports_usd) - Number(a.exports_usd));
+            const top = arr.slice(0, 5);
+            const options = {
+                chart: {type: 'bar', height: 350},
+                series: [{name: 'Exports USD', data: top.map(r => r.exports_usd)}],
+                xaxis: {categories: top.map(r => r.hs)}
+            };
+            document.querySelector('#topHsChart').innerHTML = '';
+            new ApexCharts(document.querySelector('#topHsChart'), options).render();
+        }
+
+        loadData().then(data => {
+            const {countryTotals, sitcTotals, countryData} = aggregate(data);
+            renderCountryChart(countryTotals);
+            renderSitcChart(sitcTotals);
+            renderCountrySelect(countryData);
+        });
+    </script>
+</body>
+</html>
